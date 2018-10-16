@@ -1,2 +1,2 @@
 # legendas
-Legendas do https;//furiaflix.top
+Legendas do https://furiaflix.top
