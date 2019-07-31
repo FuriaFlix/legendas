@@ -26,43 +26,43 @@ BEM-VINDO A NOVA ASGARD
 
 7
 00:54:33,447 --> 00:54:36,450
-… ele! Ele veio atr·s de Akihiko!
+√â ele! Ele veio atr√°s de Akihiko!
 
 8
 00:55:03,185 --> 00:55:05,354
-Por que est· fazendo isso?
+Por que est√° fazendo isso?
 
 9
 00:55:06,980 --> 00:55:08,648
-Nunca fizemos nada contra vocÍ!
+Nunca fizemos nada contra voc√™!
 
 10
 00:55:09,066 --> 00:55:10,275
-VocÍs sobreviveram...
+Voc√™s sobreviveram...
 
 11
 00:55:10,567 --> 00:55:12,402
-Metade do planeta, n„o.
+Metade do planeta, n√£o.
 
 12
 00:55:12,903 --> 00:55:14,321
 Eles tiveram Thanos.
-
+ 
 13
 00:55:14,905 --> 00:55:15,906
-VocÍs tÍm a mim...
+Voc√™s t√™m a mim...
 
 14
 00:55:21,161 --> 00:55:23,205
-N„o v„o mais machucar pessoas.
+N√£o v√£o mais machucar pessoas.
 
 15
 00:55:24,289 --> 00:55:26,375
-N”S machucamos pessoas?
+N√ìS machucamos pessoas?
 
 16
 00:55:29,961 --> 00:55:30,837
-VocÍ est· louco!
+Voc√™ est√° louco!
 
 17
 00:56:01,118 --> 00:56:02,119
@@ -70,16 +70,16 @@ Espere! Ajude-me!
 
 18
 00:56:03,537 --> 00:56:05,080
-Eu posso dar qualquer coisa para vocÍ!
+Eu posso dar qualquer coisa para voc√™!
 
 19
 00:56:06,331 --> 00:56:07,457
-O que vocÍ quer?
+O que voc√™ quer?
 
 20
 01:01:48,965 --> 01:01:50,092
 ASSALTO NO TEMPO
-SESS√O DE<i> BRAINSTORMING</i>
+SESS√ÉO DE<i> BRAINSTORMING</i>
 
 21
 01:02:41,184 --> 01:02:43,645
@@ -100,7 +100,7 @@ JOIA DO TEMPO
 25
 01:39:10,165 --> 01:39:15,879
 BASE LEHIGH
-LOCAL DE NASCIMENTO DO CAPIT√O AM…RICA
+LOCAL DE NASCIMENTO DO CAPIT√ÉO AM√âRICA
 
 26
 01:44:13,927 --> 01:44:15,846
@@ -114,5 +114,5 @@ PORTAL ABERTO ORIGEM 2014
 28
 02:37:19,613 --> 02:37:26,578
 PROVA DE QUE TONY STARK
-TEM CORA«√O
+TEM CORA√á√ÉO
 
