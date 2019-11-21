@@ -4,7 +4,7 @@
 
 2
 00:00:01,507 --> 00:00:03,084
-Como isso é real?
+Como isso Ã© real?
 
 3
 00:00:03,085 --> 00:00:05,528
@@ -14,7 +14,7 @@ Como isso é real?
 4
 00:00:05,529 --> 00:00:08,170
 - Estou trabalhando nisso.
-<i>- Olá, esconderijo!</i>
+<i>- OlÃ¡, esconderijo!</i>
 
 5
 00:00:08,171 --> 00:00:10,583
@@ -23,7 +23,7 @@ a artilharia pesada?
 
 6
 00:00:10,584 --> 00:00:13,218
-Terra-2 foi destruída
+Terra-2 foi destruÃ­da
 por uma onda de energia.
 
 7
@@ -39,37 +39,37 @@ para impedir um deus.
 9
 00:00:17,163 --> 00:00:19,518
 posso replicar,
-mas tem uma complicação.
+mas tem uma complicaÃ§Ã£o.
 
 10
 00:00:19,519 --> 00:00:22,176
-É super ilegal,
-porque requer plutônio.
+Ã‰ super ilegal,
+porque requer plutÃ´nio.
 
 11
 00:00:22,177 --> 00:00:24,708
-- Mas conheço um cara.
-- Certo, onde ele está?
+- Mas conheÃ§o um cara.
+- Certo, onde ele estÃ¡?
 
 12
 00:00:24,709 --> 00:00:26,739
-- Rússia.
+- RÃºssia.
 - Pode recuperar minha Terra?
 
 13
 00:00:26,740 --> 00:00:30,558
 Recuperar seu universo
-exigirá uma única tarefa.
+exigirÃ¡ uma Ãºnica tarefa.
 
 14
 00:00:30,952 --> 00:00:33,724
-Você tem que trair
+VocÃª tem que trair
 Oliver Queen.
 
 15
 00:00:40,333 --> 00:00:42,833
-Então esse é o segredo,
-uma bola de tênis.
+EntÃ£o esse Ã© o segredo,
+uma bola de tÃªnis.
 
 16
 00:00:42,834 --> 00:00:46,233
@@ -78,7 +78,7 @@ como uma faca de um chef?
 
 17
 00:00:46,234 --> 00:00:47,484
-Não sei cozinhar.
+NÃ£o sei cozinhar.
 
 18
 00:00:48,172 --> 00:00:49,362
@@ -86,12 +86,12 @@ Faz sentido.
 
 19
 00:00:50,378 --> 00:00:52,476
-Fazer isso o manterá afiada.
+Fazer isso o manterÃ¡ afiada.
 
 20
 00:00:52,477 --> 00:00:56,489
 Um disparo direto e preciso
-fixará a bola.
+fixarÃ¡ a bola.
 
 21
 00:00:56,490 --> 00:00:58,975
@@ -109,11 +109,11 @@ Ela desvia.
 
 24
 00:01:14,249 --> 00:01:15,835
-Achei que fosse mais difícil.
+Achei que fosse mais difÃ­cil.
 
 25
 00:01:15,836 --> 00:01:17,435
-Só foi o aquecimento.
+SÃ³ foi o aquecimento.
 
 26
 00:01:20,267 --> 00:01:21,567
@@ -126,7 +126,7 @@ Pronta?
 28
 00:01:24,730 --> 00:01:28,619
 Cada flecha especial
-tem um propósito específico.
+tem um propÃ³sito especÃ­fico.
 
 29
 00:01:28,620 --> 00:01:29,833
@@ -135,7 +135,7 @@ O que essa faz?
 30
 00:01:29,834 --> 00:01:31,831
 <i>Flecha explosiva,
-carga útil mais leve,</i>
+carga Ãºtil mais leve,</i>
 
 31
 00:01:31,832 --> 00:01:33,667
@@ -143,7 +143,7 @@ carga útil mais leve,</i>
 
 32
 00:01:45,311 --> 00:01:48,395
-<i>Flecha ácida,
+<i>Flecha Ã¡cida,
 destinada a romper secretamente,</i>
 
 33
@@ -157,7 +157,7 @@ para se proteger e atacar.</i>
 
 35
 00:02:00,926 --> 00:02:02,796
-<i>Todas são apenas ferramentas.</i>
+<i>Todas sÃ£o apenas ferramentas.</i>
 
 36
 00:02:02,797 --> 00:02:05,699
@@ -166,7 +166,7 @@ acabam se tornando muletas.</i>
 
 37
 00:02:06,643 --> 00:02:08,243
-Por que então usá-las?
+Por que entÃ£o usÃ¡-las?
 
 38
 00:02:08,244 --> 00:02:10,093
@@ -183,7 +183,7 @@ Nada mal.
 
 41
 00:02:31,720 --> 00:02:33,168
-Qual a próxima lição?
+Qual a prÃ³xima liÃ§Ã£o?
 
 42
 00:02:33,169 --> 00:02:35,619
@@ -192,7 +192,7 @@ Qual a próxima lição?
 
 43
 00:02:35,620 --> 00:02:38,120
-<font color=#008040>»- Equipe Archers -»</font>
+<font color=#008040>Â»- Equipe Archers -Â»</font>
 gabrielzevedo l gerson
 
 44
@@ -205,7 +205,7 @@ Nyssa te ensinou bem.
 
 46
 00:02:47,820 --> 00:02:49,146
-Minha mãe garantiu isso.
+Minha mÃ£e garantiu isso.
 
 47
 00:02:55,350 --> 00:02:56,422
@@ -213,12 +213,12 @@ Como fez isso?
 
 48
 00:02:56,423 --> 00:02:57,846
-Aceleração variável.
+AceleraÃ§Ã£o variÃ¡vel.
 
 49
 00:02:57,847 --> 00:02:59,847
-Está bem?
-É tudo sobre o tempo.
+EstÃ¡ bem?
+Ã‰ tudo sobre o tempo.
 
 50
 00:02:59,848 --> 00:03:01,568
@@ -235,16 +235,16 @@ Certo, vamos de novo.
 
 53
 00:03:04,927 --> 00:03:06,986
-Não quer descansar um pouco?
+NÃ£o quer descansar um pouco?
 
 54
 00:03:06,987 --> 00:03:09,663
-Ela é uma máquina,
-não precisa de pausas.
+Ela Ã© uma mÃ¡quina,
+nÃ£o precisa de pausas.
 
 55
 00:03:09,664 --> 00:03:11,656
-E por falar em máquinas,
+E por falar em mÃ¡quinas,
 preciso mostrar algo.
 
 56
@@ -259,17 +259,17 @@ que Curtis falou.
 
 58
 00:03:16,586 --> 00:03:20,201
-Foi mais difícil do que parece,
+Foi mais difÃ­cil do que parece,
 sem ofender a Felicity,
 
 59
 00:03:20,202 --> 00:03:22,509
 mas esses computadores
-têm um milhão de anos.
+tÃªm um milhÃ£o de anos.
 
 60
 00:03:22,510 --> 00:03:24,084
-E a Rússia é um país
+E a RÃºssia Ã© um paÃ­s
 muito grande.
 
 61
@@ -279,8 +279,8 @@ muito grande.
 
 62
 00:03:25,827 --> 00:03:29,537
-O nome dele é Alexi Burov,
-e está em Moscou.
+O nome dele Ã© Alexi Burov,
+e estÃ¡ em Moscou.
 
 63
 00:03:29,538 --> 00:03:32,757
@@ -290,7 +290,7 @@ energia que destruiu a Terra-2
 64
 00:03:32,758 --> 00:03:35,341
 pode ser replicada, significa
-que podemos usá-la como arma.
+que podemos usÃ¡-la como arma.
 
 65
 00:03:35,342 --> 00:03:37,349
@@ -309,16 +309,16 @@ Gerador de ondas de pulso.
 68
 00:03:41,388 --> 00:03:44,557
 - Certo, precisamos disso.
-- E do plutônio.
+- E do plutÃ´nio.
 
 69
 00:03:44,558 --> 00:03:46,682
-É a única coisa
+Ã‰ a Ãºnica coisa
 que pode alimentar essa arma.
 
 70
 00:03:46,683 --> 00:03:49,195
-Plutônio como em uma
+PlutÃ´nio como em uma
 bomba nuclear?
 
 71
@@ -331,32 +331,32 @@ Onde conseguiremos isso?
 
 73
 00:03:52,512 --> 00:03:54,325
-Há uma instalação
+HÃ¡ uma instalaÃ§Ã£o
 perto da fronteira
 
 74
 00:03:54,326 --> 00:03:57,202
 onde todos os tipos de material
-radioativo são armazenados.
+radioativo sÃ£o armazenados.
 
 75
 00:03:57,203 --> 00:03:59,377
-Uma dupla é o suficiente
+Uma dupla Ã© o suficiente
 para o trabalho.
 
 76
 00:03:59,378 --> 00:04:01,137
 - Certo, vai com o Connor?
-- Não.
+- NÃ£o.
 
 77
 00:04:01,138 --> 00:04:03,310
 Na verdade, ele foi ver
-como estava a mãe,
+como estava a mÃ£e,
 
 78
 00:04:03,311 --> 00:04:04,661
-mas prometeu não ser visto.
+mas prometeu nÃ£o ser visto.
 
 79
 00:04:04,662 --> 00:04:06,468
@@ -365,12 +365,12 @@ para ajudar.
 
 80
 00:04:07,085 --> 00:04:10,423
-Gostaria que vocês dois
-nos acompanhassem na Rússia.
+Gostaria que vocÃªs dois
+nos acompanhassem na RÃºssia.
 
 81
 00:04:11,415 --> 00:04:13,290
-- Está bem?
+- EstÃ¡ bem?
 - Sim.
 
 82
@@ -383,11 +383,11 @@ Melhor ir comprar uma parca.
 
 84
 00:04:17,250 --> 00:04:19,563
-Na Rússia é tão frio assim?
+Na RÃºssia Ã© tÃ£o frio assim?
 
 85
 00:04:20,060 --> 00:04:22,042
-Não perde por esperar.
+NÃ£o perde por esperar.
 
 86
 00:04:25,923 --> 00:04:28,029
@@ -397,7 +397,7 @@ com eles.
 87
 00:04:28,030 --> 00:04:30,717
 Nunca achei que iria
-conhecê-los, e gostei disso.
+conhecÃª-los, e gostei disso.
 
 88
 00:04:30,718 --> 00:04:32,292
@@ -410,18 +410,18 @@ treinando-a,
 
 90
 00:04:36,988 --> 00:04:40,724
-e acho que é importante verem
+e acho que Ã© importante verem
 como agimos em campo.
 
 91
 00:04:40,725 --> 00:04:43,874
-Tem certeza de que a Rússia
-é o lugar certo para ensiná-los?
+Tem certeza de que a RÃºssia
+Ã© o lugar certo para ensinÃ¡-los?
 
 92
 00:04:43,875 --> 00:04:46,965
-- Esteve lá em uma época sombria.
-- Foi há muito tempo.
+- Esteve lÃ¡ em uma Ã©poca sombria.
+- Foi hÃ¡ muito tempo.
 
 93
 00:04:47,899 --> 00:04:50,841
@@ -429,7 +429,7 @@ Sou um homem melhor, diferente.
 
 94
 00:04:51,544 --> 00:04:54,303
-Acho que posso ensiná-los
+Acho que posso ensinÃ¡-los
 sem lhes mostrar o mal.
 
 95
@@ -438,7 +438,7 @@ Espero que sim.
 
 96
 00:05:08,471 --> 00:05:10,016
-O que está fazendo aqui?
+O que estÃ¡ fazendo aqui?
 
 97
 00:05:10,017 --> 00:05:11,963
@@ -447,13 +447,13 @@ me enviou.
 
 98
 00:05:13,477 --> 00:05:17,024
-Está trabalhando com o Monitor.
-Por quê?
+EstÃ¡ trabalhando com o Monitor.
+Por quÃª?
 
 99
 00:05:17,025 --> 00:05:18,430
-- É complicado.
-- Sério?
+- Ã‰ complicado.
+- SÃ©rio?
 
 100
 00:05:18,431 --> 00:05:21,783
@@ -462,12 +462,12 @@ parece bem direto para mim.
 
 101
 00:05:21,784 --> 00:05:23,284
-Não foi ele.
+NÃ£o foi ele.
 
 102
 00:05:23,285 --> 00:05:26,246
-Está tentando salvar os mundos,
-não os destruir.
+EstÃ¡ tentando salvar os mundos,
+nÃ£o os destruir.
 
 103
 00:05:26,624 --> 00:05:28,743
@@ -480,24 +480,24 @@ Deveria ter desconfiado.
 
 105
 00:05:33,061 --> 00:05:34,745
-Eu não estava fingindo.
+Eu nÃ£o estava fingindo.
 
 106
 00:05:35,606 --> 00:05:38,389
-É difícil de acreditar, Lyla,
+Ã‰ difÃ­cil de acreditar, Lyla,
 depois dessa mentira.
 
 107
 00:05:38,390 --> 00:05:40,998
-Não importa no que acredita.
+NÃ£o importa no que acredita.
 
 108
 00:05:41,834 --> 00:05:44,264
-Assim como eu, está aqui.
+Assim como eu, estÃ¡ aqui.
 
 109
 00:05:45,332 --> 00:05:47,903
-Quer recuperar sua Terra ou não?
+Quer recuperar sua Terra ou nÃ£o?
 
 110
 00:05:48,856 --> 00:05:50,254
@@ -505,7 +505,7 @@ O que ele quer?
 
 111
 00:05:50,255 --> 00:05:52,047
-Oliver está indo para a Rússia.
+Oliver estÃ¡ indo para a RÃºssia.
 
 112
 00:05:52,048 --> 00:05:54,137
@@ -514,7 +514,7 @@ de uma arma.
 
 113
 00:05:54,779 --> 00:05:56,005
-Precisa detê-lo.
+Precisa detÃª-lo.
 
 114
 00:05:56,006 --> 00:05:57,962
@@ -523,12 +523,12 @@ seu amigo.
 
 115
 00:05:57,963 --> 00:06:01,962
-Ele é, mas isso é maior que ele,
-maior do que qualquer um de nós.
+Ele Ã©, mas isso Ã© maior que ele,
+maior do que qualquer um de nÃ³s.
 
 116
 00:06:02,522 --> 00:06:04,680
-Seja lá o que o Monitor
+Seja lÃ¡ o que o Monitor
 te ofereceu deve ser
 
 117
@@ -539,7 +539,7 @@ trair todos que se preocupa.
 118
 00:06:08,221 --> 00:06:11,832
 Estou fazendo isso por eles,
-para protegê-los.
+para protegÃª-los.
 
 119
 00:06:13,857 --> 00:06:15,207
@@ -557,7 +557,7 @@ quando estiver pronta.
 122
 00:06:21,595 --> 00:06:24,143
 E achei que eu deveria
-ser a vilã.
+ser a vilÃ£.
 
 123
 00:06:33,831 --> 00:06:36,513
@@ -584,7 +584,7 @@ Ele te encontrou.
 128
 00:06:51,400 --> 00:06:53,788
 O filho de Oliver
-não tem 13 anos?
+nÃ£o tem 13 anos?
 
 129
 00:06:54,809 --> 00:06:55,857
@@ -592,16 +592,16 @@ Sim.
 
 130
 00:06:56,658 --> 00:06:58,562
-É uma longa história.
+Ã‰ uma longa histÃ³ria.
 
 131
 00:06:58,563 --> 00:07:01,578
-Tenho a sensação de que não veio
-até aqui só para me atualizar.
+Tenho a sensaÃ§Ã£o de que nÃ£o veio
+atÃ© aqui sÃ³ para me atualizar.
 
 132
 00:07:01,579 --> 00:07:02,579
-Não.
+NÃ£o.
 
 133
 00:07:03,285 --> 00:07:04,618
@@ -609,7 +609,7 @@ Preciso de sua ajuda, Roy.
 
 134
 00:07:04,619 --> 00:07:07,149
-Seja lá o que for, não posso.
+Seja lÃ¡ o que for, nÃ£o posso.
 Desculpa.
 
 135
@@ -619,7 +619,7 @@ a dizer, cara.
 
 136
 00:07:08,677 --> 00:07:10,158
-Porque não preciso.
+Porque nÃ£o preciso.
 
 137
 00:07:10,609 --> 00:07:12,214
@@ -627,33 +627,33 @@ Sabe o que fiz.
 
 138
 00:07:12,817 --> 00:07:14,745
-Não sou mais
-um herói, John,
+NÃ£o sou mais
+um herÃ³i, John,
 
 139
 00:07:15,288 --> 00:07:18,807
-- não com minha condição.
-- Então vai me abandonar,
+- nÃ£o com minha condiÃ§Ã£o.
+- EntÃ£o vai me abandonar,
 
 140
 00:07:19,649 --> 00:07:21,538
 - igual fez com Thea?
-- Não.
+- NÃ£o.
 
 141
 00:07:21,539 --> 00:07:24,473
-Thea disse a Oliver que você saiu,
+Thea disse a Oliver que vocÃª saiu,
 cara, sem sequer dizer adeus.
 
 142
 00:07:24,474 --> 00:07:27,465
 Foi o melhor
-para nós dois.
+para nÃ³s dois.
 
 143
 00:07:27,466 --> 00:07:30,264
-Eu precisava de um novo começo,
-que é o que estou fazendo agora.
+Eu precisava de um novo comeÃ§o,
+que Ã© o que estou fazendo agora.
 
 144
 00:07:31,018 --> 00:07:32,233
@@ -661,7 +661,7 @@ Certo...
 
 145
 00:07:32,804 --> 00:07:34,574
-Foi bom ver você, John.
+Foi bom ver vocÃª, John.
 
 146
 00:07:35,661 --> 00:07:36,820
@@ -673,34 +673,34 @@ Olha, cara,
 
 148
 00:07:39,250 --> 00:07:41,550
-sei que no início deste ano
-foi uma luta para você,
+sei que no inÃ­cio deste ano
+foi uma luta para vocÃª,
 
 149
 00:07:41,551 --> 00:07:45,678
-mas esta crise é uma ameaça maior
-de tudo que já enfrentamos.
+mas esta crise Ã© uma ameaÃ§a maior
+de tudo que jÃ¡ enfrentamos.
 
 150
 00:07:47,026 --> 00:07:48,734
-Eu não estaria aqui, cara,
+Eu nÃ£o estaria aqui, cara,
 
 151
 00:07:49,192 --> 00:07:51,060
-se não precisássemos de você.
+se nÃ£o precisÃ¡ssemos de vocÃª.
 
 152
 00:07:53,179 --> 00:07:54,996
-Se eu decidir ajudá-lo,
+Se eu decidir ajudÃ¡-lo,
 
 153
 00:07:55,401 --> 00:07:57,941
-- vai ser uma coisa única.
-- É tudo que peço.
+- vai ser uma coisa Ãºnica.
+- Ã‰ tudo que peÃ§o.
 
 154
 00:08:00,289 --> 00:08:02,223
-Espero que não se importe, mas...
+Espero que nÃ£o se importe, mas...
 
 155
 00:08:04,248 --> 00:08:06,540
@@ -708,8 +708,8 @@ Eu trouxe uma roupa diferente.
 
 156
 00:08:13,630 --> 00:08:17,178
-- Então aqui é a Rússia.
-- Não era o que esperava?
+- EntÃ£o aqui Ã© a RÃºssia.
+- NÃ£o era o que esperava?
 
 157
 00:08:17,622 --> 00:08:19,998
@@ -718,12 +718,12 @@ menos sujeira.
 
 158
 00:08:19,999 --> 00:08:23,424
-É muito rude para insultar
+Ã‰ muito rude para insultar
 a terra natal do homem.
 
 159
 00:08:24,202 --> 00:08:25,707
-Olá, Anatoly.
+OlÃ¡, Anatoly.
 
 160
 00:08:30,021 --> 00:08:31,610
@@ -731,7 +731,7 @@ Oliver Queen...
 
 161
 00:08:33,263 --> 00:08:34,506
-Meu irmão.
+Meu irmÃ£o.
 
 162
 00:08:34,507 --> 00:08:36,775
@@ -740,11 +740,11 @@ eu te soque de novo?
 
 163
 00:08:36,776 --> 00:08:38,569
-Nunca passou pela minha cabeça.
+Nunca passou pela minha cabeÃ§a.
 
 164
 00:08:39,101 --> 00:08:42,998
-Bem-vindo à Rússia,
+Bem-vindo Ã  RÃºssia,
 meu americano favorito.
 
 165
@@ -753,7 +753,7 @@ meu americano favorito.
 
 166
 00:08:46,464 --> 00:08:49,560
-Eu já vi algumas coisas
+Eu jÃ¡ vi algumas coisas
 muito loucas na minha vida,
 
 167
@@ -763,31 +763,31 @@ de Oliver Queen no meu bar...
 
 168
 00:08:53,752 --> 00:08:55,538
-Espero que não pensem
+Espero que nÃ£o pensem
 mal de mim.
 
 169
 00:08:55,539 --> 00:08:57,723
-Última vez que nos conhecemos
-você era pequeno
+Ãšltima vez que nos conhecemos
+vocÃª era pequeno
 
 170
 00:08:57,724 --> 00:09:00,931
 e eu estava do lado errado
-da história.
+da histÃ³ria.
 
 171
 00:09:00,932 --> 00:09:02,431
-<i>Água de baixo da ponte.</i>
+<i>Ãgua de baixo da ponte.</i>
 
 172
 00:09:02,958 --> 00:09:04,312
-Eu já gosto desse.
+Eu jÃ¡ gosto desse.
 
 173
 00:09:04,313 --> 00:09:06,637
 Fiquei surpreso ao saber
-que você estava na Rússia.
+que vocÃª estava na RÃºssia.
 
 174
 00:09:06,833 --> 00:09:08,420
@@ -797,11 +797,11 @@ seria permanente.
 175
 00:09:08,421 --> 00:09:11,150
 Com Diaz morto tenho
-razão para ficar longe.
+razÃ£o para ficar longe.
 
 176
 00:09:11,151 --> 00:09:12,603
-Você ficou entediado.
+VocÃª ficou entediado.
 
 177
 00:09:12,920 --> 00:09:14,238
@@ -809,26 +809,26 @@ Sinto falta de Borscht.
 
 178
 00:09:14,516 --> 00:09:17,348
-Então eu me reinvento.
+EntÃ£o eu me reinvento.
 Sou o dono do bar.
 
 179
 00:09:17,642 --> 00:09:21,150
-Mas também me inspirei. Tenho
-receita muito boa de Piña Colada.
+Mas tambÃ©m me inspirei. Tenho
+receita muito boa de PiÃ±a Colada.
 
 180
 00:09:21,151 --> 00:09:22,364
-Experimente, é uma delícia.
+Experimente, Ã© uma delÃ­cia.
 
 181
 00:09:22,365 --> 00:09:24,173
-Quem não gostaria
-de lembrar dos trópicos
+Quem nÃ£o gostaria
+de lembrar dos trÃ³picos
 
 182
 00:09:24,174 --> 00:09:26,204
-nesses invernos frios da Rússia?
+nesses invernos frios da RÃºssia?
 
 183
 00:09:26,205 --> 00:09:28,388
@@ -837,16 +837,16 @@ Aparentemente, seus clientes.
 184
 00:09:28,738 --> 00:09:30,824
 Bom ver que essa
-ainda é encantadora.
+ainda Ã© encantadora.
 
 185
 00:09:30,825 --> 00:09:33,126
-Como está indo a busca
+Como estÃ¡ indo a busca
 pelo General Burov?
 
 186
 00:09:33,127 --> 00:09:34,515
-Não é nada fácil.
+NÃ£o Ã© nada fÃ¡cil.
 
 187
 00:09:35,753 --> 00:09:37,379
@@ -855,26 +855,26 @@ que posso ligar.
 
 188
 00:09:37,380 --> 00:09:40,363
-Eu sei, mas não quero
+Eu sei, mas nÃ£o quero
 que eles se envolvam nisso.
 
 189
 00:09:40,364 --> 00:09:43,665
-Por que não? Se ele tem
+Por que nÃ£o? Se ele tem
 amigos que podem ajudar...
 
 190
 00:09:43,666 --> 00:09:47,778
 Mia, com todo respeito, as pessoas
-que Anatoly está descrevendo...
+que Anatoly estÃ¡ descrevendo...
 
 191
 00:09:49,326 --> 00:09:51,023
-Não são amigáveis.
+NÃ£o sÃ£o amigÃ¡veis.
 
 192
 00:09:51,024 --> 00:09:53,016
-Vamos manter isso na família,
+Vamos manter isso na famÃ­lia,
 certo?
 
 193
@@ -884,7 +884,7 @@ Certo.
 194
 00:09:54,580 --> 00:09:57,491
 Eu trabalho para encontrar Burov
-da maneira mais difícil.
+da maneira mais difÃ­cil.
 
 195
 00:10:04,705 --> 00:10:07,819
@@ -893,7 +893,7 @@ vai parar esse Monitor?
 
 196
 00:10:07,820 --> 00:10:09,399
-Essa é a esperança.
+Essa Ã© a esperanÃ§a.
 
 197
 00:10:10,947 --> 00:10:12,304
@@ -902,16 +902,16 @@ Por que este lugar?
 198
 00:10:12,685 --> 00:10:15,812
 Os militares armazenam todo
-o seu excesso de plutônio aqui.
+o seu excesso de plutÃ´nio aqui.
 
 199
 00:10:16,185 --> 00:10:18,662
 O problema
-é que é impenetrável.
+Ã© que Ã© impenetrÃ¡vel.
 
 200
 00:10:19,908 --> 00:10:22,256
-É por isso
+Ã‰ por isso
 que me pediu para vir.
 
 201
@@ -922,16 +922,16 @@ em B&E para entrar?
 202
 00:10:26,011 --> 00:10:28,854
 Sim. Na verdade,
-é mais um esmagar e pegar.
+Ã© mais um esmagar e pegar.
 
 203
 00:10:29,528 --> 00:10:31,623
-Há uma remessa
+HÃ¡ uma remessa
 chegando esta noite.
 
 204
 00:10:32,489 --> 00:10:35,045
-Vamos roubar o plutônio.
+Vamos roubar o plutÃ´nio.
 
 205
 00:10:35,815 --> 00:10:38,680
@@ -940,12 +940,12 @@ Vai.
 
 206
 00:10:40,211 --> 00:10:42,496
-Por que não trazer
+Por que nÃ£o trazer
 Dinah ou Rene?
 
 207
 00:10:42,497 --> 00:10:44,759
-Estão com as mãos lotadas
+EstÃ£o com as mÃ£os lotadas
 em Star City.
 
 208
@@ -960,7 +960,7 @@ seu futuro filho.
 210
 00:10:53,290 --> 00:10:55,623
 Sim.
-Ele não é o único.
+Ele nÃ£o Ã© o Ãºnico.
 
 211
 00:10:56,146 --> 00:10:59,228
@@ -973,66 +973,66 @@ Connor.
 
 213
 00:11:02,268 --> 00:11:04,792
-Ele é um agente na Knightwatch,
+Ele Ã© um agente na Knightwatch,
 
 214
 00:11:05,802 --> 00:11:07,870
-uma versão futura
+uma versÃ£o futura
 da ARGUS.
 
 215
 00:11:08,171 --> 00:11:11,036
 Parece que ele teria sido um
-grande candidato para essa missão.
+grande candidato para essa missÃ£o.
 
 216
 00:11:12,306 --> 00:11:14,314
-Não precisava de mim
+NÃ£o precisava de mim
 para isso, John.
 
 217
 00:11:15,086 --> 00:11:17,036
-Então, o que estamos
+EntÃ£o, o que estamos
 realmente fazendo aqui?
 
 218
 00:11:25,243 --> 00:11:27,248
-Você disse
+VocÃª disse
 que queria se redimir.
 
 219
 00:11:27,249 --> 00:11:29,851
-Não pode fazer isso
+NÃ£o pode fazer isso
 consertando carros.
 
 220
 00:11:29,852 --> 00:11:31,804
-Você faz isso retornando
+VocÃª faz isso retornando
 para a equipe.
 
 221
 00:11:32,193 --> 00:11:34,598
-Sei que acha que não pode controlar
+Sei que acha que nÃ£o pode controlar
 sua sede de sangue.
 
 222
 00:11:34,599 --> 00:11:37,111
-Isso é porque não descobriu
+Isso Ã© porque nÃ£o descobriu
 a maneira que funciona.
 
 223
 00:11:37,112 --> 00:11:39,160
-Porque não tem maneira.
+Porque nÃ£o tem maneira.
 
 224
 00:11:39,161 --> 00:11:41,907
-Então, seja lá o que for dizer,
-não quero ouvir.
+EntÃ£o, seja lÃ¡ o que for dizer,
+nÃ£o quero ouvir.
 
 225
 00:11:43,193 --> 00:11:45,638
-Olha, já estamos aqui,
-então vou ajudá-lo.
+Olha, jÃ¡ estamos aqui,
+entÃ£o vou ajudÃ¡-lo.
 
 226
 00:11:46,701 --> 00:11:49,947
@@ -1046,8 +1046,8 @@ nem o William me encontre.
 
 228
 00:11:59,098 --> 00:12:01,650
-Tenho as clássicas
-boas e más notícias.
+Tenho as clÃ¡ssicas
+boas e mÃ¡s notÃ­cias.
 
 229
 00:12:02,238 --> 00:12:04,128
@@ -1055,18 +1055,18 @@ Achei o general Burov.
 
 230
 00:12:04,563 --> 00:12:07,152
-São as más notícias?
+SÃ£o as mÃ¡s notÃ­cias?
 Estou confuso sobre a ordem.
 
 231
 00:12:07,153 --> 00:12:10,657
-A má notícia é que gosta
+A mÃ¡ notÃ­cia Ã© que gosta
 de apostar em sangue.
 
 232
 00:12:10,658 --> 00:12:12,898
-Só existe um lugar
-para encontrá-lo:
+SÃ³ existe um lugar
+para encontrÃ¡-lo:
 
 233
 00:12:13,418 --> 00:12:14,920
@@ -1078,12 +1078,12 @@ para encontrá-lo:
 
 235
 00:12:16,339 --> 00:12:18,730
-Isso não soa adorável?
+Isso nÃ£o soa adorÃ¡vel?
 
 236
 00:12:18,731 --> 00:12:21,456
-Não é adorável,
-é um clube de luta.
+NÃ£o Ã© adorÃ¡vel,
+Ã© um clube de luta.
 
 237
 00:12:22,480 --> 00:12:24,880
@@ -1091,25 +1091,25 @@ Exatamente onde a encontrei.
 
 238
 00:12:25,832 --> 00:12:27,379
-Ele encontrou você aonde?
+Ele encontrou vocÃª aonde?
 
 239
 00:12:27,380 --> 00:12:30,193
-Quando eu saí de casa,
+Quando eu saÃ­ de casa,
 precisei ganhar dinheiro.
 
 240
 00:12:30,194 --> 00:12:33,051
-Então lutei e ganhei.
+EntÃ£o lutei e ganhei.
 
 241
 00:12:33,052 --> 00:12:36,050
 Tal pai, tal filha,
-não é, camarada?
+nÃ£o Ã©, camarada?
 
 242
 00:12:37,097 --> 00:12:39,324
-Você, eu e Laurel,
+VocÃª, eu e Laurel,
 
 243
 00:12:39,325 --> 00:12:41,826
@@ -1118,46 +1118,46 @@ para encontrar o Burov.
 
 244
 00:12:42,596 --> 00:12:44,129
-Vocês dois vão ficar aqui.
+VocÃªs dois vÃ£o ficar aqui.
 
 245
 00:12:44,130 --> 00:12:47,573
-Não ouviu o que eu disse?
+NÃ£o ouviu o que eu disse?
 Cresci em clubes de luta.
 
 246
 00:12:47,574 --> 00:12:50,163
-Não cresceu em clubes de luta
+NÃ£o cresceu em clubes de luta
 da Bratva.
 
 247
 00:12:50,164 --> 00:12:52,967
 Por que nos trouxe nessa
-missão se não vamos o ajudar?
+missÃ£o se nÃ£o vamos o ajudar?
 
 248
 00:12:52,968 --> 00:12:55,604
-Esta não é uma missão comum,
-é a Bratva.
+Esta nÃ£o Ã© uma missÃ£o comum,
+Ã© a Bratva.
 
 249
 00:12:55,605 --> 00:12:58,970
-São pessoas terríveis,
-e vocês são meus filhos.
+SÃ£o pessoas terrÃ­veis,
+e vocÃªs sÃ£o meus filhos.
 
 250
 00:12:58,971 --> 00:13:02,553
-- Não somos crianças.
-- Pra mim, você é.
+- NÃ£o somos crianÃ§as.
+- Pra mim, vocÃª Ã©.
 
 251
 00:13:07,042 --> 00:13:10,993
 Sinto muito,
-mas é assim que vai ser.
+mas Ã© assim que vai ser.
 
 252
 00:13:25,008 --> 00:13:27,365
-Então é isso que os russos
+EntÃ£o Ã© isso que os russos
 fazem para se divertir.
 
 253
@@ -1173,11 +1173,11 @@ com a Bratva.
 255
 00:13:31,084 --> 00:13:33,679
 Vamos nos mover rapidamente
-e manter a cabeça baixa.
+e manter a cabeÃ§a baixa.
 
 256
 00:13:33,680 --> 00:13:35,273
-Lá está o general.
+LÃ¡ estÃ¡ o general.
 
 257
 00:13:43,496 --> 00:13:45,683
@@ -1199,13 +1199,13 @@ O que quer?
 
 261
 00:13:55,818 --> 00:13:59,628
-Sua experiência
-com algo sensível.
+Sua experiÃªncia
+com algo sensÃ­vel.
 
 262
 00:14:01,765 --> 00:14:04,031
 Para sua sorte,
-essa luta está um tédio.
+essa luta estÃ¡ um tÃ©dio.
 
 263
 00:14:04,032 --> 00:14:05,380
@@ -1218,13 +1218,13 @@ gerador de ondas de pulso.
 
 265
 00:14:22,238 --> 00:14:25,364
-Muito imprevisível,
-foi um mau negócio.
+Muito imprevisÃ­vel,
+foi um mau negÃ³cio.
 
 266
 00:14:25,365 --> 00:14:29,444
-Então, por que deveria
-dar a você...
+EntÃ£o, por que deveria
+dar a vocÃª...
 
 267
 00:14:30,085 --> 00:14:31,879
@@ -1232,7 +1232,7 @@ Kapiushon?
 
 268
 00:14:31,880 --> 00:14:35,445
-Não devia ter mantido
+NÃ£o devia ter mantido
 sua identidade secreta
 
 269
@@ -1241,12 +1241,12 @@ em segredo?
 
 270
 00:14:37,138 --> 00:14:41,504
-Significa que não vai nos dar
-o projeto fácil.
+Significa que nÃ£o vai nos dar
+o projeto fÃ¡cil.
 
 271
 00:14:41,505 --> 00:14:44,801
-Não precisamos terminar assim,
+NÃ£o precisamos terminar assim,
 estou disposto a fazer acordo.
 
 272
@@ -1255,32 +1255,32 @@ Certo, o que quer?
 
 273
 00:14:47,172 --> 00:14:51,262
-Um lutador, alguém para
+Um lutador, alguÃ©m para
 derrubar o favorito.
 
 274
 00:14:51,263 --> 00:14:53,524
-Não quero ficar
+NÃ£o quero ficar
 mais entediado.
 
 275
 00:14:53,525 --> 00:14:56,035
-Deve ser fácil para você,
-Kapiushon, não?
+Deve ser fÃ¡cil para vocÃª,
+Kapiushon, nÃ£o?
 
 276
 00:14:56,036 --> 00:14:58,819
 Se eu vencer,
-você nos entrega o projeto.
+vocÃª nos entrega o projeto.
 
 277
 00:15:00,191 --> 00:15:03,991
-- Negócio feito.
+- NegÃ³cio feito.
 - Excelente, farei o que foi dito.
 
 278
 00:15:07,495 --> 00:15:09,803
-Viu aquele gigante, né?
+Viu aquele gigante, nÃ©?
 
 279
 00:15:09,804 --> 00:15:11,379
@@ -1288,7 +1288,7 @@ Tem o dobro do seu tamanho.
 
 280
 00:15:11,380 --> 00:15:13,436
-Então dou a ele
+EntÃ£o dou a ele
 meia chance de vencer.
 
 281
@@ -1306,24 +1306,24 @@ Nenhum.
 284
 00:15:47,101 --> 00:15:50,706
 Oliver parece pensar
-que você é uma heroína.
+que vocÃª Ã© uma heroÃ­na.
 
 285
 00:15:50,707 --> 00:15:52,625
-Não tenho tanta certeza.
+NÃ£o tenho tanta certeza.
 
 286
 00:15:53,231 --> 00:15:55,593
-Acho que você é como
+Acho que vocÃª Ã© como
 um leopardo da neve,
 
 287
 00:15:55,594 --> 00:15:57,657
-não pode mudar de lugar.
+nÃ£o pode mudar de lugar.
 
 288
 00:15:58,237 --> 00:16:00,008
-Você mudou.
+VocÃª mudou.
 
 289
 00:16:00,661 --> 00:16:03,819
@@ -1332,11 +1332,11 @@ e mais com seu amigo ali.
 
 290
 00:16:04,894 --> 00:16:06,394
-Vou verificar o perímetro.
+Vou verificar o perÃ­metro.
 
 291
 00:16:56,468 --> 00:16:58,048
-Impressionante, não?
+Impressionante, nÃ£o?
 
 292
 00:17:03,232 --> 00:17:05,615
@@ -1345,7 +1345,7 @@ para sair.
 
 293
 00:17:17,950 --> 00:17:22,422
-Muito bom. Acho que não fez
+Muito bom. Acho que nÃ£o fez
 muitos amigos por aqui.
 
 294
@@ -1355,12 +1355,12 @@ de palavra.
 
 295
 00:17:25,855 --> 00:17:27,613
-Não tão rápido.
+NÃ£o tÃ£o rÃ¡pido.
 
 296
 00:17:28,052 --> 00:17:32,906
-Precisa aprender a não se meter
-nos negócios de outras pessoas.
+Precisa aprender a nÃ£o se meter
+nos negÃ³cios de outras pessoas.
 
 297
 00:17:32,907 --> 00:17:35,143
@@ -1369,35 +1369,35 @@ Oleg, que prazer.
 298
 00:17:35,144 --> 00:17:37,305
 Realmente achou, que poderia
-fazer negócios
+fazer negÃ³cios
 
 299
 00:17:37,306 --> 00:17:39,192
-no território da Bratva,
+no territÃ³rio da Bratva,
 sem avisar?
 
 300
 00:17:39,193 --> 00:17:41,892
-Claro que não, ele está apenas
+Claro que nÃ£o, ele estÃ¡ apenas
 recebendo sua recompensa.
 
 301
 00:17:41,893 --> 00:17:45,071
-Ele não é um mero lutador,
-não é, Oliver Queen?
+Ele nÃ£o Ã© um mero lutador,
+nÃ£o Ã©, Oliver Queen?
 
 302
 00:17:46,614 --> 00:17:48,079
-Como sabe quem você é?
+Como sabe quem vocÃª Ã©?
 
 303
 00:17:48,080 --> 00:17:50,631
-Todos na Rússia
+Todos na RÃºssia
 conhecem o Kapiushon.
 
 304
 00:17:50,632 --> 00:17:53,026
-Não vamos lutar com você
+NÃ£o vamos lutar com vocÃª
 ou com a Bratva.
 
 305
@@ -1410,16 +1410,16 @@ Pegaremos, e sairemos.
 
 307
 00:17:57,023 --> 00:18:00,168
-O general só faz negócios aqui
+O general sÃ³ faz negÃ³cios aqui
 porque deixamos.
 
 308
 00:18:00,636 --> 00:18:02,175
-Mas não deixamos mais.
+Mas nÃ£o deixamos mais.
 
 309
 00:18:02,176 --> 00:18:03,398
-Não!
+NÃ£o!
 
 310
 00:18:09,543 --> 00:18:10,732
@@ -1431,7 +1431,7 @@ Mia.
 
 312
 00:18:23,804 --> 00:18:25,204
-Você está bem?
+VocÃª estÃ¡ bem?
 
 313
 00:18:25,458 --> 00:18:27,083
@@ -1448,23 +1448,23 @@ esconderijo da Bratva.
 
 316
 00:18:36,105 --> 00:18:39,054
-Falei pra não interferir,
+Falei pra nÃ£o interferir,
 o que estava pensando?
 
 317
 00:18:39,055 --> 00:18:40,374
-Precisávamos
-terminar a missão.
+PrecisÃ¡vamos
+terminar a missÃ£o.
 
 318
 00:18:40,375 --> 00:18:42,083
-Entende que eu já tinha
+Entende que eu jÃ¡ tinha
 resolvido?
 
 319
 00:18:42,084 --> 00:18:46,188
-Aparentemente não, considerando
-que estamos amarrados em um porão.
+Aparentemente nÃ£o, considerando
+que estamos amarrados em um porÃ£o.
 
 320
 00:18:49,608 --> 00:18:51,693
@@ -1473,7 +1473,7 @@ de "Kapiushon"?
 
 321
 00:18:56,050 --> 00:19:00,117
-Kapiushon é um apelido
+Kapiushon Ã© um apelido
 que a Bratva me deu.
 
 322
@@ -1482,7 +1482,7 @@ Significa "capuz".
 
 323
 00:19:02,901 --> 00:19:05,414
-Você era um membro da Bratva.
+VocÃª era um membro da Bratva.
 
 324
 00:19:08,293 --> 00:19:09,483
@@ -1490,16 +1490,16 @@ Deveria ter me dito.
 
 325
 00:19:09,484 --> 00:19:11,591
-Não queria que se envolvessem.
+NÃ£o queria que se envolvessem.
 
 326
 00:19:11,592 --> 00:19:14,485
 - Sei me virar sozinha.
-- Não é disso que se trata.
+- NÃ£o Ã© disso que se trata.
 
 327
 00:19:14,486 --> 00:19:16,132
-Então o que é?
+EntÃ£o o que Ã©?
 
 328
 00:19:16,609 --> 00:19:17,690
@@ -1517,7 +1517,7 @@ para conseguir isso.
 331
 00:19:23,975 --> 00:19:28,145
 Mesmo com nossos recursos,
-não conseguimos descriptografar.
+nÃ£o conseguimos descriptografar.
 
 332
 00:19:28,146 --> 00:19:30,398
@@ -1525,24 +1525,24 @@ Deve valer muito.
 
 333
 00:19:30,399 --> 00:19:32,468
-Diga-me o que é.
+Diga-me o que Ã©.
 
 334
 00:19:32,469 --> 00:19:33,859
-Não.
+NÃ£o.
 
 335
 00:19:33,860 --> 00:19:36,862
-Só vou perguntar mais uma vez.
+SÃ³ vou perguntar mais uma vez.
 
 336
 00:19:41,168 --> 00:19:43,367
-Você tem 5 segundos.
+VocÃª tem 5 segundos.
 
 337
 00:19:43,814 --> 00:19:45,996
 - Cinco.
-- Não conte nada a ele.
+- NÃ£o conte nada a ele.
 
 338
 00:19:46,354 --> 00:19:47,354
@@ -1550,7 +1550,7 @@ Quatro.
 
 339
 00:19:48,112 --> 00:19:49,112
-Três.
+TrÃªs.
 
 340
 00:19:49,973 --> 00:19:51,273
@@ -1558,7 +1558,7 @@ Dois.
 
 341
 00:19:51,951 --> 00:19:53,455
-É um projeto,
+Ã‰ um projeto,
 
 342
 00:19:54,468 --> 00:19:57,007
@@ -1567,22 +1567,22 @@ que Burov estava construindo.
 
 343
 00:19:58,454 --> 00:20:00,205
-Foi tão difícil falar?
+Foi tÃ£o difÃ­cil falar?
 
 344
 00:20:00,762 --> 00:20:03,162
 Agora podemos passar
-para a próxima fase.
+para a prÃ³xima fase.
 
 345
 00:20:13,038 --> 00:20:15,359
-Quais são as chances
-do meu pai e irmã
+Quais sÃ£o as chances
+do meu pai e irmÃ£
 
 346
 00:20:15,360 --> 00:20:18,331
-que estão com a máfia russa,
-não estarem mortos?
+que estÃ£o com a mÃ¡fia russa,
+nÃ£o estarem mortos?
 
 347
 00:20:18,332 --> 00:20:21,860
@@ -1591,17 +1591,17 @@ a cada segundo.
 
 348
 00:20:22,117 --> 00:20:24,438
-Os celulares não estão online,
-por quê?
+Os celulares nÃ£o estÃ£o online,
+por quÃª?
 
 349
 00:20:24,439 --> 00:20:28,038
-Devem ter sido destruídos
-para não os rastrear.
+Devem ter sido destruÃ­dos
+para nÃ£o os rastrear.
 
 350
 00:20:29,035 --> 00:20:31,758
-Não é a sua família
+NÃ£o Ã© a sua famÃ­lia
 que vive injetando
 
 351
@@ -1611,7 +1611,7 @@ dispositivos de rastreamento?
 352
 00:20:34,420 --> 00:20:36,505
 Normalmente, eu diria
-"Deus, espero que não"
+"Deus, espero que nÃ£o"
 
 353
 00:20:36,506 --> 00:20:38,924
@@ -1620,22 +1620,22 @@ posso ver as vantagens.
 
 354
 00:20:38,925 --> 00:20:40,787
-Já hackeou uma câmera
-de segurança?
+JÃ¡ hackeou uma cÃ¢mera
+de seguranÃ§a?
 
 355
 00:20:40,788 --> 00:20:42,511
-- Não.
-- Meus parabéns,
+- NÃ£o.
+- Meus parabÃ©ns,
 
 356
 00:20:42,512 --> 00:20:45,181
-está prestes a aprender
-e diretamente da Rússia.
+estÃ¡ prestes a aprender
+e diretamente da RÃºssia.
 
 357
 00:20:45,182 --> 00:20:46,517
-Está bem.
+EstÃ¡ bem.
 
 358
 00:20:50,369 --> 00:20:52,458
@@ -1644,7 +1644,7 @@ por perto.
 
 359
 00:20:54,411 --> 00:20:56,871
-O que o fez esperar até agora
+O que o fez esperar atÃ© agora
 para falar?
 
 360
@@ -1654,7 +1654,7 @@ algo ruim sobre mim no futuro.
 
 361
 00:21:02,333 --> 00:21:03,933
-Não é apenas sobre você.
+NÃ£o Ã© apenas sobre vocÃª.
 
 362
 00:21:06,561 --> 00:21:07,961
@@ -1662,16 +1662,16 @@ Diga-me.
 
 363
 00:21:11,649 --> 00:21:13,984
-William encontrou você
+William encontrou vocÃª
 em Lian Yu.
 
 364
 00:21:14,574 --> 00:21:16,128
-Depois de estar lá por anos,
+Depois de estar lÃ¡ por anos,
 
 365
 00:21:16,129 --> 00:21:18,130
-em algum exílio auto imposto.
+em algum exÃ­lio auto imposto.
 
 366
 00:21:18,505 --> 00:21:20,465
@@ -1685,31 +1685,31 @@ que poderia vir me salvar?
 
 368
 00:21:23,599 --> 00:21:25,349
-Porque sua história
-não terminou.
+Porque sua histÃ³ria
+nÃ£o terminou.
 
 369
 00:21:25,911 --> 00:21:29,516
-Você pode ter ido para Lian Yu,
-mas não terminou lá.
+VocÃª pode ter ido para Lian Yu,
+mas nÃ£o terminou lÃ¡.
 
 370
 00:21:29,517 --> 00:21:32,687
 Felicity enviou William
-para encontrá-lo,
+para encontrÃ¡-lo,
 
 371
 00:21:32,688 --> 00:21:34,239
-porque ela acreditou em você.
+porque ela acreditou em vocÃª.
 
 372
 00:21:34,240 --> 00:21:38,087
-Você volta à cidade, os ajuda
+VocÃª volta Ã  cidade, os ajuda
 a salvar a cidade, Roy.
 
 373
 00:21:38,088 --> 00:21:39,332
-Como isso é possível?
+Como isso Ã© possÃ­vel?
 
 374
 00:21:39,333 --> 00:21:41,411
@@ -1722,12 +1722,12 @@ sua sede de sangue.
 
 376
 00:21:44,138 --> 00:21:47,284
-Você descobriu que fazia
+VocÃª descobriu que fazia
 parte de uma equipe.
 
 377
 00:21:47,285 --> 00:21:50,161
-Manteve distância porque
+Manteve distÃ¢ncia porque
 acreditava que era um perigo
 
 378
@@ -1737,12 +1737,12 @@ mas a verdade
 
 379
 00:21:52,719 --> 00:21:56,294
-é que não acreditava que poderia
+Ã© que nÃ£o acreditava que poderia
 lidar sozinho com o passado.
 
 380
 00:22:00,279 --> 00:22:02,265
-É bastante ousado,
+Ã‰ bastante ousado,
 
 381
 00:22:02,266 --> 00:22:04,314
@@ -1751,11 +1751,11 @@ me dar a resposta 20 anos antes.
 382
 00:22:04,315 --> 00:22:07,389
 Espero que desta vez,
-não precise esperar tanto tempo.
+nÃ£o precise esperar tanto tempo.
 
 383
 00:22:16,329 --> 00:22:20,177
-Não toque nela,
+NÃ£o toque nela,
 te contei tudo o que sei!
 
 384
@@ -1768,11 +1768,11 @@ Na linha.
 
 386
 00:22:30,113 --> 00:22:31,513
-Não.
+NÃ£o.
 
 387
 00:22:32,696 --> 00:22:36,250
-Mia, não.
+Mia, nÃ£o.
 
 388
 00:22:38,852 --> 00:22:40,152
@@ -1784,11 +1784,11 @@ Toque a campainha.
 
 390
 00:22:52,344 --> 00:22:54,179
-Você tem 60 segundos.
+VocÃª tem 60 segundos.
 
 391
 00:22:57,270 --> 00:22:58,670
-Começando.
+ComeÃ§ando.
 
 392
 00:23:39,150 --> 00:23:40,860
@@ -1797,7 +1797,7 @@ O tempo acabou.
 393
 00:23:59,788 --> 00:24:03,835
 Eu precisava ter certeza,
-de que não estava mentindo.
+de que nÃ£o estava mentindo.
 
 394
 00:24:08,804 --> 00:24:11,387
@@ -1806,21 +1806,21 @@ e do meu pai
 
 395
 00:24:11,388 --> 00:24:13,779
-vindo de um armazém,
+vindo de um armazÃ©m,
 no leste da cidade.
 
 396
 00:24:13,780 --> 00:24:16,631
 Obrigado,
-satélites russos ilegais.
+satÃ©lites russos ilegais.
 
 397
 00:24:16,632 --> 00:24:19,062
-Ótimo, agora vamos salvar o dia.
+Ã“timo, agora vamos salvar o dia.
 
 398
 00:24:22,565 --> 00:24:23,953
-Você está bem?
+VocÃª estÃ¡ bem?
 
 399
 00:24:23,954 --> 00:24:25,900
@@ -1844,12 +1844,12 @@ Desloquei meus polegares.
 
 404
 00:24:36,246 --> 00:24:39,081
-É uma técnica útil
+Ã‰ uma tÃ©cnica Ãºtil
 se ficar amarrado.
 
 405
 00:24:39,082 --> 00:24:40,392
-Se torna um hábito.
+Se torna um hÃ¡bito.
 
 406
 00:24:40,393 --> 00:24:42,561
@@ -1862,31 +1862,31 @@ a fazer isso.
 
 408
 00:24:57,773 --> 00:24:59,442
-Então não tocou a campainha.
+EntÃ£o nÃ£o tocou a campainha.
 
 409
 00:24:59,443 --> 00:25:03,846
 Ainda assim,
-muito impressionante não morrer.
+muito impressionante nÃ£o morrer.
 
 410
 00:25:04,798 --> 00:25:07,616
-Não deveria ter dito
+NÃ£o deveria ter dito
 o que havia no dispositivo.
 
 411
 00:25:07,617 --> 00:25:09,702
-Teriam matado você
-se eu não dissesse.
+Teriam matado vocÃª
+se eu nÃ£o dissesse.
 
 412
 00:25:09,703 --> 00:25:13,375
-Ou teríamos escapado
-sem você dizer.
+Ou terÃ­amos escapado
+sem vocÃª dizer.
 
 413
 00:25:13,376 --> 00:25:18,059
-Podemos ter essa discussão
+Podemos ter essa discussÃ£o
 depois de termos o projeto?
 
 414
@@ -1896,17 +1896,17 @@ quanto valem.
 
 415
 00:25:20,028 --> 00:25:21,529
-Ele é um empresário inteligente.
+Ele Ã© um empresÃ¡rio inteligente.
 
 416
 00:25:21,840 --> 00:25:23,671
-Ele descobrirá uma maneira
-de vendê-lo.
+Ele descobrirÃ¡ uma maneira
+de vendÃª-lo.
 
 417
 00:25:23,672 --> 00:25:26,051
 Precisamos descobrir quando e
-onde a venda acontecerá,
+onde a venda acontecerÃ¡,
 
 418
 00:25:26,052 --> 00:25:27,146
@@ -1923,25 +1923,25 @@ no bar, certo?
 
 421
 00:25:32,382 --> 00:25:34,598
-Vocês vão para casa.
+VocÃªs vÃ£o para casa.
 
 422
 00:25:35,646 --> 00:25:36,796
-Não.
+NÃ£o.
 
 423
 00:25:37,412 --> 00:25:39,191
-Sinto que há menos
+Sinto que hÃ¡ menos
 drama por aqui.
 
 424
 00:25:46,406 --> 00:25:47,780
-Como assim "não"?
+Como assim "nÃ£o"?
 
 425
 00:25:47,781 --> 00:25:51,620
 Sinto muito, mas acabamos
-de salvá-lo de ser assassinado.
+de salvÃ¡-lo de ser assassinado.
 
 426
 00:25:51,621 --> 00:25:52,902
@@ -1954,54 +1954,54 @@ sequestrada pela Bratva.
 
 428
 00:25:55,762 --> 00:25:58,997
-- Você também foi.
+- VocÃª tambÃ©m foi.
 - Eu sou seu pai.
 
 429
 00:25:58,998 --> 00:26:03,706
 E o meu trabalho
-é proteger vocês.
+Ã© proteger vocÃªs.
 
 430
 00:26:03,707 --> 00:26:05,391
-Nós não precisamos disso.
+NÃ³s nÃ£o precisamos disso.
 
 431
 00:26:05,392 --> 00:26:07,786
-No futuro, somos nós
+No futuro, somos nÃ³s
 que estamos salvando a cidade.
 
 432
 00:26:07,787 --> 00:26:09,337
-Não estamos no futuro.
+NÃ£o estamos no futuro.
 
 433
 00:26:11,028 --> 00:26:12,988
-Alguns meses atrás,
+Alguns meses atrÃ¡s,
 
 434
 00:26:12,989 --> 00:26:15,592
-estava com coração partido
+estava com coraÃ§Ã£o partido
 antes de ir embora.
 
 435
 00:26:15,593 --> 00:26:17,218
-Porque não consegui te ligar,
+Porque nÃ£o consegui te ligar,
 
 436
 00:26:17,219 --> 00:26:19,428
-pois você estava
-na casa dos seus avós,
+pois vocÃª estava
+na casa dos seus avÃ³s,
 
 437
 00:26:19,429 --> 00:26:23,465
-Então entrei no seu quarto
-para te ver pela última vez,
+EntÃ£o entrei no seu quarto
+para te ver pela Ãºltima vez,
 
 438
 00:26:23,466 --> 00:26:25,925
-e você olhou para mim
-do seu berço.
+e vocÃª olhou para mim
+do seu berÃ§o.
 
 439
 00:26:25,926 --> 00:26:28,118
@@ -2014,12 +2014,12 @@ vida inteira sozinha.
 
 441
 00:26:30,000 --> 00:26:32,327
-Não tive a chance
-de conhecer meu irmão,
+NÃ£o tive a chance
+de conhecer meu irmÃ£o,
 
 442
 00:26:32,328 --> 00:26:33,609
-de conhecer você.
+de conhecer vocÃª.
 
 443
 00:26:33,610 --> 00:26:35,695
@@ -2027,7 +2027,7 @@ Lamento que tenha sido assim.
 
 444
 00:26:35,956 --> 00:26:40,273
-E vocês podem decidir
+E vocÃªs podem decidir
 por si mesmos
 
 445
@@ -2037,16 +2037,16 @@ me culpam pelo que fiz.
 
 446
 00:26:44,004 --> 00:26:48,218
-Mas fiz uma promessa à sua
-mãe para mantê-los seguros.
+Mas fiz uma promessa Ã  sua
+mÃ£e para mantÃª-los seguros.
 
 447
 00:26:48,219 --> 00:26:50,052
-E não há mundo,
+E nÃ£o hÃ¡ mundo,
 
 448
 00:26:50,053 --> 00:26:52,012
-não há universo,
+nÃ£o hÃ¡ universo,
 nem passado,
 
 449
@@ -2060,7 +2060,7 @@ Tudo bem.
 
 451
 00:27:11,859 --> 00:27:13,326
-Está pronto?
+EstÃ¡ pronto?
 
 452
 00:27:13,327 --> 00:27:14,727
@@ -2073,7 +2073,7 @@ Vamos!
 454
 00:27:25,970 --> 00:27:27,636
 Deve ser um alarme
-de segurança.
+de seguranÃ§a.
 
 455
 00:27:27,637 --> 00:27:29,889
@@ -2086,7 +2086,7 @@ Olhe para mim, cara.
 
 457
 00:27:49,620 --> 00:27:52,184
-Roy, está tudo bem.
+Roy, estÃ¡ tudo bem.
 
 458
 00:27:53,680 --> 00:27:55,121
@@ -2094,7 +2094,7 @@ Conseguiu?
 
 459
 00:27:55,122 --> 00:27:56,806
-Está bem aqui.
+EstÃ¡ bem aqui.
 
 460
 00:27:57,796 --> 00:27:59,396
@@ -2115,7 +2115,7 @@ Essas coisas levam tempo.
 
 464
 00:28:08,214 --> 00:28:12,274
-Não sei você, mas posso lidar
+NÃ£o sei vocÃª, mas posso lidar
 com essa demora, bebendo.
 
 465
@@ -2124,26 +2124,26 @@ Estou bem, obrigado.
 
 466
 00:28:14,412 --> 00:28:18,234
-Se por bem, você quiz dizer,
+Se por bem, vocÃª quiz dizer,
 mal-humorado,
 
 467
 00:28:18,235 --> 00:28:19,840
-você está sim.
+vocÃª estÃ¡ sim.
 
 468
 00:28:20,676 --> 00:28:22,962
 Foi porque estragou
-as férias em família?
+as fÃ©rias em famÃ­lia?
 
 469
 00:28:22,963 --> 00:28:25,338
 Pedi que fossem pra casa,
-para protegê-los.
+para protegÃª-los.
 
 470
 00:28:25,905 --> 00:28:28,026
-Não acha que podem lidar
+NÃ£o acha que podem lidar
 com isso sozinhos?
 
 471
@@ -2152,12 +2152,12 @@ Sim, conseguem, mas eu...
 
 472
 00:28:30,997 --> 00:28:33,483
-Quero mantê-los longe
+Quero mantÃª-los longe
 da Bratva.
 
 473
 00:28:33,484 --> 00:28:36,701
-Quer dizer, mantê-los longe
+Quer dizer, mantÃª-los longe
 do seu passado na Bratva.
 
 474
@@ -2166,16 +2166,16 @@ Foram tempos sombrios.
 
 475
 00:28:38,578 --> 00:28:41,373
- Isso é compreensível.
+ Isso Ã© compreensÃ­vel.
 
 476
 00:28:41,374 --> 00:28:43,750
-Você tem vergonha.
+VocÃª tem vergonha.
 
 477
 00:28:43,751 --> 00:28:46,627
-Você realmente fez
-algumas coisas terríveis.
+VocÃª realmente fez
+algumas coisas terrÃ­veis.
 
 478
 00:28:46,628 --> 00:28:48,712
@@ -2183,12 +2183,12 @@ Obrigado por lembrar.
 
 479
 00:28:48,713 --> 00:28:50,899
-Mas também fez
+Mas tambÃ©m fez
 algumas coisas boas.
 
 480
 00:28:51,759 --> 00:28:53,877
-É importante
+Ã‰ importante
 que eles vejam os dois.
 
 481
@@ -2202,16 +2202,16 @@ da minha vida, com meus filhos?
 
 483
 00:29:00,315 --> 00:29:02,458
-Essa é a coisa sobre o ensino.
+Essa Ã© a coisa sobre o ensino.
 
 484
 00:29:03,497 --> 00:29:05,750
-Não é sobre o que
-você quer dizer.
+NÃ£o Ã© sobre o que
+vocÃª quer dizer.
 
 485
 00:29:05,751 --> 00:29:08,496
-É sobre o que eles
+Ã‰ sobre o que eles
 precisam ouvir.
 
 486
@@ -2221,20 +2221,20 @@ coisa que te ensinei?
 
 487
 00:29:11,876 --> 00:29:13,713
-Viver não é para os fracos.
+Viver nÃ£o Ã© para os fracos.
 
 488
 00:29:13,714 --> 00:29:16,314
-Seus filhos não são fracos,
+Seus filhos nÃ£o sÃ£o fracos,
 Oliver.
 
 489
 00:29:17,042 --> 00:29:19,100
-Também não são crianças.
+TambÃ©m nÃ£o sÃ£o crianÃ§as.
 
 490
 00:29:19,494 --> 00:29:21,788
-Não importa o que diga,
+NÃ£o importa o que diga,
 
 491
 00:29:21,789 --> 00:29:23,274
@@ -2242,12 +2242,12 @@ eles podem lidar com isso.
 
 492
 00:29:24,666 --> 00:29:28,712
-Caso contrário,
-nunca aprenderão a ser heróis.
+Caso contrÃ¡rio,
+nunca aprenderÃ£o a ser herÃ³is.
 
 493
 00:29:44,802 --> 00:29:47,231
-Seria péssimo ser essa porta.
+Seria pÃ©ssimo ser essa porta.
 
 494
 00:29:48,722 --> 00:29:51,994
@@ -2256,11 +2256,11 @@ qualquer outra coisa, desista.
 
 495
 00:29:51,995 --> 00:29:53,580
-Não se iluda.
+NÃ£o se iluda.
 
 496
 00:29:53,581 --> 00:29:56,520
-Simplesmente não aguentava
+Simplesmente nÃ£o aguentava
 mais o cheiro daquele bar velho.
 
 497
@@ -2269,62 +2269,62 @@ Cheira a repolho.
 
 498
 00:29:59,658 --> 00:30:02,480
-Uma das coisas que não
+Uma das coisas que nÃ£o
 vou sentir falta desse lugar.
 
 499
 00:30:02,481 --> 00:30:04,294
-Então vai mesmo para casa?
+EntÃ£o vai mesmo para casa?
 
 500
 00:30:04,789 --> 00:30:07,724
-Por que não?
-Meu pai não me quer aqui.
+Por que nÃ£o?
+Meu pai nÃ£o me quer aqui.
 
 501
 00:30:07,725 --> 00:30:10,124
-Meu Deus, quanta deprimência.
+Meu Deus, quanta deprimÃªncia.
 
 502
 00:30:10,125 --> 00:30:11,982
-Para você é fácil dizer.
+Para vocÃª Ã© fÃ¡cil dizer.
 
 503
 00:30:12,812 --> 00:30:14,564
-Por quê?
+Por quÃª?
 
 504
 00:30:15,443 --> 00:30:17,702
-Você é a Canário Negro.
+VocÃª Ã© a CanÃ¡rio Negro.
 
 505
 00:30:17,703 --> 00:30:21,107
-Tudo o que já ouvi são histórias
-sobre o quão boa é.
+Tudo o que jÃ¡ ouvi sÃ£o histÃ³rias
+sobre o quÃ£o boa Ã©.
 
 506
 00:30:21,389 --> 00:30:23,813
 No futuro,
-você até me salva uma vez.
+vocÃª atÃ© me salva uma vez.
 
 507
 00:30:23,814 --> 00:30:25,700
-Como se não fosse nada.
+Como se nÃ£o fosse nada.
 
 508
 00:30:25,701 --> 00:30:28,069
 Tem certeza de que realmente
-está falando de mim?
+estÃ¡ falando de mim?
 
 509
 00:30:28,600 --> 00:30:31,231
 Pode parar
-com essa falsa modéstia.
+com essa falsa modÃ©stia.
 
 510
 00:30:31,232 --> 00:30:34,109
-Algumas pessoas são
-moldadas para serem heróis,
+Algumas pessoas sÃ£o
+moldadas para serem herÃ³is,
 
 511
 00:30:34,110 --> 00:30:37,113
@@ -2332,12 +2332,12 @@ outros nem tanto.
 
 512
 00:30:37,114 --> 00:30:40,288
-Tudo isso porque não tocou
-uma campainha estúpida?
+Tudo isso porque nÃ£o tocou
+uma campainha estÃºpida?
 
 513
 00:30:40,289 --> 00:30:42,417
-Eu também não consegui
+Eu tambÃ©m nÃ£o consegui
 salvar a Zoe.
 
 514
@@ -2348,7 +2348,7 @@ igual ao meu pai,
 515
 00:30:52,209 --> 00:30:56,590
 ou tento provar que posso fazer
-o mesmo que vocês.
+o mesmo que vocÃªs.
 
 516
 00:30:57,504 --> 00:30:59,426
@@ -2356,16 +2356,16 @@ Eu fracasso.
 
 517
 00:31:00,574 --> 00:31:04,014
-Acha que seu pai é melhor?
+Acha que seu pai Ã© melhor?
 
 518
 00:31:05,392 --> 00:31:10,020
-Se está tentando ser
-igual a nós, não tente.
+Se estÃ¡ tentando ser
+igual a nÃ³s, nÃ£o tente.
 
 519
 00:31:10,021 --> 00:31:13,607
-Somos tão imperfeitos
+Somos tÃ£o imperfeitos
 quanto qualquer um,
 
 520
@@ -2375,7 +2375,7 @@ especialmente eu.
 521
 00:31:17,268 --> 00:31:20,114
 Tudo o que pode fazer
-é ser você mesma.
+Ã© ser vocÃª mesma.
 
 522
 00:31:20,115 --> 00:31:21,823
@@ -2383,32 +2383,32 @@ O que isso quer dizer?
 
 523
 00:31:21,824 --> 00:31:24,410
-Você é o tipo de pessoa
+VocÃª Ã© o tipo de pessoa
 que simplesmente desiste?
 
 524
 00:31:29,625 --> 00:31:32,980
-Será que temos tempo para mais
+SerÃ¡ que temos tempo para mais
 uma briga antes de partirmos?
 
 525
 00:31:33,419 --> 00:31:34,928
-Não estou procurando briga.
+NÃ£o estou procurando briga.
 
 526
 00:31:34,929 --> 00:31:37,547
-Então não nos mande para casa.
-Não vamos embora.
+EntÃ£o nÃ£o nos mande para casa.
+NÃ£o vamos embora.
 
 527
 00:31:37,548 --> 00:31:40,917
-Ótimo, porque preciso
+Ã“timo, porque preciso
 da sua ajuda.
 
 528
 00:31:41,863 --> 00:31:45,582
-Oleg venderá o dispositivo
-na luta de hoje à noite.
+Oleg venderÃ¡ o dispositivo
+na luta de hoje Ã  noite.
 
 529
 00:31:45,583 --> 00:31:47,642
@@ -2425,23 +2425,23 @@ a nosso favor.
 
 532
 00:31:53,636 --> 00:31:56,701
-Você e eu vamos lutar juntos,
+VocÃª e eu vamos lutar juntos,
 como uma equipe.
 
 533
 00:31:58,028 --> 00:32:00,279
-Você pode nos ajudar
+VocÃª pode nos ajudar
 a entrar.
 
 534
 00:32:00,635 --> 00:32:03,116
-Desculpe, não tive tempo
-de lavá-lo a seco.
+Desculpe, nÃ£o tive tempo
+de lavÃ¡-lo a seco.
 
 535
 00:32:03,117 --> 00:32:06,065
 Sou realmente um cara
-por trás da tela,
+por trÃ¡s da tela,
 
 536
 00:32:06,066 --> 00:32:07,996
@@ -2453,18 +2453,18 @@ O que Anatoly e eu faremos
 
 538
 00:32:11,043 --> 00:32:13,961
-enquanto vocês estiverem
+enquanto vocÃªs estiverem
 brincando de lutinha?
 
 539
 00:32:13,962 --> 00:32:17,191
 Quando Oleg ver
-que somos nós no ringue,
+que somos nÃ³s no ringue,
 
 540
 00:32:17,192 --> 00:32:20,172
-isso causará uma distração.
-E vocês pegam o dispositivo.
+isso causarÃ¡ uma distraÃ§Ã£o.
+E vocÃªs pegam o dispositivo.
 
 541
 00:32:21,527 --> 00:32:23,108
@@ -2477,16 +2477,16 @@ Cara rico e extravagante
 
 543
 00:32:25,272 --> 00:32:26,985
-é o papel que nasci
+Ã© o papel que nasci
 para desempenhar.
 
 544
 00:32:28,140 --> 00:32:29,540
-E você?
+E vocÃª?
 
 545
 00:32:30,356 --> 00:32:31,856
-Por que não?
+Por que nÃ£o?
 
 546
 00:32:34,763 --> 00:32:36,163
@@ -2498,21 +2498,21 @@ Vistam-se.
 
 548
 00:32:41,731 --> 00:32:48,006
-<i>Mais duas vítimas. Ninguém sobreviverá
+<i>Mais duas vÃ­timas. NinguÃ©m sobreviverÃ¡
 ao banho de sangue?</i>
 
 549
 00:32:48,007 --> 00:32:50,737
-<i>Estão preparados
+<i>EstÃ£o preparados
 para mais um round?</i>
 
 550
 00:32:50,738 --> 00:32:52,738
-<i>Façam suas apostas!</i>
+<i>FaÃ§am suas apostas!</i>
 
 551
 00:32:53,067 --> 00:32:55,068
-Agora entendo porquê chamam
+Agora entendo porquÃª chamam
 de banho de sangue.
 
 552
@@ -2529,24 +2529,24 @@ Quanto quer para lutarem?
 
 555
 00:33:01,149 --> 00:33:03,149
-A fila está cheia.
+A fila estÃ¡ cheia.
 
 556
 00:33:03,150 --> 00:33:05,150
-Não há realmente nenhum preço?
+NÃ£o hÃ¡ realmente nenhum preÃ§o?
 
 557
 00:33:05,496 --> 00:33:08,039
-Não de você, americano.
+NÃ£o de vocÃª, americano.
 
 558
 00:33:08,842 --> 00:33:13,122
-Se não se trata de dinheiro,
-então que tal apostas?
+Se nÃ£o se trata de dinheiro,
+entÃ£o que tal apostas?
 
 559
 00:33:14,195 --> 00:33:16,393
-Alguém já sobreviveu
+AlguÃ©m jÃ¡ sobreviveu
 a 6 homens antes?
 
 560
@@ -2560,21 +2560,21 @@ contra seis.
 
 562
 00:33:22,887 --> 00:33:24,597
-Você é o próximo.
+VocÃª Ã© o prÃ³ximo.
 
 563
 00:33:26,240 --> 00:33:28,853
 Realmente precisamos estabelecer
-recordes hoje à noite?
+recordes hoje Ã  noite?
 
 564
 00:33:28,854 --> 00:33:32,649
-Gosta de um desafio, não?
-Só por favor, não morra.
+Gosta de um desafio, nÃ£o?
+SÃ³ por favor, nÃ£o morra.
 
 565
 00:33:34,901 --> 00:33:36,527
-Anatoly, estão em posição?
+Anatoly, estÃ£o em posiÃ§Ã£o?
 
 566
 00:33:36,528 --> 00:33:39,827
@@ -2583,11 +2583,11 @@ de grandes apostadores.
 
 567
 00:33:40,714 --> 00:33:42,575
-É uma boa hora para atacar.
+Ã‰ uma boa hora para atacar.
 
 568
 00:33:42,576 --> 00:33:43,854
-Quanto tempo nós temos?
+Quanto tempo nÃ³s temos?
 
 569
 00:33:43,855 --> 00:33:45,460
@@ -2599,12 +2599,12 @@ Isso vai ser divertido.
 
 571
 00:33:49,249 --> 00:33:50,874
-Vi o que é capaz de fazer,
+Vi o que Ã© capaz de fazer,
 
 572
 00:33:50,875 --> 00:33:55,005
 confie nos seus instintos, certo?
-Confio em você.
+Confio em vocÃª.
 
 573
 00:34:02,323 --> 00:34:07,527
@@ -2613,7 +2613,7 @@ contra seis assassinos.
 
 574
 00:34:08,379 --> 00:34:11,556
-Quem poderia ser tão ousado?
+Quem poderia ser tÃ£o ousado?
 
 575
 00:34:13,655 --> 00:34:15,867
@@ -2621,11 +2621,11 @@ Qual o seu nome?
 
 576
 00:34:16,972 --> 00:34:18,732
-Meu nome é Kapiushon.
+Meu nome Ã© Kapiushon.
 
 577
 00:34:23,579 --> 00:34:28,471
-Já encontramos um par
+JÃ¡ encontramos um par
 de desafiantes dignos?
 
 578
@@ -2634,17 +2634,17 @@ Vamos ver!
 
 579
 00:34:39,490 --> 00:34:42,654
-Os compradores estão a caminho.
+Os compradores estÃ£o a caminho.
 Quer que paremos a luta?
 
 580
 00:34:42,655 --> 00:34:44,867
-Não, prepare os homens.
+NÃ£o, prepare os homens.
 
 581
 00:34:45,615 --> 00:34:48,588
 Se esses dois sobreviverem,
-vamos matá-los.
+vamos matÃ¡-los.
 
 582
 00:34:48,588 --> 00:34:50,588
@@ -2656,11 +2656,11 @@ Pode esperar.
 
 584
 00:34:58,567 --> 00:34:59,967
-É a nossa deixa.
+Ã‰ a nossa deixa.
 
 585
 00:35:00,194 --> 00:35:02,409
-O Pakhan ainda estará protegido.
+O Pakhan ainda estarÃ¡ protegido.
 
 586
 00:35:02,410 --> 00:35:04,119
@@ -2676,11 +2676,11 @@ Conseguiram o projeto?
 
 589
 00:35:59,996 --> 00:36:03,183
-Não se mexa ou eu atiro.
+NÃ£o se mexa ou eu atiro.
 
 590
 00:36:09,029 --> 00:36:11,086
-Você disse para ficar
+VocÃª disse para ficar
 observando.
 
 591
@@ -2698,33 +2698,33 @@ com isso.
 
 594
 00:36:55,816 --> 00:36:59,693
-Parabéns, meu americano favorito
-agora é você.
+ParabÃ©ns, meu americano favorito
+agora Ã© vocÃª.
 
 595
 00:36:59,694 --> 00:37:02,518
-Não se anime, ele tem muitos
+NÃ£o se anime, ele tem muitos
 americanos favoritos.
 
 596
 00:37:02,853 --> 00:37:04,837
-- Você falou com o John?
+- VocÃª falou com o John?
 - Falei.
 
 597
 00:37:04,838 --> 00:37:08,030
-Ele conseguiu o plutônio
+Ele conseguiu o plutÃ´nio
 com ajuda do Roy.
 
 598
 00:37:08,031 --> 00:37:10,000
-Só precisamos criar
+SÃ³ precisamos criar
 uma onda de energia
 
 599
 00:37:10,001 --> 00:37:12,793
 para destruir um ser espacial
-que tudo sabe. Fácil.
+que tudo sabe. FÃ¡cil.
 
 600
 00:37:12,794 --> 00:37:14,837
@@ -2737,8 +2737,8 @@ Para Mia e William.
 
 602
 00:37:18,077 --> 00:37:20,245
-Não poderia ter
-feito isso sem vocês.
+NÃ£o poderia ter
+feito isso sem vocÃªs.
 
 603
 00:37:20,246 --> 00:37:22,002
@@ -2755,7 +2755,7 @@ aqui dizemos "<i>prochnost</i>".
 
 606
 00:37:25,600 --> 00:37:28,605
-<i>Prochnost</i>, significa força.
+<i>Prochnost</i>, significa forÃ§a.
 
 607
 00:37:28,606 --> 00:37:30,463
@@ -2776,25 +2776,25 @@ Deixe a garrafa.
 
 611
 00:37:41,629 --> 00:37:44,906
-Sei que não falei com vocês
+Sei que nÃ£o falei com vocÃªs
 
 612
 00:37:44,907 --> 00:37:48,157
-sobre o meu tempo na Rússia.
+sobre o meu tempo na RÃºssia.
 
 613
 00:37:49,487 --> 00:37:52,611
-E isso é porque houve
+E isso Ã© porque houve
 algumas coisas que fiz aqui
 
 614
 00:37:52,612 --> 00:37:54,696
-de que não tenho orgulho.
+de que nÃ£o tenho orgulho.
 
 615
 00:37:54,697 --> 00:37:59,065
-Como estou começando a entender
-o fato de que vocês cresceram,
+Como estou comeÃ§ando a entender
+o fato de que vocÃªs cresceram,
 
 616
 00:37:59,066 --> 00:38:00,567
@@ -2802,11 +2802,11 @@ Estou me acostumando com isso.
 
 617
 00:38:00,954 --> 00:38:04,246
-Se eu quero protegê-los do mal
+Se eu quero protegÃª-los do mal
 
 618
 00:38:04,247 --> 00:38:09,335
-não adianta se não tivermos
+nÃ£o adianta se nÃ£o tivermos
 um bom relacionamento.
 
 619
@@ -2817,12 +2817,12 @@ o que quiserem saber sobre mim,
 620
 00:38:12,715 --> 00:38:17,356
 qualquer que seja
-a pergunta, façam.
+a pergunta, faÃ§am.
 
 621
 00:38:17,357 --> 00:38:20,255
 Como desloca os polegares?
-Não acredito que perdi isso.
+NÃ£o acredito que perdi isso.
 
 622
 00:38:20,256 --> 00:38:22,220
@@ -2839,11 +2839,11 @@ Lian Yu.
 
 625
 00:38:29,773 --> 00:38:32,401
-É "purgatório" em mandarim.
+Ã‰ "purgatÃ³rio" em mandarim.
 
 626
 00:38:34,496 --> 00:38:35,946
-<i>Acha que será o suficiente?</i>
+<i>Acha que serÃ¡ o suficiente?</i>
 
 627
 00:38:35,947 --> 00:38:38,541
@@ -2856,8 +2856,8 @@ cara.
 
 629
 00:38:42,701 --> 00:38:46,108
-Foi bom ter você de volta,
-mesmo que para uma última missão.
+Foi bom ter vocÃª de volta,
+mesmo que para uma Ãºltima missÃ£o.
 
 630
 00:38:47,438 --> 00:38:49,575
@@ -2866,13 +2866,13 @@ por mais um tempo.
 
 631
 00:38:49,576 --> 00:38:52,045
-Se vão enfrentar
-um deus do espaço,
+Se vÃ£o enfrentar
+um deus do espaÃ§o,
 
 632
 00:38:52,046 --> 00:38:53,973
 acho precisam de toda
-a ajuda possível.
+a ajuda possÃ­vel.
 
 633
 00:38:53,974 --> 00:38:55,639
@@ -2884,12 +2884,12 @@ Quando eu conheci o Oliver,
 
 635
 00:38:58,343 --> 00:39:00,862
-ele me deu um propósito,
+ele me deu um propÃ³sito,
 
 636
 00:39:00,863 --> 00:39:03,033
-mas também me deu
-todos vocês.
+mas tambÃ©m me deu
+todos vocÃªs.
 
 637
 00:39:03,841 --> 00:39:05,287
@@ -2897,12 +2897,12 @@ Se fazer parte da equipe,
 
 638
 00:39:05,288 --> 00:39:08,083
-é o que me ajuda no futuro,
-então por que esperar?
+Ã© o que me ajuda no futuro,
+entÃ£o por que esperar?
 
 639
 00:39:08,564 --> 00:39:12,838
-Além disso, sinto falta
+AlÃ©m disso, sinto falta
 desse lugar.
 
 640
@@ -2911,12 +2911,12 @@ Bem-vindo de volta, Roy.
 
 641
 00:39:21,617 --> 00:39:25,203
-Não esquece de me enviar a foto
+NÃ£o esquece de me enviar a foto
 do meu pai com esse cabelo.
 
 642
 00:39:25,204 --> 00:39:27,288
-Não se esqueça de perguntar
+NÃ£o se esqueÃ§a de perguntar
 sobre a tatuagem da Bratva.
 
 643
@@ -2925,12 +2925,12 @@ Nos completamos.
 
 644
 00:39:28,409 --> 00:39:30,061
-Costumávamos, na verdade.
+CostumÃ¡vamos, na verdade.
 
 645
 00:39:30,062 --> 00:39:33,107
 Quero saber mais
-dessa história logo.
+dessa histÃ³ria logo.
 
 646
 00:39:35,508 --> 00:39:36,908
@@ -2938,8 +2938,8 @@ Obrigado.
 
 647
 00:39:36,909 --> 00:39:38,681
-Pareço sempre estar
-em dívida com você.
+PareÃ§o sempre estar
+em dÃ­vida com vocÃª.
 
 648
 00:39:38,682 --> 00:39:40,641
@@ -2947,36 +2947,36 @@ Sem ressentimentos.
 
 649
 00:39:41,012 --> 00:39:43,679
-Éramos amigos,
+Ã‰ramos amigos,
 fomos inimigos.
 
 650
 00:39:43,680 --> 00:39:45,991
 De agora em diante,
-sejamos apenas irmãos.
+sejamos apenas irmÃ£os.
 
 651
 00:39:45,992 --> 00:39:47,876
-- Não do tipo da Bratva.
-- Não.
+- NÃ£o do tipo da Bratva.
+- NÃ£o.
 
 652
 00:39:47,877 --> 00:39:51,523
-Família de verdade,
-como a que você tem agora.
+FamÃ­lia de verdade,
+como a que vocÃª tem agora.
 
 653
 00:39:52,292 --> 00:39:54,756
-Eu posso ser o tio do pavê.
+Eu posso ser o tio do pavÃª.
 
 654
 00:39:56,568 --> 00:39:58,658
 Ser pai realmente
-combina com você.
+combina com vocÃª.
 
 655
 00:40:00,707 --> 00:40:03,119
-- Adeus, irmão.
+- Adeus, irmÃ£o.
 - Obrigado.
 
 656
@@ -2997,12 +2997,12 @@ Quero te dizer algo.
 
 660
 00:40:12,274 --> 00:40:16,241
-O quê? Uma última piada
+O quÃª? Uma Ãºltima piada
 russa para rirmos na estrada?
 
 661
 00:40:16,956 --> 00:40:18,740
-Desculpe duvidar de você.
+Desculpe duvidar de vocÃª.
 
 662
 00:40:18,741 --> 00:40:21,676
@@ -3011,16 +3011,16 @@ podem mudar de lugar.
 
 663
 00:40:21,677 --> 00:40:24,888
-Ou no seu caso, pássaro.
+Ou no seu caso, pÃ¡ssaro.
 
 664
 00:40:25,634 --> 00:40:27,614
-Achei que não fosse sentimental.
+Achei que nÃ£o fosse sentimental.
 
 665
 00:40:27,615 --> 00:40:30,936
 Talvez tenha mudado,
-como você.
+como vocÃª.
 
 666
 00:40:41,127 --> 00:40:43,181
@@ -3032,16 +3032,16 @@ Sobre isso,
 
 668
 00:40:46,327 --> 00:40:50,496
-decidi não me juntar a você,
-e ao desastre da moda cósmica,
+decidi nÃ£o me juntar a vocÃª,
+e ao desastre da moda cÃ³smica,
 
 669
 00:40:50,497 --> 00:40:51,685
-com quem está se metendo.
+com quem estÃ¡ se metendo.
 
 670
 00:40:51,686 --> 00:40:53,501
-Então não terá
+EntÃ£o nÃ£o terÃ¡
 sua Terra de volta.
 
 671
@@ -3055,7 +3055,7 @@ qual o motivo de querer?
 
 673
 00:40:59,215 --> 00:41:01,591
-Você realmente mudou.
+VocÃª realmente mudou.
 
 674
 00:41:01,592 --> 00:41:05,367
@@ -3064,21 +3064,21 @@ de fazer a coisa certa,
 
 675
 00:41:05,368 --> 00:41:07,775
-mas você deve contar
-a verdade à sua família.
+mas vocÃª deve contar
+a verdade Ã  sua famÃ­lia.
 
 676
 00:41:08,747 --> 00:41:10,475
-Ainda não.
+Ainda nÃ£o.
 
 677
 00:41:10,476 --> 00:41:12,818
-Então isso vai ser
+EntÃ£o isso vai ser
 um pouco estranho.
 
 678
 00:41:20,213 --> 00:41:21,987
-Não pude acreditar.
+NÃ£o pude acreditar.
 
 679
 00:41:22,280 --> 00:41:23,580
@@ -3086,7 +3086,7 @@ Sinto muito.
 
 680
 00:41:30,438 --> 00:41:32,606
-Lyla, o que você fez?
+Lyla, o que vocÃª fez?
 
 681
 00:41:37,632 --> 00:41:42,067
