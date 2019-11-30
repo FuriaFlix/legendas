@@ -1,0 +1,2975 @@
+1
+00:00:06,397 --> 00:00:08,573
+<i>Anteriormente...</i>
+
+2
+00:00:08,617 --> 00:00:10,184
+<i>- Todo ano esta noite fica pior</i>
+
+3
+00:00:11,881 --> 00:00:13,752
+<i>Mais caos nas ruas, mais Chacais,
+e agora o Tommy?</i>
+
+4
+00:00:13,796 --> 00:00:15,450
+<i>- O que quer dizer?
+- Não vale o risco</i>
+
+5
+00:00:15,493 --> 00:00:17,060
+<i>- Me desculpe!
+- Turner!</i>
+
+6
+00:00:17,104 --> 00:00:18,148
+<i>- Não!
+- Não me deixe!</i>
+
+7
+00:00:18,192 --> 00:00:20,063
+<i>Ben, o que aconteceu?</i>
+
+8
+00:00:20,107 --> 00:00:21,456
+<i>- Eu expurguei</i>
+
+9
+00:00:23,240 --> 00:00:26,678
+<i>- O que acontece na Noite de Crime
+fica nela, tá bem?</i>
+
+10
+00:00:26,722 --> 00:00:29,507
+<i>- É, Noite de Crime
+- Então quem é Drew Adams?</i>
+
+11
+00:00:30,987 --> 00:00:32,510
+<i>- Você sabe que não posso mandar
+rastrear alguém</i>
+
+12
+00:00:32,554 --> 00:00:34,295
+<i>da sua vida pessoal,
+então tire uma folga,</i>
+
+13
+00:00:34,338 --> 00:00:35,557
+<i>e esqueça</i>
+
+14
+00:00:35,600 --> 00:00:37,689
+<i>- Estes pertenciam a
+Professora Adams.</i>
+
+15
+00:00:37,733 --> 00:00:40,736
+<i>O que ela estava pesquisando,
+era importante pra ela,</i>
+
+16
+00:00:40,779 --> 00:00:42,651
+<i>Só estou pedindo sua ajuda</i>
+
+17
+00:00:42,694 --> 00:00:45,480
+<i>O dinheiro não era para
+estar naquele banco</i>
+
+18
+00:00:45,523 --> 00:00:48,700
+<i>Furgões movem o resto para uma
+pista de pouso em Overton.</i>
+
+19
+00:00:48,744 --> 00:00:52,269
+<i>Esse é o golpe para financiar
+o resto de nossas vidas</i>
+
+20
+00:00:52,313 --> 00:00:53,792
+<i>A maioria dos expurgos domésticos</i>
+
+21
+00:00:53,836 --> 00:00:56,317
+<i>é cometido pelo cônjuge...</i>
+
+22
+00:00:56,360 --> 00:00:58,623
+<i>na minha linha de trabalho,
+casos como esse,</i>
+
+23
+00:00:58,667 --> 00:01:00,582
+<i>É alguem que você conhece</i>
+
+24
+00:01:03,427 --> 00:01:05,429
+<i><font color="#cece00">Chegou o Dia da Lembrança,</font></i>
+
+25
+00:01:05,471 --> 00:01:07,681
+<i><font color="#cece00">e nós dos NPFA</font></i>
+
+26
+00:01:07,765 --> 00:01:09,850
+<i><font color="#cece00">desejamos um dia seguro e feliz</font></i>
+
+27
+00:01:09,934 --> 00:01:12,311
+<i><font color="#cece00">a todos os cidadãos cujos entes queridos</font></i>
+
+28
+00:01:12,394 --> 00:01:14,355
+<i><font color="#cece00">se sacrificaram pela Noite de Crime.</font></i>
+
+29
+00:01:14,897 --> 00:01:17,858
+<i><font color="#cece00">Este fim de semana é o momento
+de honrar e celebrar</font></i>
+
+30
+00:01:17,942 --> 00:01:21,362
+<i><font color="#cece00">os mártires que deram suas vidas
+pelo país.</font></i>
+
+31
+00:01:21,445 --> 00:01:22,988
+Obrigado por seu sacrifício.
+
+32
+00:01:23,739 --> 00:01:25,824
+<i><font color="#cece00">Aproveitem o feriado para lembrar que...</font></i>
+
+33
+00:01:26,325 --> 00:01:28,744
+<i><font color="#cece00">o maior serviço que existe</font></i>
+
+34
+00:01:28,827 --> 00:01:32,122
+<i><font color="#cece00">é dar sua vida
+por nossa nação maravilhosa.</font></i>
+
+35
+00:01:32,414 --> 00:01:33,415
+<font color="#cece00">DIA DA LEMBRANÇA</font>
+
+36
+00:01:33,499 --> 00:01:37,211
+<i><font color="#cece00">Sabemos que a Noite de Crime garante
+segurança e força à nação,</font></i>
+
+37
+00:01:37,670 --> 00:01:39,588
+<i><font color="#cece00">mas ela tem seus custos.</font></i>
+
+38
+00:01:41,924 --> 00:01:46,053
+<i><font color="#cece00">Hoje, também celebramos as famílias.</font></i>
+
+39
+00:01:46,887 --> 00:01:47,972
+<i><font color="#cece00">As mães,</font></i>
+
+40
+00:01:48,055 --> 00:01:49,473
+<i><font color="#cece00">pais,</font></i>
+
+41
+00:01:49,557 --> 00:01:51,392
+<i><font color="#cece00">irmãs e irmãos</font></i>
+
+42
+00:01:51,475 --> 00:01:54,144
+<i><font color="#cece00">que fizeram o sacrifício definitivo.</font></i>
+
+43
+00:01:54,728 --> 00:01:58,274
+<i><font color="#cece00">Se você vir alguém com uma flor amarela,</font></i>
+
+44
+00:01:58,357 --> 00:01:59,733
+<i><font color="#cece00">dê um aperto de mãos,</font></i>
+
+45
+00:02:00,234 --> 00:02:01,360
+<i><font color="#cece00">um abraço.</font></i>
+
+46
+00:02:01,443 --> 00:02:03,571
+<i><font color="#cece00">Compre um café</font></i>
+
+47
+00:02:03,654 --> 00:02:07,199
+<i><font color="#cece00">para agradecer o sacrifício
+que ela fez pelo país.</font></i>
+
+48
+00:02:08,534 --> 00:02:09,785
+<i><font color="#cece00">Afinal de contas,</font></i>
+
+49
+00:02:10,286 --> 00:02:12,621
+<i><font color="#cece00">é a coisa mais americana a se fazer.</font></i>
+
+50
+00:02:21,250 --> 00:02:25,250
+<b><font color="#d99556">THE PURGE S02E04</font></b>
+<b><font color="#ffffff">"Grief Box"</font></b>
+
+51
+00:02:32,224 --> 00:02:34,852
+<b><font color="#eaea00">DIA DA LEMBRANÇA
+TRÊS MESES APÓS A NOITE DE CRIME</font></b>
+
+52
+00:03:02,463 --> 00:03:03,589
+Porra.
+
+53
+00:03:05,549 --> 00:03:06,592
+Quem é?
+
+54
+00:03:07,051 --> 00:03:08,052
+O Darren.
+
+55
+00:03:09,637 --> 00:03:10,638
+Entre.
+
+56
+00:03:11,972 --> 00:03:13,265
+O que foi? Você está bem?
+
+57
+00:03:13,766 --> 00:03:14,767
+Estou.
+
+58
+00:03:16,060 --> 00:03:17,394
+Não tenho muito tempo.
+
+59
+00:03:18,354 --> 00:03:21,190
+Isso estava arquivado
+na biblioteca da universidade.
+
+60
+00:03:21,690 --> 00:03:25,194
+A professora Adams tinha rotulado
+como outro estudo.
+
+61
+00:03:25,653 --> 00:03:26,862
+Ela queria esconder.
+
+62
+00:03:27,780 --> 00:03:28,947
+Cópias físicas.
+
+63
+00:03:30,157 --> 00:03:31,742
+Como as que estavam na casa dela.
+
+64
+00:03:32,117 --> 00:03:33,827
+Mais difícil de vazar ou hackear.
+
+65
+00:03:35,537 --> 00:03:36,664
+São as cobaias.
+
+66
+00:03:37,122 --> 00:03:39,083
+Não tem nomes, só números.
+
+67
+00:03:40,250 --> 00:03:41,752
+Por que ela as estudava?
+
+68
+00:03:41,835 --> 00:03:43,796
+Violência, vício.
+
+69
+00:03:44,630 --> 00:03:46,298
+Essas ressonâncias
+
+70
+00:03:46,382 --> 00:03:47,925
+mostram que atos violentos
+
+71
+00:03:48,008 --> 00:03:50,594
+podem dar uma sensação de prazer,
+como uma droga.
+
+72
+00:03:50,678 --> 00:03:52,304
+Principalmente nos mais jovens,
+
+73
+00:03:52,388 --> 00:03:54,306
+que cresceram com a Emenda 28.
+
+74
+00:03:54,807 --> 00:03:56,892
+Se as pessoas se viciarem em violência,
+
+75
+00:03:56,975 --> 00:03:59,603
+isso vai contra tudo o que os NPFA dizem
+
+76
+00:03:59,687 --> 00:04:01,230
+sobre liberar a raiva e tal.
+
+77
+00:04:02,898 --> 00:04:04,858
+Espere, eu vi os dados.
+
+78
+00:04:05,109 --> 00:04:06,235
+Fora a Noite de Crime,
+
+79
+00:04:06,318 --> 00:04:08,195
+há menos crimes violentos do que nunca.
+
+80
+00:04:08,278 --> 00:04:09,279
+Sim.
+
+81
+00:04:09,363 --> 00:04:12,783
+Mas quanto desses dados
+foram manipulados pelos NPFA?
+
+82
+00:04:12,866 --> 00:04:13,951
+Não temos provas.
+
+83
+00:04:14,034 --> 00:04:16,120
+Espere, só me ouve.
+
+84
+00:04:16,203 --> 00:04:17,788
+E se tiverem falsificado os dados?
+
+85
+00:04:17,871 --> 00:04:19,915
+Pense bem.
+Se a professora Adams tiver razão,
+
+86
+00:04:19,998 --> 00:04:22,418
+a Noite de Crime deixaria as pessoas
+mais violentas.
+
+87
+00:04:22,501 --> 00:04:25,045
+Mas não temos muito material, né?
+
+88
+00:04:25,129 --> 00:04:26,547
+Essas pessoas saberiam mais.
+
+89
+00:04:26,630 --> 00:04:27,923
+Então vamos falar com elas.
+
+90
+00:04:28,006 --> 00:04:30,551
+Os estudos são anônimos.
+Não tenho como falar com elas.
+
+91
+00:04:30,843 --> 00:04:31,844
+Eu tenho.
+
+92
+00:04:32,261 --> 00:04:33,512
+Reconhecimento facial.
+
+93
+00:04:34,471 --> 00:04:36,390
+Se forem Nível G ou mais,
+
+94
+00:04:36,724 --> 00:04:38,976
+nós as rotulamos e poderemos monitorá-las.
+
+95
+00:04:39,476 --> 00:04:41,603
+Então, se eu não respeitar uma placa,
+
+96
+00:04:41,687 --> 00:04:44,231
+os NPFA podem me monitorar?
+
+97
+00:04:44,648 --> 00:04:46,692
+Se estiver ao alcance das câmeras, sim.
+
+98
+00:04:47,067 --> 00:04:48,152
+Olhe só.
+
+99
+00:04:48,235 --> 00:04:53,282
+Assim, o governo terá mais razões
+pra ocultar informações.
+
+100
+00:04:53,532 --> 00:04:56,118
+Se mentem sobre a Noite de Crime,
+o que mais encobrem?
+
+101
+00:04:57,411 --> 00:04:58,537
+Os dados
+
+102
+00:04:58,954 --> 00:05:01,832
+sugerem que a Noite de Crime faz
+as pessoas quererem matar mais.
+
+103
+00:05:02,875 --> 00:05:05,043
+Não só na Noite, mas todos os dias.
+
+104
+00:05:05,711 --> 00:05:08,797
+Os NPFA não deixariam esses dados vazarem.
+
+105
+00:05:11,049 --> 00:05:12,092
+Tenha cuidado.
+
+106
+00:05:27,316 --> 00:05:28,358
+Ben.
+
+107
+00:05:33,697 --> 00:05:34,698
+Ben!
+
+108
+00:05:40,704 --> 00:05:41,830
+Ben!
+
+109
+00:05:46,335 --> 00:05:47,419
+Venha cá ver.
+
+110
+00:05:49,338 --> 00:05:51,256
+A busca pelo amado fazendeiro,
+
+111
+00:05:51,465 --> 00:05:53,509
+que sumiu há quase três meses,
+
+112
+00:05:53,592 --> 00:05:56,595
+terminou ontem. A polícia achou
+o corpo dele na Rodovia 90.
+
+113
+00:05:56,678 --> 00:05:57,930
+-Amor, a gente...
+-Espere.
+
+114
+00:05:58,013 --> 00:06:00,098
+Você acompanhou o caso dele.
+
+115
+00:06:00,182 --> 00:06:01,308
+-Após...
+-Viu?
+
+116
+00:06:01,391 --> 00:06:02,559
+...a perícia,
+
+117
+00:06:02,643 --> 00:06:04,812
+as autoridades identificaram
+a causa da morte:
+
+118
+00:06:05,813 --> 00:06:06,814
+insolação.
+
+119
+00:06:06,897 --> 00:06:10,400
+Neste calor do verão,
+é preciso se precaver
+
+120
+00:06:10,692 --> 00:06:12,820
+e beber bastante líquido.
+
+121
+00:06:13,654 --> 00:06:14,905
+Que horror!
+
+122
+00:06:15,864 --> 00:06:17,908
+Meus avós viviam como ele.
+
+123
+00:06:18,283 --> 00:06:19,284
+Amor.
+
+124
+00:06:19,743 --> 00:06:21,703
+Tenho que dar uma saída antes da festa.
+
+125
+00:06:21,787 --> 00:06:23,914
+Te encontro lá?
+
+126
+00:06:25,457 --> 00:06:26,458
+Claro.
+
+127
+00:06:29,253 --> 00:06:30,254
+Mas...
+
+128
+00:06:32,297 --> 00:06:35,050
+como é Fim de Semana da Lembrança,
+
+129
+00:06:35,926 --> 00:06:37,761
+como está? Com a Noite de Crime e tal.
+
+130
+00:06:40,097 --> 00:06:41,431
+Estou bem melhor.
+
+131
+00:06:51,692 --> 00:06:52,985
+Meu Deus!
+
+132
+00:06:53,068 --> 00:06:54,695
+Feliz Dia da Lembrança.
+
+133
+00:06:55,195 --> 00:06:57,281
+A Susan falou comigo lá fora.
+
+134
+00:06:58,073 --> 00:07:00,951
+Ela quer que a gente vá
+ao churrasco deles hoje.
+
+135
+00:07:01,034 --> 00:07:03,161
+Não me faça ir sozinha.
+
+136
+00:07:04,162 --> 00:07:05,664
+Amor, desculpe. Não dá.
+
+137
+00:07:05,914 --> 00:07:07,541
+Acharam uma pista.
+
+138
+00:07:08,417 --> 00:07:11,169
+-Sobre a caminhonete?
+-Não, sobre o assassino.
+
+139
+00:07:11,712 --> 00:07:15,090
+Mas não foi um cara
+que respondeu ao anúncio?
+
+140
+00:07:15,173 --> 00:07:17,342
+-Precisamos de quem o contratou.
+-É, mas olhe.
+
+141
+00:07:17,426 --> 00:07:20,637
+Ele morava na rua em que eu cresci.
+
+142
+00:07:20,971 --> 00:07:22,681
+Não pode ser coincidência.
+
+143
+00:07:23,056 --> 00:07:26,018
+Quem encomendou minha morte
+pode ter a ver com meu passado.
+
+144
+00:07:27,185 --> 00:07:29,730
+Acha que foi alguém que cresceu com você?
+
+145
+00:07:29,813 --> 00:07:32,065
+Não sei, mas o pessoal pode saber.
+
+146
+00:07:32,566 --> 00:07:34,443
+Vai ter uma festa na Tonya,
+
+147
+00:07:34,526 --> 00:07:37,404
+então acho melhor eu aparecer por lá.
+
+148
+00:07:37,988 --> 00:07:40,908
+Vou levar o Darren.
+Talvez eu consiga informações.
+
+149
+00:07:40,991 --> 00:07:42,492
+-A Tonya?
+-Amor.
+
+150
+00:07:42,576 --> 00:07:44,578
+-Não comece.
+-Sempre digo
+
+151
+00:07:44,661 --> 00:07:45,871
+pra ficarmos de olho nela.
+
+152
+00:07:45,954 --> 00:07:47,706
+E agora o assassino
+
+153
+00:07:48,040 --> 00:07:49,583
+-mora na rua dela?
+-Tá.
+
+154
+00:07:50,208 --> 00:07:52,586
+Amor, eu e a Tonya temos nossos problemas,
+
+155
+00:07:53,003 --> 00:07:54,254
+mas eu a conheço.
+
+156
+00:07:54,630 --> 00:07:57,007
+Ela não faria nada do gênero.
+
+157
+00:08:01,136 --> 00:08:02,137
+Tudo bem.
+
+158
+00:08:03,138 --> 00:08:04,222
+Entendi.
+
+159
+00:08:10,854 --> 00:08:13,065
+O Doug vai pro lugar dele.
+
+160
+00:08:30,207 --> 00:08:31,583
+-Olá.
+-Oi.
+
+161
+00:08:31,667 --> 00:08:33,293
+-Tudo bem?
+-Ótimo.
+
+162
+00:08:36,672 --> 00:08:37,756
+Bloqueador no lugar.
+
+163
+00:08:38,048 --> 00:08:39,299
+Vai funcionar?
+
+164
+00:08:39,383 --> 00:08:40,634
+Tomara.
+
+165
+00:08:50,310 --> 00:08:51,478
+O que foi isso?
+
+166
+00:08:56,900 --> 00:08:58,902
+Funcionou.
+
+167
+00:09:09,913 --> 00:09:11,623
+<font color="#eaea00"><b><font color="#eaea00">BUSCAR PARÂMETROS</font></b></font>
+
+168
+00:09:13,709 --> 00:09:14,835
+<font color="#eaea00"><b><font color="#eaea00">RECONHECIMENTO FACIAL</font></b></font>
+
+169
+00:09:16,837 --> 00:09:17,963
+<font color="#eaea00"><b><font color="#eaea00">COBAIAS</font></b></font>
+
+170
+00:09:18,046 --> 00:09:19,506
+<font color="#eaea00"><b><font color="#eaea00">STATUS: MORTO</font></b></font>
+
+171
+00:09:30,726 --> 00:09:32,352
+<font color="#eaea00"><b><font color="#eaea00">RECONHECIMENTO FACIAL</font></b></font>
+
+172
+00:09:32,436 --> 00:09:34,229
+<font color="#eaea00"><b><font color="#eaea00">STATUS: MORTO</font></b></font>
+
+173
+00:09:39,943 --> 00:09:42,404
+<font color="#eaea00"><b><font color="#eaea00">STATUS: MORTO</font></b></font>
+
+174
+00:09:47,492 --> 00:09:48,994
+<font color="#eaea00"><b><font color="#eaea00">STATUS: MORTA</font></b></font>
+
+175
+00:09:49,077 --> 00:09:50,203
+<font color="#eaea00"><b><font color="#eaea00">STATUS: MORTO</font></b></font>
+
+176
+00:09:51,496 --> 00:09:53,040
+<font color="#eaea00"><b><font color="#eaea00">STATUS: MORTA</font></b></font>
+
+177
+00:09:54,166 --> 00:09:56,460
+<font color="#eaea00"><b><font color="#eaea00">STATUS: MORTO</font></b></font>
+
+178
+00:10:03,484 --> 00:10:04,735
+<font color="#eaea00"><b><font color="#eaea00">PROMOÇÃO DIA DA LEMBRANÇA</font></b></font>
+
+179
+00:10:04,818 --> 00:10:06,236
+<font color="#eaea00"><b><font color="#eaea00">EQUIPAMENTOS PRA NOITE DE CRIME</font></b></font>
+
+180
+00:10:06,570 --> 00:10:08,656
+<font color="#eaea00"><i>Bem-vindos à Loja do Expurgo.</i></font>
+
+181
+00:10:09,031 --> 00:10:12,284
+<font color="#eaea00"><i>Neste Dia da Lembrança,
+oferecemos os melhores preços</i></font>
+
+182
+00:10:12,368 --> 00:10:15,412
+<font color="#eaea00"><i>e a maior seleção para atender
+às necessidades da Noite de Crime.</i></font>
+
+183
+00:10:15,496 --> 00:10:16,997
+<font color="#eaea00"><b><font color="#eaea00">TUDO PARA A SUA NOITE DE CRIME!</font></b></font>
+
+184
+00:10:17,456 --> 00:10:19,124
+<font color="#eaea00"><i>Na promoção do Dia da Lembrança,</i></font>
+
+185
+00:10:19,208 --> 00:10:20,918
+<font color="#eaea00"><i>oferecemos descontos imbatíveis.</i></font>
+
+186
+00:10:23,796 --> 00:10:25,381
+<font color="#eaea00"><i>Sem crédito? Sem problema!</i></font>
+
+187
+00:10:27,675 --> 00:10:29,134
+<font color="#eaea00"><i>De tortura e mutilação</i></font>
+
+188
+00:10:29,218 --> 00:10:30,928
+<font color="#eaea00"><i>a limpeza e arrumação,</i></font>
+
+189
+00:10:31,011 --> 00:10:32,971
+<font color="#eaea00"><i>nossos funcionários amigáveis
+e experientes</i></font>
+
+190
+00:10:33,055 --> 00:10:35,057
+<font color="#eaea00"><i>tirarão suas dúvidas.</i></font>
+
+191
+00:10:37,768 --> 00:10:39,687
+Tem que pedir no balcão pra abrirem.
+
+192
+00:10:40,062 --> 00:10:42,815
+<font color="#eaea00"><i>Obrigado por comprar na Loja do Expurgo.</i></font>
+
+193
+00:10:42,898 --> 00:10:45,442
+<font color="#eaea00"><i>Uma explosão de descontos
+pra você explodir quem quiser.</i></font>
+
+194
+00:10:45,776 --> 00:10:48,195
+Fica trancada,
+mas pode sair com uma por aí?
+
+195
+00:10:51,407 --> 00:10:53,117
+Pois é.
+
+196
+00:10:53,200 --> 00:10:54,451
+Sabe usar?
+
+197
+00:10:55,244 --> 00:10:56,286
+Claro.
+
+198
+00:10:57,663 --> 00:10:58,997
+Sabe usar alguma das armas?
+
+199
+00:11:00,207 --> 00:11:02,292
+Não, eu queria isso aqui.
+
+200
+00:11:03,127 --> 00:11:04,795
+Gosta de ficar cara a cara, né?
+
+201
+00:11:07,965 --> 00:11:10,259
+Você já expurgou?
+
+202
+00:11:11,385 --> 00:11:12,386
+Já.
+
+203
+00:11:12,469 --> 00:11:13,887
+Isso, boa!
+
+204
+00:11:18,142 --> 00:11:19,852
+Mas não precisa cochichar, cara.
+
+205
+00:11:19,935 --> 00:11:21,145
+Não é vergonha nenhuma.
+
+206
+00:11:25,858 --> 00:11:28,152
+Minha namorada me mata
+se souber onde estou.
+
+207
+00:11:28,235 --> 00:11:30,571
+Meu colega de quarto também enche o saco.
+
+208
+00:11:32,489 --> 00:11:33,866
+Eu o colocaria na lista,
+
+209
+00:11:33,949 --> 00:11:36,952
+mas ele me deixa copiar as provas dele...
+
+210
+00:11:37,828 --> 00:11:38,996
+Estuda na Cooke?
+
+211
+00:11:39,538 --> 00:11:40,622
+Sim.
+
+212
+00:11:40,706 --> 00:11:42,374
+Comecei o terceiro ano, e você?
+
+213
+00:11:43,167 --> 00:11:44,168
+Também.
+
+214
+00:11:45,002 --> 00:11:46,420
+Não dá nem pra andar no campus
+
+215
+00:11:46,503 --> 00:11:49,298
+sem o pessoal antiexpurgo encher o saco.
+
+216
+00:11:51,216 --> 00:11:52,593
+Mas, no mundo real...
+
+217
+00:11:54,428 --> 00:11:56,221
+nós é que somos maioria.
+
+218
+00:11:57,681 --> 00:11:58,682
+Pode acreditar.
+
+219
+00:12:03,979 --> 00:12:06,023
+Vou a uma festa, quer ir?
+
+220
+00:12:06,982 --> 00:12:08,025
+Não, obrigado.
+
+221
+00:12:08,942 --> 00:12:11,278
+Não curto esse negócio
+de Dia da Lembrança.
+
+222
+00:12:12,780 --> 00:12:15,365
+Curte álcool de Dia da Lembrança?
+
+223
+00:12:17,701 --> 00:12:18,702
+Sim.
+
+224
+00:12:19,620 --> 00:12:20,621
+Sim.
+
+225
+00:12:21,038 --> 00:12:22,039
+Curto.
+
+226
+00:12:30,672 --> 00:12:33,801
+<b><font color="#eaea00">DIA DA LEMBRANÇA</font></b>
+
+227
+00:12:40,599 --> 00:12:41,934
+Marcus, cadê você?
+
+228
+00:12:42,017 --> 00:12:43,352
+Estou aqui.
+
+229
+00:12:43,435 --> 00:12:44,561
+<b><font color="#eaea00">NOITE DE CRIME
+14 ANOS ANTES</font></b>
+
+230
+00:12:44,645 --> 00:12:45,729
+Começa em dez minutos.
+
+231
+00:12:45,813 --> 00:12:47,272
+Espere.
+
+232
+00:12:49,358 --> 00:12:51,068
+Amor, espere.
+
+233
+00:13:01,119 --> 00:13:02,120
+Marcus?
+
+234
+00:13:03,247 --> 00:13:04,331
+Marcus?
+
+235
+00:13:04,998 --> 00:13:06,291
+Marcus, está aí?
+
+236
+00:13:06,667 --> 00:13:07,668
+Estou aqui.
+
+237
+00:13:07,751 --> 00:13:09,294
+-Venha logo!
+-Acabei de estacionar.
+
+238
+00:13:09,378 --> 00:13:10,587
+Já estou entrando.
+
+239
+00:13:10,796 --> 00:13:15,133
+CORRA
+
+240
+00:13:21,014 --> 00:13:22,474
+Opa!
+
+241
+00:13:22,558 --> 00:13:24,518
+-Olhe quem finalmente apareceu.
+-É.
+
+242
+00:13:24,601 --> 00:13:25,894
+Chegou na hora. Tudo bem?
+
+243
+00:13:26,311 --> 00:13:27,980
+-Meu soldadinho!
+-Papai!
+
+244
+00:13:28,063 --> 00:13:29,356
+Oi!
+
+245
+00:13:30,148 --> 00:13:31,358
+O que fez hoje?
+
+246
+00:13:31,692 --> 00:13:33,026
+Martelei uns pregos.
+
+247
+00:13:33,110 --> 00:13:34,319
+Martelou pregos?
+
+248
+00:13:34,403 --> 00:13:36,363
+-É.
+-Por que ele martelou pregos?
+
+249
+00:13:36,697 --> 00:13:38,115
+Até parece que ele me ouve.
+
+250
+00:13:38,198 --> 00:13:39,324
+A Tonya disse que podia.
+
+251
+00:13:39,992 --> 00:13:41,535
+Achei que fosse precisar mandar
+
+252
+00:13:41,618 --> 00:13:43,287
+-te procurarem.
+-O trabalho estava...
+
+253
+00:13:43,370 --> 00:13:44,538
+Uma loucura, eu sei.
+
+254
+00:13:44,621 --> 00:13:45,622
+Nem na Noite de Crime
+
+255
+00:13:45,706 --> 00:13:47,666
+pode abrir uma exceção?
+
+256
+00:13:47,749 --> 00:13:48,876
+Venha... Oi.
+
+257
+00:13:48,959 --> 00:13:50,669
+-Acha que está bom?
+-Deixe-me ver.
+
+258
+00:13:50,752 --> 00:13:53,213
+Perfeito. Pode dar comida pros mais novos?
+
+259
+00:13:53,297 --> 00:13:55,048
+Diga pra sentarem no meio da sala,
+
+260
+00:13:55,132 --> 00:13:56,341
+longe das janelas.
+
+261
+00:13:56,425 --> 00:13:57,968
+-Obrigada.
+-Posso dar uma olhada
+
+262
+00:13:58,051 --> 00:13:59,595
+-no pessoal?
+-Vamos.
+
+263
+00:14:07,185 --> 00:14:08,770
+"Olivia Hughes."
+
+264
+00:14:14,526 --> 00:14:15,569
+Desculpe.
+
+265
+00:14:15,652 --> 00:14:16,653
+Está tudo bem?
+
+266
+00:14:16,737 --> 00:14:18,947
+Tudo, só estou atrasada.
+
+267
+00:14:25,662 --> 00:14:28,248
+Estou com minha família, não dá pra falar.
+
+268
+00:14:28,332 --> 00:14:31,043
+<i>Darren, todo mundo na lista está morto,</i>
+
+269
+00:14:31,251 --> 00:14:32,377
+<i>menos uma pessoa.</i>
+
+270
+00:14:32,461 --> 00:14:33,545
+<i>Olivia Hughes.</i>
+
+271
+00:14:33,921 --> 00:14:35,547
+<i>Não pode ser coincidência.</i>
+
+272
+00:14:35,631 --> 00:14:36,965
+-Não.
+<i>-Vou pra casa dela agora</i>
+
+273
+00:14:37,049 --> 00:14:38,091
+<i>ver o que descubro.</i>
+
+274
+00:14:38,342 --> 00:14:39,885
+Espere, será que é uma boa ideia?
+
+275
+00:14:39,968 --> 00:14:42,054
+<i>Vou ficar bem. Conversamos depois.</i>
+
+276
+00:14:42,137 --> 00:14:43,138
+Tá, tchau.
+
+277
+00:14:44,890 --> 00:14:47,351
+Tem conhaque escondido por aí.
+
+278
+00:14:48,018 --> 00:14:49,603
+Não precisa, mãe, obrigado.
+
+279
+00:14:49,978 --> 00:14:51,271
+Vamos repassar o plano.
+
+280
+00:14:51,772 --> 00:14:53,106
+Antes das sirenes,
+
+281
+00:14:53,190 --> 00:14:55,192
+desativamos os dispositivos
+com o bloqueador.
+
+282
+00:14:55,275 --> 00:14:58,153
+Precisamos de um tempo
+pra não ativarem o backup.
+
+283
+00:14:58,236 --> 00:14:59,446
+-Dez minutos?
+-Acho que dá.
+
+284
+00:14:59,529 --> 00:15:00,656
+E o equipamento?
+
+285
+00:15:00,739 --> 00:15:01,740
+A gente chega à pista?
+
+286
+00:15:01,823 --> 00:15:03,825
+Um amigo da SWAT fez um desconto
+
+287
+00:15:03,909 --> 00:15:04,952
+pra um Humvee blindado.
+
+288
+00:15:05,035 --> 00:15:07,162
+Tem um ponto fraco em torno do aeroporto.
+
+289
+00:15:07,496 --> 00:15:09,247
+É uma cerca de 3,5m.
+
+290
+00:15:09,331 --> 00:15:11,208
+Dá pra derrubar com o Humvee.
+
+291
+00:15:11,291 --> 00:15:13,502
+Ainda tem um problema.
+
+292
+00:15:13,794 --> 00:15:16,046
+Como colocamos o bloqueador no avião?
+
+293
+00:15:21,218 --> 00:15:23,053
+Não deixe queimar!
+
+294
+00:15:23,595 --> 00:15:25,305
+Oi, bom te ver.
+
+295
+00:15:26,390 --> 00:15:27,516
+-Oi, jovem.
+-Tudo bem?
+
+296
+00:15:27,599 --> 00:15:29,101
+-Aceita?
+-Por favor.
+
+297
+00:15:29,184 --> 00:15:30,978
+-Passe a bola!
+-Oi, mãe.
+
+298
+00:15:31,645 --> 00:15:33,397
+-Oi. Coma, por favor.
+-Guardou um prato pra mim?
+
+299
+00:15:33,480 --> 00:15:35,107
+Seis.
+
+300
+00:15:35,190 --> 00:15:36,191
+Pare!
+
+301
+00:15:36,274 --> 00:15:37,901
+-Quanta pimenta!
+-Você não sabe...
+
+302
+00:15:37,985 --> 00:15:38,986
+Marcus.
+
+303
+00:15:39,069 --> 00:15:41,822
+Ainda gosta de feijão frito
+e frango sem pele?
+
+304
+00:15:41,905 --> 00:15:43,365
+Oi, Tonya.
+
+305
+00:15:44,533 --> 00:15:45,701
+Tudo bem?
+
+306
+00:15:46,284 --> 00:15:47,327
+Há quanto tempo!
+
+307
+00:15:47,411 --> 00:15:49,621
+Faz tempo mesmo.
+
+308
+00:15:50,580 --> 00:15:51,581
+Obrigado.
+
+309
+00:15:54,418 --> 00:15:55,502
+É, eu...
+
+310
+00:15:56,086 --> 00:15:58,797
+vim ver como todos estavam.
+
+311
+00:15:59,131 --> 00:16:00,132
+É.
+
+312
+00:16:00,215 --> 00:16:01,758
+-Eu...
+-Parem de correr!
+
+313
+00:16:01,842 --> 00:16:04,094
+Soube que está indo bem.
+
+314
+00:16:04,678 --> 00:16:06,972
+Muito mais gente se formou este ano.
+
+315
+00:16:07,055 --> 00:16:08,056
+Viu aquilo?
+
+316
+00:16:08,390 --> 00:16:09,474
+Claro.
+
+317
+00:16:10,100 --> 00:16:11,685
+-É.
+-Foi bom.
+
+318
+00:16:13,270 --> 00:16:14,479
+E foi ruim.
+
+319
+00:16:14,563 --> 00:16:16,148
+A Noite de Crime foi complicada.
+
+320
+00:16:17,774 --> 00:16:18,984
+O Noah morreu.
+
+321
+00:16:20,318 --> 00:16:21,737
+Eu cresci com ele.
+
+322
+00:16:22,988 --> 00:16:24,406
+Tonya, por que não me ligou?
+
+323
+00:16:25,282 --> 00:16:26,700
+Achei que estivesse ocupado.
+
+324
+00:16:30,829 --> 00:16:33,081
+Bom apetite.
+
+325
+00:16:34,499 --> 00:16:36,918
+Tenho um baralho em casa, vou pegar.
+
+326
+00:16:58,648 --> 00:16:59,691
+Beleza.
+
+327
+00:17:00,734 --> 00:17:02,944
+Só vou acender aqui, esperem.
+
+328
+00:17:03,904 --> 00:17:05,447
+Beleza, esperem.
+
+329
+00:17:05,989 --> 00:17:07,491
+Todo mundo, fique frio.
+
+330
+00:17:08,158 --> 00:17:09,159
+Energia.
+
+331
+00:17:09,242 --> 00:17:10,243
+-Vejamos...
+-Beleza.
+
+332
+00:17:10,327 --> 00:17:12,037
+-Acho que...
+-Passe a lanterna.
+
+333
+00:17:12,120 --> 00:17:13,121
+Aqui.
+
+334
+00:17:13,622 --> 00:17:14,831
+Beleza.
+
+335
+00:17:16,500 --> 00:17:18,293
+Todo mundo quietinho.
+
+336
+00:17:19,086 --> 00:17:20,420
+Tudo bem.
+
+337
+00:17:21,588 --> 00:17:22,839
+Saiam daí, gente.
+
+338
+00:17:22,923 --> 00:17:24,341
+-Pra longe da janela.
+-Saiam!
+
+339
+00:17:24,424 --> 00:17:25,926
+-Venha.
+-Vamos!
+
+340
+00:17:26,009 --> 00:17:27,469
+-Tirem as crianças!
+-Vamos.
+
+341
+00:17:27,552 --> 00:17:29,179
+-Pra longe da porta.
+-Fiquem juntos.
+
+342
+00:17:29,888 --> 00:17:30,889
+Vamos.
+
+343
+00:17:31,515 --> 00:17:32,808
+Mãe, está tudo bem.
+
+344
+00:17:32,891 --> 00:17:33,892
+Nada de pânico.
+
+345
+00:17:36,103 --> 00:17:37,938
+Meu Deus!
+
+346
+00:17:41,900 --> 00:17:43,485
+Meu Deus! Não!
+
+347
+00:17:43,568 --> 00:17:44,611
+Pra trás!
+
+348
+00:17:44,694 --> 00:17:45,862
+Todo mundo pra trás!
+
+349
+00:17:46,696 --> 00:17:48,156
+Pro chão!
+
+350
+00:17:48,240 --> 00:17:49,449
+Até em cima!
+
+351
+00:17:50,700 --> 00:17:52,077
+Vão pra trás da mesa!
+
+352
+00:17:52,410 --> 00:17:53,829
+-Vamos!
+-Vão!
+
+353
+00:17:58,208 --> 00:17:59,292
+Ele deve estar indo.
+
+354
+00:18:03,972 --> 00:18:04,973
+Beleza.
+
+355
+00:18:05,057 --> 00:18:06,684
+-Acabou?
+-Beleza.
+
+356
+00:18:07,142 --> 00:18:08,435
+-Todo mundo bem?
+-Estou bem.
+
+357
+00:18:08,519 --> 00:18:09,561
+-Sim.
+-Sim.
+
+358
+00:18:11,355 --> 00:18:12,606
+Crianças, estão bem?
+
+359
+00:18:13,565 --> 00:18:14,650
+Abaixem as armas!
+
+360
+00:18:15,317 --> 00:18:16,318
+Tudo bem.
+
+361
+00:18:16,402 --> 00:18:17,986
+O desgraçado nos distraiu.
+
+362
+00:18:18,070 --> 00:18:19,363
+-Tá.
+-Entrou pelos fundos.
+
+363
+00:18:19,446 --> 00:18:20,447
+Pra trás.
+
+364
+00:18:20,531 --> 00:18:21,532
+Vá.
+
+365
+00:18:21,615 --> 00:18:22,950
+Todo mundo pra trás.
+
+366
+00:18:23,033 --> 00:18:24,076
+Olhe só!
+
+367
+00:18:24,159 --> 00:18:26,453
+Se ela tiver um arranhão...
+
+368
+00:18:26,537 --> 00:18:28,288
+-Marcus, pare.
+-Abaixem as armas!
+
+369
+00:18:28,372 --> 00:18:30,332
+Façam o que ele mandou.
+
+370
+00:18:30,416 --> 00:18:31,417
+Tá?
+
+371
+00:18:32,042 --> 00:18:34,002
+Marcus!
+
+372
+00:18:34,086 --> 00:18:35,295
+Abaixe agora.
+
+373
+00:18:35,546 --> 00:18:36,588
+Abaixe!
+
+374
+00:18:37,506 --> 00:18:39,633
+Me escute, Eli.
+
+375
+00:18:41,051 --> 00:18:42,052
+Cale a boca.
+
+376
+00:18:42,136 --> 00:18:43,178
+Você não me conhece.
+
+377
+00:18:43,262 --> 00:18:44,680
+Eli Coleman.
+
+378
+00:18:45,055 --> 00:18:48,100
+Reconheço sua voz em qualquer lugar.
+
+379
+00:18:48,183 --> 00:18:50,394
+E conheço seu tênis.
+
+380
+00:18:51,103 --> 00:18:52,855
+-Sei o que foi.
+-Você não sabe de nada!
+
+381
+00:18:52,938 --> 00:18:55,399
+-É porque chamei sua atenção?
+-Cale a boca, porra!
+
+382
+00:18:56,734 --> 00:18:58,610
+Você me envergonhou na frente de todos!
+
+383
+00:18:58,694 --> 00:18:59,862
+Ei.
+
+384
+00:19:00,320 --> 00:19:01,697
+Já tive raiva também.
+
+385
+00:19:01,947 --> 00:19:03,031
+Sei o que sente,
+
+386
+00:19:03,365 --> 00:19:05,159
+mas não é assim que resolve.
+
+387
+00:19:05,451 --> 00:19:06,910
+-Entendeu?
+-Eli, né?
+
+388
+00:19:08,912 --> 00:19:10,497
+Olhe, quem te disse
+
+389
+00:19:10,581 --> 00:19:13,542
+que você consegue
+o que quer expurgando mentiu.
+
+390
+00:19:13,625 --> 00:19:15,127
+-É lei.
+-Ei.
+
+391
+00:19:15,502 --> 00:19:17,254
+Quem está aqui pode te ajudar
+
+392
+00:19:17,337 --> 00:19:19,381
+mais do que qualquer lei.
+
+393
+00:19:20,090 --> 00:19:21,425
+Não precisa fazer isso.
+
+394
+00:19:23,927 --> 00:19:25,053
+Entendeu?
+
+395
+00:19:26,346 --> 00:19:27,514
+Está me ouvindo?
+
+396
+00:19:28,724 --> 00:19:30,517
+Não precisa fazer isso.
+
+397
+00:19:31,268 --> 00:19:32,728
+Me entregue isso, por favor.
+
+398
+00:19:32,811 --> 00:19:33,812
+Me dê.
+
+399
+00:19:34,146 --> 00:19:35,606
+Ei.
+
+400
+00:19:36,315 --> 00:19:38,192
+Sua família está aqui.
+
+401
+00:19:38,484 --> 00:19:40,277
+Não pode jogar isso fora.
+
+402
+00:19:42,070 --> 00:19:43,071
+Certo?
+
+403
+00:19:45,657 --> 00:19:46,700
+Tudo bem.
+
+404
+00:19:48,494 --> 00:19:49,828
+Tudo bem.
+
+405
+00:20:17,147 --> 00:20:18,982
+Fale, Andre!
+
+406
+00:20:19,066 --> 00:20:20,108
+E aí?
+
+407
+00:20:22,945 --> 00:20:23,946
+Opa!
+
+408
+00:20:25,405 --> 00:20:26,448
+Acha que não sei?
+
+409
+00:20:26,532 --> 00:20:27,699
+Do que está falando...
+
+410
+00:20:27,783 --> 00:20:28,784
+Filho da puta!
+
+411
+00:20:29,618 --> 00:20:30,828
+Marcus, o que é isso?
+
+412
+00:20:30,911 --> 00:20:32,162
+-O que é isso?
+-Marcus!
+
+413
+00:20:32,371 --> 00:20:33,413
+-Marcus!
+-Pai!
+
+414
+00:20:33,497 --> 00:20:34,915
+-Pai!
+-Pare!
+
+415
+00:20:34,998 --> 00:20:36,041
+-Marcus, pare!
+-Ei!
+
+416
+00:20:36,124 --> 00:20:37,960
+-Ei!
+-Marcus, pare!
+
+417
+00:20:38,043 --> 00:20:39,127
+Ele tentou me matar!
+
+418
+00:20:39,211 --> 00:20:40,337
+-Quê?
+-Veio aqui por isso?
+
+419
+00:20:40,420 --> 00:20:41,839
+Ele tentou me expurgar!
+
+420
+00:20:41,922 --> 00:20:43,382
+-Pare.
+-Não, espere.
+
+421
+00:20:43,465 --> 00:20:45,050
+Não tentou, olhe só.
+
+422
+00:20:45,133 --> 00:20:46,176
+-Que isso?
+-Não sei.
+
+423
+00:20:46,260 --> 00:20:48,554
+Olhe a bandeira jamaicana, o rack de teto.
+
+424
+00:20:48,637 --> 00:20:50,180
+-Você não falou de nada disso.
+-É.
+
+425
+00:20:51,557 --> 00:20:53,684
+Não acredito que veio aqui pra isso.
+
+426
+00:20:54,268 --> 00:20:55,853
+Venha cá. Me dá isso.
+
+427
+00:20:55,936 --> 00:20:57,020
+Eu vim porque...
+
+428
+00:21:00,649 --> 00:21:01,817
+Desculpe.
+
+429
+00:21:01,900 --> 00:21:03,360
+Bom te ver também, Marcus.
+
+430
+00:21:04,111 --> 00:21:05,279
+Já pedi desculpa.
+
+431
+00:21:06,822 --> 00:21:07,948
+Sem noção.
+
+432
+00:21:08,031 --> 00:21:09,199
+Vá se recompor.
+
+433
+00:21:09,283 --> 00:21:10,909
+-Licença.
+-Tá?
+
+434
+00:21:12,494 --> 00:21:13,954
+Que vergonha!
+
+435
+00:21:14,037 --> 00:21:15,163
+Está tudo bem.
+
+436
+00:21:15,247 --> 00:21:16,248
+Me desculpem.
+
+437
+00:21:16,331 --> 00:21:17,791
+-Tá.
+-Tudo bem.
+
+438
+00:21:18,876 --> 00:21:20,335
+Mesmo com acesso,
+
+439
+00:21:20,419 --> 00:21:22,629
+adulterar um avião é crime Nível R.
+
+440
+00:21:22,713 --> 00:21:23,881
+E se não for no avião?
+
+441
+00:21:23,964 --> 00:21:25,007
+Colocamos no dinheiro.
+
+442
+00:21:25,090 --> 00:21:27,217
+Teríamos que entrar no cofre vazio.
+
+443
+00:21:27,301 --> 00:21:29,344
+Dá tempo de conseguir um emprego no banco?
+
+444
+00:21:29,428 --> 00:21:30,888
+Novatos não têm acesso.
+
+445
+00:21:30,971 --> 00:21:33,974
+Tem que ter outro jeito.
+Prometi que seria a última vez.
+
+446
+00:21:34,057 --> 00:21:35,183
+Tem que valer a pena.
+
+447
+00:21:36,560 --> 00:21:37,561
+Tommy.
+
+448
+00:21:38,270 --> 00:21:40,272
+É. O Tommy cuidava dos bancos.
+
+449
+00:21:40,355 --> 00:21:42,983
+Ele passou anos fazendo contatos.
+
+450
+00:21:43,525 --> 00:21:44,818
+Então precisamos do Tommy.
+
+451
+00:21:45,694 --> 00:21:46,904
+O que faremos?
+
+452
+00:21:47,738 --> 00:21:49,406
+-Diga "não" à Noite de Crime?
+-É.
+
+453
+00:21:50,449 --> 00:21:51,491
+-Oi.
+-Saúde.
+
+454
+00:21:51,575 --> 00:21:52,951
+-Oi, gente.
+-Oi.
+
+455
+00:21:53,035 --> 00:21:54,286
+Diga "não" à Noite de Crime?
+
+456
+00:21:54,661 --> 00:21:55,662
+Legal.
+
+457
+00:21:58,040 --> 00:21:59,917
+Isso é festa, não é marcha pela paz.
+
+458
+00:22:00,000 --> 00:22:02,252
+Divirtam-se no lado errado
+da história, babacas.
+
+459
+00:22:04,254 --> 00:22:05,756
+O que foi aquilo?
+
+460
+00:22:07,382 --> 00:22:08,717
+E aí, Tristonho?
+
+461
+00:22:09,092 --> 00:22:11,011
+Você é mole demais, Benny.
+
+462
+00:22:15,182 --> 00:22:17,100
+Ele está babaca hoje.
+
+463
+00:22:17,351 --> 00:22:18,477
+Oi, Kelen.
+
+464
+00:22:18,560 --> 00:22:19,937
+Não acredito que é amigo dele.
+
+465
+00:22:21,438 --> 00:22:22,940
+Não deveria ser.
+
+466
+00:22:23,899 --> 00:22:26,276
+-Ele me abandonou na Noite de Crime.
+-Quê?
+
+467
+00:22:26,360 --> 00:22:28,278
+Quase morri.
+
+468
+00:22:28,612 --> 00:22:31,073
+Se ele fizesse isso comigo,
+eu o expurgaria.
+
+469
+00:22:32,741 --> 00:22:33,951
+Gente conhecida?
+
+470
+00:22:34,034 --> 00:22:35,118
+A melhor coisa que fiz
+
+471
+00:22:35,202 --> 00:22:37,621
+foi uma lista de todo mundo
+que atrapalhou minha vida.
+
+472
+00:22:37,704 --> 00:22:39,790
+-Expurgou todos?
+-Alguns.
+
+473
+00:22:39,998 --> 00:22:42,459
+Se um babaca me irrita, começo a planejar.
+
+474
+00:22:43,460 --> 00:22:45,170
+Observar meus alvos o ano todo
+
+475
+00:22:45,253 --> 00:22:47,464
+sabendo que seria fácil acabar com eles
+
+476
+00:22:47,756 --> 00:22:48,882
+é o que me mantém são.
+
+477
+00:22:50,801 --> 00:22:52,970
+Imagine enforcar aquele cara, Ben.
+
+478
+00:22:53,971 --> 00:22:57,140
+Ver a cara dele quando ele sacar
+que não devia ter mexido com você.
+
+479
+00:23:00,560 --> 00:23:01,728
+Saúde!
+
+480
+00:23:03,522 --> 00:23:04,982
+Faz sentido.
+
+481
+00:23:52,696 --> 00:23:53,697
+Ei!
+
+482
+00:23:54,865 --> 00:23:56,450
+O que pensa que está fazendo?
+
+483
+00:23:56,533 --> 00:23:58,160
+Estou procurando a Olivia.
+
+484
+00:23:58,827 --> 00:23:59,828
+Também estou.
+
+485
+00:23:59,911 --> 00:24:01,079
+Ela atrasou o aluguel.
+
+486
+00:24:01,580 --> 00:24:03,165
+Quando a viu pela última vez?
+
+487
+00:24:03,999 --> 00:24:06,418
+Quase nunca a vejo. Ela trabalha à noite.
+
+488
+00:24:09,296 --> 00:24:10,672
+Trabalho pros NPFA.
+
+489
+00:24:10,881 --> 00:24:12,549
+Preciso entrar no apartamento.
+
+490
+00:24:12,632 --> 00:24:15,886
+Não estou metido no que ela se meteu.
+
+491
+00:24:15,969 --> 00:24:17,429
+Ajudo os NPFA com prazer.
+
+492
+00:24:24,603 --> 00:24:25,604
+Olivia?
+
+493
+00:25:22,953 --> 00:25:24,413
+Acha que fizeram isso com ela?
+
+494
+00:25:24,497 --> 00:25:26,540
+A tranca estava quebrada.
+
+495
+00:25:27,208 --> 00:25:29,543
+Não via invasão domiciliar há anos.
+E homicídio...
+
+496
+00:25:29,627 --> 00:25:31,754
+Forçaram a janela. Pode ver.
+
+497
+00:25:31,837 --> 00:25:33,172
+Como entrou no apartamento?
+
+498
+00:25:34,548 --> 00:25:36,425
+O síndico me deixou entrar.
+
+499
+00:25:37,718 --> 00:25:40,262
+Tem câmeras nas redondezas.
+
+500
+00:25:40,346 --> 00:25:41,722
+Talvez tenham pegado algo.
+
+501
+00:25:42,139 --> 00:25:44,433
+Quando chegar ao escritório,
+checo as gravações.
+
+502
+00:25:45,726 --> 00:25:48,187
+Este é meu cartão.
+
+503
+00:25:49,271 --> 00:25:51,524
+Se achar alguma coisa, pode me mandar.
+
+504
+00:25:51,607 --> 00:25:52,608
+Certo.
+
+505
+00:25:52,691 --> 00:25:53,692
+Obrigada.
+
+506
+00:26:36,652 --> 00:26:37,695
+Obrigado.
+
+507
+00:26:37,778 --> 00:26:39,530
+-Dê um "oi" pro Aaron.
+-Pode deixar.
+
+508
+00:26:39,613 --> 00:26:41,574
+A câmera religa em cinco minutos.
+
+509
+00:26:46,495 --> 00:26:48,038
+Como conseguiu isso?
+
+510
+00:26:49,039 --> 00:26:52,042
+Ainda tenho amigos na polícia.
+
+511
+00:26:52,126 --> 00:26:53,127
+Amigos...
+
+512
+00:26:53,210 --> 00:26:55,129
+Os que aceitam subornos?
+
+513
+00:26:55,212 --> 00:26:57,006
+São os que permanecem.
+
+514
+00:26:59,008 --> 00:27:00,217
+É bom te ver.
+
+515
+00:27:01,093 --> 00:27:03,345
+Sempre vejo a Lisa e o bebê.
+
+516
+00:27:04,805 --> 00:27:05,806
+Estão bem.
+
+517
+00:27:08,601 --> 00:27:09,602
+E aí?
+
+518
+00:27:11,061 --> 00:27:12,271
+Qual é o trabalho?
+
+519
+00:27:13,522 --> 00:27:15,649
+Fale, Ryan. Não precisa se sentir culpado.
+
+520
+00:27:16,484 --> 00:27:17,651
+Você não arriscaria
+
+521
+00:27:17,735 --> 00:27:19,153
+ser visto por guardas
+
+522
+00:27:19,236 --> 00:27:20,404
+só pra falar "oi".
+
+523
+00:27:20,654 --> 00:27:23,157
+Sabe que nem sempre é pelo dinheiro, né?
+
+524
+00:27:24,366 --> 00:27:25,409
+Eu sei.
+
+525
+00:27:25,493 --> 00:27:27,036
+Preciso de muito.
+
+526
+00:27:28,120 --> 00:27:30,539
+Para a Sara e o Doug
+não precisarem fazer isso.
+
+527
+00:27:30,623 --> 00:27:31,707
+Quanto?
+
+528
+00:27:32,374 --> 00:27:33,542
+Cem milhões.
+
+529
+00:27:34,710 --> 00:27:36,504
+Com esse dinheiro, dá pra sair do país.
+
+530
+00:27:36,587 --> 00:27:37,880
+Essa é a ideia.
+
+531
+00:27:39,131 --> 00:27:40,508
+Mas empacamos.
+
+532
+00:27:40,591 --> 00:27:41,675
+Óbvio.
+
+533
+00:27:42,092 --> 00:27:43,219
+Sem mim.
+
+534
+00:27:43,802 --> 00:27:46,514
+Preciso de um funcionário
+com acesso ao cofre do banco.
+
+535
+00:27:53,771 --> 00:27:54,772
+Conheço um cara.
+
+536
+00:27:56,023 --> 00:27:57,149
+O Carl.
+
+537
+00:27:57,650 --> 00:27:59,985
+Ele pode te ajudar a entrar, mas...
+
+538
+00:28:01,612 --> 00:28:02,947
+ele fala demais.
+
+539
+00:28:03,656 --> 00:28:04,782
+E pode ser...
+
+540
+00:28:05,449 --> 00:28:06,534
+instável.
+
+541
+00:28:08,369 --> 00:28:10,788
+Mudança de planos.
+Precisa sair daqui agora.
+
+542
+00:28:10,871 --> 00:28:11,872
+-Merda.
+-Vá.
+
+543
+00:28:11,956 --> 00:28:12,957
+Ei.
+
+544
+00:28:14,375 --> 00:28:16,043
+Me diga que colocou uma lixa aqui!
+
+545
+00:28:16,293 --> 00:28:17,378
+Ou um pornô.
+
+546
+00:28:17,753 --> 00:28:19,463
+Não tem nada que te dará problemas,
+
+547
+00:28:19,547 --> 00:28:21,590
+mas um livro sempre é bom.
+
+548
+00:28:36,272 --> 00:28:38,649
+Mas ao vivo é melhor ainda.
+
+549
+00:28:38,857 --> 00:28:39,942
+No Garden District.
+
+550
+00:28:40,025 --> 00:28:41,926
+<font color="#eaea00"><b>CASA FORA DA CIDADE À VENDA</b></font>
+
+551
+00:28:42,236 --> 00:28:43,320
+Não.
+
+552
+00:28:43,654 --> 00:28:44,655
+Pare.
+
+553
+00:28:46,490 --> 00:28:50,160
+É cara, mas quando meu salário aumentar,
+
+554
+00:28:50,244 --> 00:28:51,495
+tudo vai mudar.
+
+555
+00:28:53,664 --> 00:28:55,249
+E se eu não quiser que mude?
+
+556
+00:28:55,749 --> 00:28:57,167
+Precisamos de segurança.
+
+557
+00:28:58,586 --> 00:29:00,879
+Mais quartos e uma vista pro rio
+
+558
+00:29:00,963 --> 00:29:03,007
+não nos protegerá de nada.
+
+559
+00:29:04,425 --> 00:29:06,051
+Tive que matar uma pessoa, Tonya.
+
+560
+00:29:06,135 --> 00:29:07,886
+Fica pior a cada ano.
+
+561
+00:29:08,262 --> 00:29:09,972
+Botaram uma faca no seu pescoço.
+
+562
+00:29:10,598 --> 00:29:11,599
+Não é?
+
+563
+00:29:11,682 --> 00:29:13,017
+Ele podia ter te matado.
+
+564
+00:29:13,434 --> 00:29:15,477
+Mas não matou,
+
+565
+00:29:15,561 --> 00:29:17,271
+porque nos apoiamos.
+
+566
+00:29:17,354 --> 00:29:19,315
+Porque o pessoal aqui é nossa comunidade.
+
+567
+00:29:19,398 --> 00:29:20,399
+Isso é importante.
+
+568
+00:29:20,482 --> 00:29:22,359
+E sempre será nossa comunidade.
+
+569
+00:29:22,985 --> 00:29:24,612
+-Mas...
+-Sinto muito.
+
+570
+00:29:24,695 --> 00:29:25,779
+Mas não é...
+
+571
+00:29:26,322 --> 00:29:27,823
+Não é o que eu quero.
+
+572
+00:29:28,240 --> 00:29:29,241
+Tudo bem.
+
+573
+00:29:30,409 --> 00:29:33,704
+Acharemos um lugar que te agrade.
+
+574
+00:29:36,665 --> 00:29:38,542
+Não estou falando só da casa.
+
+575
+00:29:45,174 --> 00:29:47,343
+Que retorno à vizinhança, Marcus!
+
+576
+00:29:47,801 --> 00:29:49,428
+Desculpe.
+
+577
+00:29:49,511 --> 00:29:50,512
+Tá.
+
+578
+00:29:51,472 --> 00:29:54,308
+Contrataram um assassino pra me expurgar.
+
+579
+00:29:55,267 --> 00:29:56,268
+Quê?
+
+580
+00:29:56,352 --> 00:29:57,686
+Venha cá.
+
+581
+00:29:58,646 --> 00:30:00,064
+Por que não me contou?
+
+582
+00:30:01,190 --> 00:30:03,442
+A pessoa tentou me atropelar
+com uma caminhonete
+
+583
+00:30:03,525 --> 00:30:04,693
+igual à do Andre.
+
+584
+00:30:04,777 --> 00:30:06,987
+Tem mil babacas
+com uma caminhonete dessas.
+
+585
+00:30:07,071 --> 00:30:10,074
+Sabia que o assassino morava
+aqui pertinho?
+
+586
+00:30:10,407 --> 00:30:11,909
+Não foi aleatório.
+
+587
+00:30:12,701 --> 00:30:13,827
+Olhe só.
+
+588
+00:30:15,204 --> 00:30:16,205
+Você o conhece?
+
+589
+00:30:16,288 --> 00:30:17,790
+<font color="#eaea00"><b>CNH DE LOUISIANA</b></font>
+
+590
+00:30:17,873 --> 00:30:19,708
+Nunca o vi na vida.
+
+591
+00:30:20,584 --> 00:30:23,545
+Mas um cara veio te procurar há um tempo.
+
+592
+00:30:24,922 --> 00:30:27,341
+-Há um tempo? Quando?
+-Verão passado.
+
+593
+00:30:27,424 --> 00:30:28,842
+Bem antes da Noite de Crime.
+
+594
+00:30:29,927 --> 00:30:32,471
+Você se lembra dele? Pode descrevê-lo?
+
+595
+00:30:53,534 --> 00:30:54,743
+Pare!
+
+596
+00:30:55,119 --> 00:30:56,370
+Me largue!
+
+597
+00:30:56,453 --> 00:30:57,746
+Falei pra me deixar em paz!
+
+598
+00:31:22,438 --> 00:31:24,022
+-Sinto muito.
+-Não me deixe aqui!
+
+599
+00:32:04,864 --> 00:32:06,324
+Não fechei a porta à toa.
+
+600
+00:32:08,159 --> 00:32:10,369
+Odeio esse dia de merda, cara.
+
+601
+00:32:10,870 --> 00:32:12,288
+EM LEMBRANÇA
+
+602
+00:32:22,548 --> 00:32:23,799
+Ganhei hoje.
+
+603
+00:32:24,258 --> 00:32:26,427
+É meu irmão.
+
+604
+00:32:26,844 --> 00:32:29,638
+Acho que eu era
+o contato de emergência dele.
+
+605
+00:32:30,306 --> 00:32:33,017
+-Por que não disse que ele foi expurgado?
+-É porque...
+
+606
+00:32:34,352 --> 00:32:35,770
+te deixei na mão.
+
+607
+00:32:36,771 --> 00:32:38,230
+Fico pensando...
+
+608
+00:32:38,314 --> 00:32:40,066
+E se ele estivesse com amigos?
+
+609
+00:32:40,691 --> 00:32:42,735
+E se eles o abandonaram?
+
+610
+00:32:45,613 --> 00:32:46,614
+Nossa...
+
+611
+00:32:51,494 --> 00:32:54,121
+Desculpe, cara.
+
+612
+00:32:55,289 --> 00:32:56,916
+A gente não devia ter saído.
+
+613
+00:32:58,793 --> 00:33:00,628
+Eu não devia ter te deixado pra trás.
+
+614
+00:33:04,173 --> 00:33:05,466
+Eu sobrevivi.
+
+615
+00:33:11,305 --> 00:33:12,390
+O que é isso?
+
+616
+00:33:14,016 --> 00:33:15,142
+Eu...
+
+617
+00:33:15,226 --> 00:33:17,436
+estava picando limão lá embaixo.
+
+618
+00:33:17,895 --> 00:33:19,313
+Com uma faca de caça?
+
+619
+00:33:19,939 --> 00:33:21,023
+É bizarro?
+
+620
+00:33:24,026 --> 00:33:25,111
+Demais.
+
+621
+00:33:26,737 --> 00:33:27,738
+Vamos.
+
+622
+00:33:28,489 --> 00:33:30,783
+Te ensino a fazer um drinque
+como gente normal.
+
+623
+00:33:30,866 --> 00:33:32,284
+Já vou descer.
+
+624
+00:33:33,411 --> 00:33:35,746
+-Vai perder a festa.
+-Já disse que vou descer.
+
+625
+00:33:42,711 --> 00:33:43,712
+Oi.
+
+626
+00:33:43,796 --> 00:33:44,797
+Oi.
+
+627
+00:33:48,426 --> 00:33:50,428
+Como foi?
+
+628
+00:33:52,179 --> 00:33:55,224
+Um cara foi à casa da Tonya
+agosto passado...
+
+629
+00:33:56,434 --> 00:33:57,977
+e fez muitas perguntas.
+
+630
+00:33:58,352 --> 00:33:59,854
+Ela sabe quem era?
+
+631
+00:34:01,814 --> 00:34:02,982
+Não tem ideia.
+
+632
+00:34:06,277 --> 00:34:09,071
+Parece que era alto, cabelo castanho.
+
+633
+00:34:10,448 --> 00:34:11,866
+Não tem muita informação.
+
+634
+00:34:16,579 --> 00:34:18,414
+Isso fode com minha linha do tempo.
+
+635
+00:34:22,585 --> 00:34:23,669
+Porque
+
+636
+00:34:24,044 --> 00:34:25,713
+quase todo mundo que...
+
+637
+00:34:26,338 --> 00:34:27,756
+estamos investigando
+
+638
+00:34:27,840 --> 00:34:30,426
+teve contato comigo recentemente.
+
+639
+00:34:30,509 --> 00:34:32,761
+Quem eu irritei no verão passado, porra?
+
+640
+00:34:33,554 --> 00:34:36,265
+Bom, vou desmontar o quadro de suspeitos
+
+641
+00:34:36,348 --> 00:34:37,349
+e começar do zero.
+
+642
+00:34:37,683 --> 00:34:38,893
+Não me espere acordada.
+
+643
+00:34:39,560 --> 00:34:40,936
+-Vai demorar.
+-Tá.
+
+644
+00:35:02,708 --> 00:35:04,919
+<b><font color="#eaea00">DEUS</font></b>
+
+645
+00:35:14,345 --> 00:35:15,829
+Diga "não" à Noite de Crime?
+
+646
+00:35:19,767 --> 00:35:21,936
+Divirtam-se no lado errado
+da história, babacas.
+
+647
+00:35:44,500 --> 00:35:46,544
+<b><font color="#eaea00">NOVO POST</font></b>
+
+648
+00:35:52,299 --> 00:35:54,927
+<i>Quem tentou me expurgar?
+Atacado na Noite de Crime.</i>
+
+649
+00:35:55,010 --> 00:35:58,222
+<i>Dinheiro ou remédios por informação.</i>
+
+650
+00:35:58,305 --> 00:36:01,058
+<i>Me respondam para saber mais.</i>
+
+651
+00:36:10,192 --> 00:36:11,610
+<b><font color="#eaea00">ENVIAR</font></b>
+
+652
+00:36:11,694 --> 00:36:13,946
+<b><font color="#eaea00">SEU POST FOI ENVIADO!</font></b>
+
+653
+00:36:38,563 --> 00:36:39,647
+Amigo do Tommy?
+
+654
+00:36:41,607 --> 00:36:42,942
+Que cara maluco!
+
+655
+00:36:43,025 --> 00:36:44,902
+Ele curte se divertir.
+
+656
+00:36:45,570 --> 00:36:47,697
+Pena que está preso, porque...
+
+657
+00:36:47,989 --> 00:36:50,199
+lá não tem nada de divertido, né?
+
+658
+00:36:51,492 --> 00:36:52,493
+Então...
+
+659
+00:36:54,453 --> 00:36:55,830
+você está planejando um...
+
+660
+00:36:56,205 --> 00:36:57,790
+assalto na Noite de Crime?
+
+661
+00:36:58,958 --> 00:36:59,959
+Não.
+
+662
+00:37:01,169 --> 00:37:02,420
+O que é? Porque cansei
+
+663
+00:37:02,503 --> 00:37:05,298
+dos bicos de merda do Tommy.
+
+664
+00:37:05,381 --> 00:37:06,716
+Quero grana.
+
+665
+00:37:07,884 --> 00:37:10,511
+Precisamos entrar nos cofres
+que vão pro avião.
+
+666
+00:37:11,637 --> 00:37:12,805
+Como soube disso?
+
+667
+00:37:12,889 --> 00:37:15,433
+Preciso de acesso antes da Noite de Crime,
+
+668
+00:37:15,516 --> 00:37:16,559
+e tem que ser legal.
+
+669
+00:37:16,642 --> 00:37:18,811
+O mais legal possível.
+
+670
+00:37:19,770 --> 00:37:21,147
+Você sonha alto.
+
+671
+00:37:21,355 --> 00:37:22,398
+Tem jeito?
+
+672
+00:37:24,066 --> 00:37:25,276
+Acho que não.
+
+673
+00:37:29,447 --> 00:37:31,866
+Se nos ajudar, você recebe uma parte.
+
+674
+00:37:35,453 --> 00:37:37,330
+Curto esse tipo de motivação.
+
+675
+00:37:38,039 --> 00:37:39,040
+Deixe comigo.
+
+676
+00:37:39,749 --> 00:37:40,750
+Beleza.
+
+677
+00:37:41,250 --> 00:37:43,336
+Você deveria entrar.
+
+678
+00:37:47,173 --> 00:37:48,716
+Tem um fizz de gim delicioso.
+
+679
+00:37:48,799 --> 00:37:51,219
+E, se tiver isso aqui,
+ganha uma dança no colo.
+
+680
+00:37:51,510 --> 00:37:53,137
+Uso o mesmo todo ano.
+
+681
+00:37:54,513 --> 00:37:56,557
+Olhe, vou ser bem claro.
+
+682
+00:37:56,974 --> 00:37:59,518
+Se fizer tudo direito,
+você vai ficar rico.
+
+683
+00:37:59,810 --> 00:38:00,937
+Mas se fizer merda,
+
+684
+00:38:01,020 --> 00:38:03,606
+se colocar a mim
+ou a minha equipe em perigo,
+
+685
+00:38:04,774 --> 00:38:05,983
+eu te mato.
+
+686
+00:38:21,707 --> 00:38:26,337
+<b><font color="#eaea00">CORRESPONDÊNCIA: OLIVIA HUGHES</font></b>
+
+687
+00:38:40,142 --> 00:38:41,978
+<b><font color="#eaea00">MÍDIA OFF-LINE
+ERRO: 987ABA468_23</font></b>
+
+688
+00:38:46,315 --> 00:38:48,067
+<b><font color="#eaea00">CORRESPONDÊNCIA: OLIVIA HUGHES</font></b>
+
+689
+00:38:58,577 --> 00:39:00,288
+<b><font color="#eaea00">MÍDIA OFF-LINE
+ERRO: 987ABA468_23</font></b>
+
+690
+00:39:22,560 --> 00:39:24,145
+<i>Aqui é o detetive Estrada.</i>
+
+691
+00:39:24,228 --> 00:39:26,397
+Oi, detetive. É a Esme Carmona.
+
+692
+00:39:26,731 --> 00:39:27,773
+<i>Como posso ajudá-la?</i>
+
+693
+00:39:28,607 --> 00:39:31,777
+Tem um problema
+com as gravações do prédio da Olivia.
+
+694
+00:39:31,861 --> 00:39:33,446
+<i>Já fecharam o caso da Olivia.</i>
+
+695
+00:39:35,573 --> 00:39:38,200
+-Quê?
+<i>-O médico-legista disse que foi suicídio.</i>
+
+696
+00:39:40,369 --> 00:39:41,620
+Ele errou.
+
+697
+00:39:42,413 --> 00:39:44,040
+<i>Sei que sua irmã teve problemas,</i>
+
+698
+00:39:44,123 --> 00:39:46,667
+<i>então pode ser difícil aceitar
+o que aconteceu hoje.</i>
+
+699
+00:39:49,462 --> 00:39:50,838
+Como sabe da minha irmã?
+
+700
+00:39:50,921 --> 00:39:52,089
+<i>O caso foi fechado.</i>
+
+701
+00:39:52,173 --> 00:39:53,382
+<i>Obrigado pela ligação.</i>
+
+702
+00:40:14,403 --> 00:40:15,821
+-Certo.
+-Se cuidem.
+
+703
+00:40:15,905 --> 00:40:17,198
+-Tchau.
+-Até amanhã.
+
+704
+00:40:38,969 --> 00:40:39,970
+Até mais.
+
+705
+00:40:40,721 --> 00:40:42,890
+Beleza, tchau, gente.
+Feliz Dia da Lembrança.
+
+706
+00:40:42,973 --> 00:40:43,974
+-Tchau.
+-Até mais.
+
+707
+00:41:23,055 --> 00:41:25,474
+<font color="#eaea00"><b>DEUS</b></font>
+
