@@ -1,14 +1,14 @@
 1
 00:00:07,685 --> 00:00:09,103
-<i>A notícia nunca para.</i>
+<i>A notÃ­cia nunca para.</i>
 
 2
 00:00:09,270 --> 00:00:11,188
-<i>Esta é a 1080 GCR.</i>
+<i>Esta Ã© a 1080 GCR.</i>
 
 3
 00:00:11,355 --> 00:00:14,316
-<i>Você tem as notícias que precisa,
+<i>VocÃª tem as notÃ­cias que precisa,
 o dia inteiro.</i>
 
 4
@@ -17,16 +17,16 @@ o dia inteiro.</i>
 
 5
 00:00:16,277 --> 00:00:19,405
-<i>Temos 5º C às 10h30 desta quinta-feira,
+<i>Temos 5Âº C Ã s 10h30 desta quinta-feira,
 15 de outubro.</i>
 
 6
 00:00:19,572 --> 00:00:21,907
-<i>Sou Stan L. Brooks, e vamos às notícias.</i>
+<i>Sou Stan L. Brooks, e vamos Ã s notÃ­cias.</i>
 
 7
 00:00:22,074 --> 00:00:24,285
-<i>É o 18º dia da greve dos lixeiros,</i>
+<i>Ã‰ o 18Âº dia da greve dos lixeiros,</i>
 
 8
 00:00:24,452 --> 00:00:27,079
@@ -35,21 +35,21 @@ acumulando todo dia.</i>
 
 9
 00:00:27,246 --> 00:00:30,624
-<i>Até os bairros mais elegantes
+<i>AtÃ© os bairros mais elegantes
 da cidade parecem favelas.</i>
 
 10
 00:00:30,791 --> 00:00:34,295
-<i>O secretário da Saúde, Edward O'Rourke,
-declarou estado de emergência</i>
+<i>O secretÃ¡rio da SaÃºde, Edward O'Rourke,
+declarou estado de emergÃªncia</i>
 
 11
 00:00:34,462 --> 00:00:36,088
-<i>pela primeira vez em décadas.</i>
+<i>pela primeira vez em dÃ©cadas.</i>
 
 12
 00:00:36,255 --> 00:00:38,340
-<i>Não é preciso esperar alguém morrer</i>
+<i>NÃ£o Ã© preciso esperar alguÃ©m morrer</i>
 
 13
 00:00:38,507 --> 00:00:40,092
@@ -57,48 +57,48 @@ declarou estado de emergência</i>
 
 14
 00:00:40,259 --> 00:00:42,261
-<i>Já é uma situação bem séria.</i>
+<i>JÃ¡ Ã© uma situaÃ§Ã£o bem sÃ©ria.</i>
 
 15
 00:00:42,428 --> 00:00:44,638
-<i>É algo que afeta
+<i>Ã‰ algo que afeta
 quase todo mundo na cidade,</i>
 
 16
 00:00:44,805 --> 00:00:46,849
-<i>não importa quem seja ou onde viva.</i>
+<i>nÃ£o importa quem seja ou onde viva.</i>
 
 17
 00:00:47,016 --> 00:00:51,312
-<i>Não se pode andar por lugar nenhum
-sem ver só lixo e ratos.</i>
+<i>NÃ£o se pode andar por lugar nenhum
+sem ver sÃ³ lixo e ratos.</i>
 
 18
 00:00:51,479 --> 00:00:53,856
-<i>Já afeta meus negócios,
-os clientes não vêm</i>
+<i>JÃ¡ afeta meus negÃ³cios,
+os clientes nÃ£o vÃªm</i>
 
 19
 00:00:54,023 --> 00:00:55,816
-<i>devido à situação do lixo.</i>
+<i>devido Ã  situaÃ§Ã£o do lixo.</i>
 
 20
 00:00:55,983 --> 00:00:59,570
-<i>Ainda não sinto o cheiro aqui,
-mas olhar para isso é terrível.</i>
+<i>Ainda nÃ£o sinto o cheiro aqui,
+mas olhar para isso Ã© terrÃ­vel.</i>
 
 21
 00:00:59,737 --> 00:01:02,907
-<i>Isso não me afeta,
-a não ser pelo fedor aqui.</i>
+<i>Isso nÃ£o me afeta,
+a nÃ£o ser pelo fedor aqui.</i>
 
 22
 00:01:03,074 --> 00:01:04,075
-<i>É horrível.</i>
+<i>Ã‰ horrÃ­vel.</i>
 
 23
 00:01:04,241 --> 00:01:06,786
-<i>É um caos. Estou neste país há 50 anos</i>
+<i>Ã‰ um caos. Estou neste paÃ­s hÃ¡ 50 anos</i>
 
 24
 00:01:06,952 --> 00:01:08,371
@@ -111,53 +111,53 @@ a não ser pelo fedor aqui.</i>
 26
 00:01:10,164 --> 00:01:12,750
 <i>Deixe-os conversando
-numa sala até resolverem.</i>
+numa sala atÃ© resolverem.</i>
 
 27
 00:01:12,917 --> 00:01:15,127
-<i>Por 24 horas, 48, o tempo necessário.</i>
+<i>Por 24 horas, 48, o tempo necessÃ¡rio.</i>
 
 28
 00:01:15,586 --> 00:01:19,131
 <i>A Guarda Nacional se mobilizar
-e limpar tudo é uma boa ideia.</i>
+e limpar tudo Ã© uma boa ideia.</i>
 
 29
 00:01:19,298 --> 00:01:21,967
-<i>A construção civil
-e os proprietários de imóveis</i>
+<i>A construÃ§Ã£o civil
+e os proprietÃ¡rios de imÃ³veis</i>
 
 30
 00:01:22,134 --> 00:01:25,513
-<i>estão preocupados com o aumento
-do preço do óleo de aquecimento.</i>
+<i>estÃ£o preocupados com o aumento
+do preÃ§o do Ã³leo de aquecimento.</i>
 
 31
 00:01:25,679 --> 00:01:28,391
-<i>Inquilinos da área metropolitana
-vão ter dificuldades...</i>
+<i>Inquilinos da Ã¡rea metropolitana
+vÃ£o ter dificuldades...</i>
 
 32
 00:01:35,898 --> 00:01:38,109
-LOJA DE MÚSICA KENNY'S
+LOJA DE MÃšSICA KENNY'S
 FECHANDO AS PORTAS
 
 33
 00:01:39,985 --> 00:01:41,987
-LIQUIDAÇÃO TOTAL!!
+LIQUIDAÃ‡ÃƒO TOTAL!!
 
 34
 00:02:03,884 --> 00:02:06,095
--Ei, que sapato é esse?
+-Ei, que sapato Ã© esse?
 -Roupa legal.
 
 35
 00:02:06,262 --> 00:02:07,930
-Para ser palhaço, deve caprichar.
+Para ser palhaÃ§o, deve caprichar.
 
 36
 00:02:08,097 --> 00:02:09,181
-Sabe disso, não?
+Sabe disso, nÃ£o?
 
 37
 00:02:10,099 --> 00:02:11,350
@@ -178,7 +178,7 @@ Ele vem vindo!
 
 41
 00:02:15,396 --> 00:02:16,981
-Venha, palhaço, vamos!
+Venha, palhaÃ§o, vamos!
 
 42
 00:02:17,148 --> 00:02:17,982
@@ -186,7 +186,7 @@ Pegamos o cartaz.
 
 43
 00:02:18,065 --> 00:02:19,650
--Ele está correndo.
+-Ele estÃ¡ correndo.
 -Vamos.
 
 44
@@ -199,7 +199,7 @@ Vamos! Cuidado com o carro!
 
 46
 00:02:25,072 --> 00:02:26,323
-Cadê seu cartaz, palhaço?
+CadÃª seu cartaz, palhaÃ§o?
 
 47
 00:02:26,991 --> 00:02:27,825
@@ -207,7 +207,7 @@ Ei!
 
 48
 00:02:32,830 --> 00:02:34,248
-Vai, palhaço! Vamos!
+Vai, palhaÃ§o! Vamos!
 
 49
 00:02:34,415 --> 00:02:35,499
@@ -243,11 +243,11 @@ Vamos! Deem uma surra nele!
 
 57
 00:02:59,190 --> 00:03:00,941
-Esse cara é fraco. Não é de nada.
+Esse cara Ã© fraco. NÃ£o Ã© de nada.
 
 58
 00:03:01,108 --> 00:03:03,027
-Com mais força! Mais força!
+Com mais forÃ§a! Mais forÃ§a!
 
 59
 00:03:03,194 --> 00:03:04,445
@@ -263,35 +263,35 @@ CORINGA
 
 62
 00:04:51,052 --> 00:04:52,428
-É impressão minha
+Ã‰ impressÃ£o minha
 
 63
 00:04:53,596 --> 00:04:56,098
-ou o mundo está ficando mais maluco?
+ou o mundo estÃ¡ ficando mais maluco?
 
 64
 00:04:59,685 --> 00:05:01,687
-Com certeza, está tenso.
+Com certeza, estÃ¡ tenso.
 
 65
 00:05:03,064 --> 00:05:04,899
-As pessoas estão aborrecidas.
+As pessoas estÃ£o aborrecidas.
 
 66
 00:05:05,066 --> 00:05:07,943
-Elas estão batalhando. Procurando emprego.
+Elas estÃ£o batalhando. Procurando emprego.
 
 67
 00:05:08,110 --> 00:05:09,487
-São tempos difíceis.
+SÃ£o tempos difÃ­ceis.
 
 68
 00:05:12,406 --> 00:05:13,908
-E você?
+E vocÃª?
 
 69
 00:05:15,534 --> 00:05:17,620
-Continua escrevendo seu diário?
+Continua escrevendo seu diÃ¡rio?
 
 70
 00:05:19,413 --> 00:05:21,165
@@ -299,11 +299,11 @@ Sim, senhora.
 
 71
 00:05:22,708 --> 00:05:24,085
-Ótimo.
+Ã“timo.
 
 72
 00:05:25,002 --> 00:05:26,545
-Você o trouxe com você?
+VocÃª o trouxe com vocÃª?
 
 73
 00:05:31,133 --> 00:05:32,218
@@ -311,8 +311,8 @@ Arthur.
 
 74
 00:05:32,385 --> 00:05:36,472
-Da última vez, pedi para você
-trazer o diário para estas consultas.
+Da Ãºltima vez, pedi para vocÃª
+trazer o diÃ¡rio para estas consultas.
 
 75
 00:05:37,181 --> 00:05:38,516
@@ -320,24 +320,24 @@ Posso ver?
 
 76
 00:05:50,486 --> 00:05:53,364
-Eu o tenho usado como... como diário...
+Eu o tenho usado como... como diÃ¡rio...
 
 77
 00:05:55,241 --> 00:05:56,909
-mas também para anotar piadas.
+mas tambÃ©m para anotar piadas.
 
 78
 00:05:58,035 --> 00:06:01,414
-Observações ou pensamentos engraçados.
+ObservaÃ§Ãµes ou pensamentos engraÃ§ados.
 
 79
 00:06:02,540 --> 00:06:06,961
 Acho que contei que estou tentando
-uma carreira na comédia <i>stand-up.</i>
+uma carreira na comÃ©dia <i>stand-up.</i>
 
 80
 00:06:10,381 --> 00:06:12,007
-Não, não contou.
+NÃ£o, nÃ£o contou.
 
 81
 00:06:13,467 --> 00:06:15,469
@@ -345,26 +345,26 @@ Acho que eu contei.
 
 82
 00:06:18,931 --> 00:06:23,853
-Só espero que minha morte
-faça mais centavos do que minha vida
+SÃ³ espero que minha morte
+faÃ§a mais centavos do que minha vida
 
 83
 00:06:24,019 --> 00:06:27,940
-"Só espero que minha morte
-faça mais sentido do que minha vida."
+"SÃ³ espero que minha morte
+faÃ§a mais sentido do que minha vida."
 
 84
 00:06:43,956 --> 00:06:46,292
-Qual é a sensação de ter que vir aqui?
+Qual Ã© a sensaÃ§Ã£o de ter que vir aqui?
 
 85
 00:06:46,709 --> 00:06:49,462
-Ajuda ter alguém com quem conversar?
+Ajuda ter alguÃ©m com quem conversar?
 
 86
 00:06:53,507 --> 00:06:56,844
 Eu me sentia melhor
-quando estava preso no sanatório.
+quando estava preso no sanatÃ³rio.
 
 87
 00:06:58,888 --> 00:07:00,139
@@ -372,11 +372,11 @@ E pensou mais sobre
 
 88
 00:07:01,515 --> 00:07:02,892
-por que você foi preso?
+por que vocÃª foi preso?
 
 89
 00:07:03,059 --> 00:07:04,393
-SALA DE OBSERVAÇÃO
+SALA DE OBSERVAÃ‡ÃƒO
 
 90
 00:07:08,731 --> 00:07:10,399
@@ -384,21 +384,21 @@ Quem sabe?
 
 91
 00:07:17,573 --> 00:07:21,327
-Será que você pode pedir
-para o médico aumentar minha medicação?
+SerÃ¡ que vocÃª pode pedir
+para o mÃ©dico aumentar minha medicaÃ§Ã£o?
 
 92
 00:07:27,041 --> 00:07:29,668
-Arthur, você toma
-sete remédios diferentes.
+Arthur, vocÃª toma
+sete remÃ©dios diferentes.
 
 93
 00:07:31,003 --> 00:07:33,589
-Certamente, estão fazendo algum efeito.
+Certamente, estÃ£o fazendo algum efeito.
 
 94
 00:07:36,133 --> 00:07:39,303
-Eu só não quero mais me sentir tão mal.
+Eu sÃ³ nÃ£o quero mais me sentir tÃ£o mal.
 
 95
 00:08:15,381 --> 00:08:17,550
@@ -406,12 +406,12 @@ Quer parar de perturbar meu filho?
 
 96
 00:08:20,720 --> 00:08:22,263
--Não estava perturbando.
+-NÃ£o estava perturbando.
 -Pare.
 
 97
 00:08:31,564 --> 00:08:33,357
-O que é? Você acha engraçado?
+O que Ã©? VocÃª acha engraÃ§ado?
 
 98
 00:08:41,657 --> 00:08:43,284
@@ -424,17 +424,17 @@ VIRE
 
 100
 00:08:49,373 --> 00:08:51,709
-É um distúrbio que causa
-risada incontrolável,
+Ã‰ um distÃºrbio que causa
+risada incontrolÃ¡vel,
 
 101
 00:08:51,876 --> 00:08:53,461
-não compatível com o sentimento.
+nÃ£o compatÃ­vel com o sentimento.
 
 102
 00:08:53,627 --> 00:08:55,463
 Acontece com quem tem
-problemas neurológicos.
+problemas neurolÃ³gicos.
 
 103
 00:08:55,629 --> 00:08:56,630
@@ -447,16 +447,16 @@ Desculpe.
 105
 00:09:23,824 --> 00:09:25,826
 HELMS
-FARMÁCIA
+FARMÃCIA
 
 106
 00:10:39,817 --> 00:10:42,653
-Feliz, checou a correspondência
+Feliz, checou a correspondÃªncia
 antes de subir?
 
 107
 00:10:42,820 --> 00:10:44,405
-Sim, mãe.
+Sim, mÃ£e.
 
 108
 00:10:45,281 --> 00:10:46,866
@@ -465,43 +465,43 @@ Nada.
 109
 00:10:50,036 --> 00:10:53,664
 <i>E, por fim, esta noite,
-quando achávamos que não poderia piorar,</i>
+quando achÃ¡vamos que nÃ£o poderia piorar,</i>
 
 110
 00:10:54,040 --> 00:10:57,668
 <i>autoridades dizem
-que a cidade está infestada de ratos.</i>
+que a cidade estÃ¡ infestada de ratos.</i>
 
 111
 00:10:57,835 --> 00:11:01,338
-<i>E não são ratos comuns,
-mas super-ratos, difíceis de matar.</i>
+<i>E nÃ£o sÃ£o ratos comuns,
+mas super-ratos, difÃ­ceis de matar.</i>
 
 112
 00:11:01,505 --> 00:11:03,424
-Ele não deve estar recebendo
+Ele nÃ£o deve estar recebendo
 minhas cartas.
 
 113
 00:11:04,800 --> 00:11:06,844
-É o Thomas Wayne, mãe.
+Ã‰ o Thomas Wayne, mÃ£e.
 
 114
 00:11:07,011 --> 00:11:08,429
-É um homem ocupado.
+Ã‰ um homem ocupado.
 
 115
 00:11:08,596 --> 00:11:12,308
-Por favor. Trabalhei para aquela família
+Por favor. Trabalhei para aquela famÃ­lia
 durante anos.
 
 116
 00:11:12,767 --> 00:11:14,769
-O mínimo que pode fazer é responder.
+O mÃ­nimo que pode fazer Ã© responder.
 
 117
 00:11:16,312 --> 00:11:19,482
-Tome. Não fique tão agitada. Coma.
+Tome. NÃ£o fique tÃ£o agitada. Coma.
 
 118
 00:11:19,648 --> 00:11:20,649
@@ -509,12 +509,12 @@ Precisa comer.
 
 119
 00:11:20,816 --> 00:11:24,445
-Você que precisa comer.
-Veja como está magro.
+VocÃª que precisa comer.
+Veja como estÃ¡ magro.
 
 120
 00:11:25,988 --> 00:11:28,449
-<i>As vítimas foram levadas para o hospital.</i>
+<i>As vÃ­timas foram levadas para o hospital.</i>
 
 121
 00:11:28,532 --> 00:11:29,909
@@ -522,25 +522,25 @@ Veja como está magro.
 
 122
 00:11:30,076 --> 00:11:32,745
-Ele será um ótimo prefeito.
+Ele serÃ¡ um Ã³timo prefeito.
 Todos dizem isso.
 
 123
 00:11:33,287 --> 00:11:36,707
-Ah, é. Todos quem? Com quem você conversa?
+Ah, Ã©. Todos quem? Com quem vocÃª conversa?
 
 124
 00:11:37,291 --> 00:11:39,668
-Bem, todo mundo do noticiário.
+Bem, todo mundo do noticiÃ¡rio.
 
 125
 00:11:39,835 --> 00:11:43,506
-Ele é o único que pode salvar a cidade.
+Ele Ã© o Ãºnico que pode salvar a cidade.
 Ele nos deve isso.
 
 126
 00:11:46,550 --> 00:11:47,927
-Vem sentar. Está começando.
+Vem sentar. EstÃ¡ comeÃ§ando.
 
 127
 00:11:48,094 --> 00:11:49,887
@@ -548,7 +548,7 @@ Viva, Murray.
 
 128
 00:11:50,763 --> 00:11:54,183
-<i>Dos estúdios da NCB em Gotham City,</i>
+<i>Dos estÃºdios da NCB em Gotham City,</i>
 
 129
 00:11:54,350 --> 00:11:57,645
@@ -593,7 +593,7 @@ Temos uma linda plateia esta noite.
 
 139
 00:12:36,600 --> 00:12:38,436
-É!
+Ã‰!
 
 140
 00:12:38,602 --> 00:12:40,312
@@ -605,13 +605,13 @@ Obrigado.
 
 142
 00:12:42,440 --> 00:12:46,485
-Todo mundo já ouviu falar dos ratos
-que estão em Gotham agora, não é?
+Todo mundo jÃ¡ ouviu falar dos ratos
+que estÃ£o em Gotham agora, nÃ£o Ã©?
 
 143
 00:12:47,486 --> 00:12:50,865
 Bem, hoje o prefeito disse
-que tem uma solução.
+que tem uma soluÃ§Ã£o.
 
 144
 00:12:51,031 --> 00:12:52,575
@@ -623,7 +623,7 @@ Supergatos.
 
 146
 00:12:58,414 --> 00:12:59,832
-Falando sério, esses ratos...
+Falando sÃ©rio, esses ratos...
 
 147
 00:12:59,999 --> 00:13:01,500
@@ -631,7 +631,7 @@ Eu te amo, Murray!
 
 148
 00:13:03,377 --> 00:13:04,670
-Eu também te amo.
+Eu tambÃ©m te amo.
 
 149
 00:13:06,589 --> 00:13:08,174
@@ -643,19 +643,19 @@ Quem foi?
 
 151
 00:13:09,508 --> 00:13:11,677
-Foi você? Levante-se, por favor.
+Foi vocÃª? Levante-se, por favor.
 
 152
 00:13:11,844 --> 00:13:13,763
-Fique de pé para mim.
+Fique de pÃ© para mim.
 
 153
 00:13:13,929 --> 00:13:14,930
-Vamos lá.
+Vamos lÃ¡.
 
 154
 00:13:20,102 --> 00:13:21,812
-Qual é seu nome?
+Qual Ã© seu nome?
 
 155
 00:13:22,354 --> 00:13:24,356
@@ -664,16 +664,16 @@ Oi, Murray. Arthur.
 156
 00:13:24,523 --> 00:13:26,192
 -Arthur?
--Meu nome é Arthur.
+-Meu nome Ã© Arthur.
 
 157
 00:13:26,358 --> 00:13:29,153
-Você tem algo de especial, Arthur.
+VocÃª tem algo de especial, Arthur.
 Sei que tem.
 
 158
 00:13:29,320 --> 00:13:30,321
-De onde você é?
+De onde vocÃª Ã©?
 
 159
 00:13:30,488 --> 00:13:32,198
@@ -681,16 +681,16 @@ Eu moro aqui na cidade
 
 160
 00:13:32,364 --> 00:13:33,616
-com minha mãe.
+com minha mÃ£e.
 
 161
 00:13:35,409 --> 00:13:37,620
-Esperem. Não tem nada de engraçado nisso.
+Esperem. NÃ£o tem nada de engraÃ§ado nisso.
 
 162
 00:13:37,787 --> 00:13:40,456
-Morei com minha mãe
-até fazer sucesso. Só eu e ela.
+Morei com minha mÃ£e
+atÃ© fazer sucesso. SÃ³ eu e ela.
 
 163
 00:13:40,623 --> 00:13:43,459
@@ -703,7 +703,7 @@ e nunca mais voltou.
 
 165
 00:13:45,836 --> 00:13:47,838
-Eu sei como é isso, Murray.
+Eu sei como Ã© isso, Murray.
 
 166
 00:13:48,005 --> 00:13:50,549
@@ -711,11 +711,11 @@ Eu fui o homem da casa desde sempre.
 
 167
 00:13:50,716 --> 00:13:52,468
-Eu cuido bem da minha mãe.
+Eu cuido bem da minha mÃ£e.
 
 168
 00:13:56,639 --> 00:13:59,558
-Por todo esse sacrifício,
+Por todo esse sacrifÃ­cio,
 ela deve te amar muito.
 
 169
@@ -734,12 +734,12 @@ para trazer alegria e risos.
 
 172
 00:14:15,908 --> 00:14:18,661
-Eu gostei. Gostei muito. Desça aqui.
+Eu gostei. Gostei muito. DesÃ§a aqui.
 
 173
 00:14:18,828 --> 00:14:21,664
 Venha. Depois dessa,
-você tem que descer aqui.
+vocÃª tem que descer aqui.
 
 174
 00:14:21,831 --> 00:14:23,249
@@ -751,11 +751,11 @@ Venha.
 
 176
 00:14:47,440 --> 00:14:49,692
-O programa está ótimo. Fiquem ligados.
+O programa estÃ¡ Ã³timo. Fiquem ligados.
 
 177
 00:14:49,859 --> 00:14:51,652
-A gente volta já.
+A gente volta jÃ¡.
 
 178
 00:14:52,403 --> 00:14:53,821
@@ -775,17 +775,17 @@ Obrigado, Murray.
 
 182
 00:14:58,909 --> 00:15:01,954
-Sabe, isso aí, as luzes,
+Sabe, isso aÃ­, as luzes,
 o show, a plateia, isso tudo?
 
 183
 00:15:02,121 --> 00:15:04,540
-Eu abriria mão
-para ter um filho como você.
+Eu abriria mÃ£o
+para ter um filho como vocÃª.
 
 184
 00:15:47,124 --> 00:15:49,001
--E aí, mocinhas?
+-E aÃ­, mocinhas?
 -Oi, Randall.
 
 185
@@ -794,15 +794,15 @@ Mais um dia na terra do riso.
 
 186
 00:15:51,003 --> 00:15:52,004
-É.
+Ã‰.
 
 187
 00:15:55,549 --> 00:15:56,634
-Você está bem?
+VocÃª estÃ¡ bem?
 
 188
 00:15:58,594 --> 00:16:01,097
-Eu soube da surra que você levou.
+Eu soube da surra que vocÃª levou.
 
 189
 00:16:01,847 --> 00:16:02,932
@@ -811,23 +811,23 @@ Selvagens!
 190
 00:16:04,475 --> 00:16:07,019
 Eram garotos.
-Eu deveria ter deixado pra lá.
+Eu deveria ter deixado pra lÃ¡.
 
 191
 00:16:07,186 --> 00:16:08,020
-Não.
+NÃ£o.
 
 192
 00:16:08,187 --> 00:16:10,523
-Eles roubam tudo de você se deixar.
+Eles roubam tudo de vocÃª se deixar.
 
 193
 00:16:10,689 --> 00:16:12,024
-A coisa está feia.
+A coisa estÃ¡ feia.
 
 194
 00:16:12,566 --> 00:16:13,943
-São uns animais.
+SÃ£o uns animais.
 
 195
 00:16:18,781 --> 00:16:20,074
@@ -839,7 +839,7 @@ Tome.
 
 197
 00:16:27,998 --> 00:16:29,250
-O que é isso?
+O que Ã© isso?
 
 198
 00:16:29,709 --> 00:16:30,793
@@ -847,15 +847,15 @@ Pegue.
 
 199
 00:16:31,711 --> 00:16:32,795
-É para você.
+Ã‰ para vocÃª.
 
 200
 00:16:37,258 --> 00:16:39,218
-Tem que se proteger lá fora.
+Tem que se proteger lÃ¡ fora.
 
 201
 00:16:39,969 --> 00:16:41,470
-Senão você está ferrado.
+SenÃ£o vocÃª estÃ¡ ferrado.
 
 202
 00:16:43,097 --> 00:16:44,265
@@ -863,23 +863,23 @@ Randall...
 
 203
 00:16:45,725 --> 00:16:48,352
-eu não posso ter uma arma.
+eu nÃ£o posso ter uma arma.
 
 204
 00:16:49,895 --> 00:16:51,355
-Não se preocupe, Art.
+NÃ£o se preocupe, Art.
 
 205
 00:16:52,148 --> 00:16:53,399
-Ninguém precisa saber.
+NinguÃ©m precisa saber.
 
 206
 00:16:53,566 --> 00:16:55,901
-E você pode me pagar uma outra hora.
+E vocÃª pode me pagar uma outra hora.
 
 207
 00:16:56,068 --> 00:16:57,278
-Sabe que é meu garoto.
+Sabe que Ã© meu garoto.
 
 208
 00:16:59,488 --> 00:17:00,489
@@ -887,7 +887,7 @@ Arthur...
 
 209
 00:17:01,115 --> 00:17:02,616
-Hoyt te espera no escritório.
+Hoyt te espera no escritÃ³rio.
 
 210
 00:17:03,367 --> 00:17:05,870
@@ -895,20 +895,20 @@ Ei, Gary. Sabe o que eu sempre quis saber?
 
 211
 00:17:06,037 --> 00:17:07,163
-Não faço ideia.
+NÃ£o faÃ§o ideia.
 
 212
 00:17:07,329 --> 00:17:10,708
-Vocês chamam de golfe miniatura
-ou é só golfe para vocês?
+VocÃªs chamam de golfe miniatura
+ou Ã© sÃ³ golfe para vocÃªs?
 
 213
 00:17:15,963 --> 00:17:17,465
-Dá um soco no pau dele.
+DÃ¡ um soco no pau dele.
 
 214
 00:17:29,560 --> 00:17:31,103
-ESCRITÓRIO
+ESCRITÃ“RIO
 
 215
 00:17:34,440 --> 00:17:36,067
@@ -916,16 +916,16 @@ Oi, Hoyt.
 
 216
 00:17:36,233 --> 00:17:38,736
-Gary disse que você queria falar comigo.
+Gary disse que vocÃª queria falar comigo.
 
 217
 00:17:38,903 --> 00:17:41,822
-E a carreira na comédia?
-Já é famoso no <i>stand-up?</i>
+E a carreira na comÃ©dia?
+JÃ¡ Ã© famoso no <i>stand-up?</i>
 
 218
 00:17:41,989 --> 00:17:42,948
-Eu não.
+Eu nÃ£o.
 
 219
 00:17:43,115 --> 00:17:45,242
@@ -933,16 +933,16 @@ Estou tralhando nos meus textos.
 
 220
 00:17:45,409 --> 00:17:47,328
-Não se sente. Vai ser rápido.
+NÃ£o se sente. Vai ser rÃ¡pido.
 
 221
 00:17:47,495 --> 00:17:48,996
-Eu gosto de você, Arthur.
+Eu gosto de vocÃª, Arthur.
 
 222
 00:17:49,163 --> 00:17:51,874
-Muitos aqui acham você esquisito,
-mas eu gosto de você.
+Muitos aqui acham vocÃª esquisito,
+mas eu gosto de vocÃª.
 
 223
 00:17:53,209 --> 00:17:54,835
@@ -954,12 +954,12 @@ Mas recebi mais uma queixa.
 
 225
 00:17:57,838 --> 00:18:00,633
-Isso começa a me deixar puto.
-É da loja Kenny's.
+Isso comeÃ§a a me deixar puto.
+Ã‰ da loja Kenny's.
 
 226
 00:18:00,800 --> 00:18:02,635
-O cara disse que você sumiu.
+O cara disse que vocÃª sumiu.
 
 227
 00:18:02,802 --> 00:18:04,178
@@ -971,7 +971,7 @@ Porque eu fui agredido.
 
 229
 00:18:07,223 --> 00:18:08,933
-Você não soube?
+VocÃª nÃ£o soube?
 
 230
 00:18:09,100 --> 00:18:10,851
@@ -979,7 +979,7 @@ Por um cartaz?
 
 231
 00:18:11,018 --> 00:18:13,187
-Isso é conversa. Não faz sentido.
+Isso Ã© conversa. NÃ£o faz sentido.
 
 232
 00:18:13,354 --> 00:18:15,314
@@ -987,7 +987,7 @@ Devolva o cartaz para ele.
 
 233
 00:18:15,481 --> 00:18:17,858
-O negócio dele está falindo,
+O negÃ³cio dele estÃ¡ falindo,
 pelo amor de Deus.
 
 234
@@ -996,42 +996,42 @@ Por que eu ficaria com o cartaz?
 
 235
 00:18:19,985 --> 00:18:22,738
-Sei lá!
+Sei lÃ¡!
 Por que as pessoas fazem as coisas?
 
 236
 00:18:24,031 --> 00:18:26,033
-Se você não devolver o cartaz,
+Se vocÃª nÃ£o devolver o cartaz,
 
 237
 00:18:26,200 --> 00:18:28,244
-eu vou descontar do seu salário.
+eu vou descontar do seu salÃ¡rio.
 
 238
 00:18:29,328 --> 00:18:30,454
-Está claro?
+EstÃ¡ claro?
 
 239
 00:18:31,997 --> 00:18:34,750
-Ouça, eu estou tentando te ajudar.
+OuÃ§a, eu estou tentando te ajudar.
 
 240
 00:18:34,917 --> 00:18:36,877
-Tá? E vou te dizer outra coisa.
+TÃ¡? E vou te dizer outra coisa.
 
 241
 00:18:37,044 --> 00:18:40,256
-Os outros caras não se sentem
-à vontade perto de você
+Os outros caras nÃ£o se sentem
+Ã  vontade perto de vocÃª
 
 242
 00:18:40,423 --> 00:18:42,383
-porque acham que você é estranho.
+porque acham que vocÃª Ã© estranho.
 
 243
 00:18:42,550 --> 00:18:45,386
-Tá legal?
-E eu não posso permitir essa situação.
+TÃ¡ legal?
+E eu nÃ£o posso permitir essa situaÃ§Ã£o.
 
 244
 00:19:35,186 --> 00:19:36,228
@@ -1047,28 +1047,28 @@ Obrigada.
 
 247
 00:20:03,798 --> 00:20:06,384
-Este prédio é horrível, não é?
+Este prÃ©dio Ã© horrÃ­vel, nÃ£o Ã©?
 
 248
 00:20:08,260 --> 00:20:10,721
-Este prédio é horrível, não é, mamãe?
+Este prÃ©dio Ã© horrÃ­vel, nÃ£o Ã©, mamÃ£e?
 
 249
 00:20:10,888 --> 00:20:13,307
-Sim, nós te ouvimos, GiGi.
+Sim, nÃ³s te ouvimos, GiGi.
 
 250
 00:20:13,474 --> 00:20:15,810
-Ele é horrível, mamãe.
+Ele Ã© horrÃ­vel, mamÃ£e.
 
 251
 00:20:17,520 --> 00:20:18,521
-Não é, mamãe?
+NÃ£o Ã©, mamÃ£e?
 
 252
 00:20:26,487 --> 00:20:27,988
 -Boa noite.
--É horrível, não é?
+-Ã‰ horrÃ­vel, nÃ£o Ã©?
 
 253
 00:20:34,829 --> 00:20:35,746
@@ -1089,7 +1089,7 @@ O carteiro deve estar jogando fora.
 257
 00:21:06,569 --> 00:21:09,447
 Por que as cartas
-são tão importantes para você?
+sÃ£o tÃ£o importantes para vocÃª?
 
 258
 00:21:10,364 --> 00:21:13,075
@@ -1098,8 +1098,8 @@ são tão importantes para você?
 
 259
 00:21:13,993 --> 00:21:18,164
-Mas você trabalhou para ele
-há quanto tempo, trinta anos?
+Mas vocÃª trabalhou para ele
+hÃ¡ quanto tempo, trinta anos?
 
 260
 00:21:18,330 --> 00:21:20,207
@@ -1107,7 +1107,7 @@ Por que ele nos ajudaria?
 
 261
 00:21:20,374 --> 00:21:22,960
-Porque Thomas Wayne é um bom homem.
+Porque Thomas Wayne Ã© um bom homem.
 
 262
 00:21:23,836 --> 00:21:26,422
@@ -1120,11 +1120,11 @@ ele ficaria indignado.
 
 264
 00:21:31,427 --> 00:21:34,096
-Não sei te explicar de uma forma melhor.
+NÃ£o sei te explicar de uma forma melhor.
 
 265
 00:21:35,973 --> 00:21:37,850
-Não se preocupe com dinheiro.
+NÃ£o se preocupe com dinheiro.
 
 266
 00:21:39,185 --> 00:21:40,311
@@ -1133,12 +1133,12 @@ Nem comigo.
 267
 00:21:40,770 --> 00:21:44,648
 Todo mundo diz que meu <i>stand-up
-</i>está pronto para clubes grandes.
+</i>estÃ¡ pronto para clubes grandes.
 
 268
 00:21:45,858 --> 00:21:48,444
 Mas, Feliz,
-por que você acha que consegue?
+por que vocÃª acha que consegue?
 
 269
 00:21:48,944 --> 00:21:50,029
@@ -1146,11 +1146,11 @@ Como assim?
 
 270
 00:21:51,822 --> 00:21:54,116
-Comediante não precisa ser engraçado?
+Comediante nÃ£o precisa ser engraÃ§ado?
 
 271
 00:22:57,763 --> 00:22:59,014
-Qual é seu nome?
+Qual Ã© seu nome?
 
 272
 00:23:00,224 --> 00:23:01,225
@@ -1158,7 +1158,7 @@ Arthur.
 
 273
 00:23:02,226 --> 00:23:05,479
-Arthur, você é um ótimo dançarino.
+Arthur, vocÃª Ã© um Ã³timo danÃ§arino.
 
 274
 00:23:06,188 --> 00:23:07,314
@@ -1166,15 +1166,15 @@ Eu sei.
 
 275
 00:23:07,982 --> 00:23:10,109
-Sabe quem não é? Ele.
+Sabe quem nÃ£o Ã©? Ele.
 
 276
 00:23:15,740 --> 00:23:17,658
-O que foi isso? Você está bem?
+O que foi isso? VocÃª estÃ¡ bem?
 
 277
 00:23:17,825 --> 00:23:18,868
-Mãe, o que é?
+MÃ£e, o que Ã©?
 
 278
 00:23:19,035 --> 00:23:21,162
@@ -1190,15 +1190,15 @@ Abaixe isso!
 
 281
 00:23:31,630 --> 00:23:33,299
-Desculpe, mãe.
+Desculpe, mÃ£e.
 
 282
 00:23:46,020 --> 00:23:47,146
-Você está bem?
+VocÃª estÃ¡ bem?
 
 283
 00:24:54,505 --> 00:24:57,049
-É legal ver casais no meu show.
+Ã‰ legal ver casais no meu show.
 
 284
 00:24:58,008 --> 00:25:00,219
@@ -1206,20 +1206,20 @@ Tenho uma esposa. Adoramos fantasiar.
 
 285
 00:25:00,720 --> 00:25:03,013
-Sim, é muito sexy.
+Sim, Ã© muito sexy.
 
 286
 00:25:03,180 --> 00:25:04,682
-Minha preferida agora é
+Minha preferida agora Ã©
 
 287
 00:25:04,849 --> 00:25:09,228
 professor e aluna que precisa passar
-na minha matéria para se formar.
+na minha matÃ©ria para se formar.
 
 288
 00:25:10,396 --> 00:25:11,647
-É.
+Ã‰.
 
 289
 00:25:13,107 --> 00:25:14,483
@@ -1228,12 +1228,12 @@ Vou contar como funciona.
 290
 00:25:14,650 --> 00:25:17,319
 Sou professor
-de uma universidade de prestígio,
+de uma universidade de prestÃ­gio,
 
 291
 00:25:18,904 --> 00:25:22,783
-e minha esposa é minha aluna
-de "Introdução à Civilização Ocidental".
+e minha esposa Ã© minha aluna
+de "IntroduÃ§Ã£o Ã  CivilizaÃ§Ã£o Ocidental".
 
 292
 00:25:24,827 --> 00:25:25,995
@@ -1241,25 +1241,25 @@ Eu sei.
 
 293
 00:25:26,579 --> 00:25:29,331
-Por que aluna de introdução?
-Também não entendi.
+Por que aluna de introduÃ§Ã£o?
+TambÃ©m nÃ£o entendi.
 
 294
 00:25:30,458 --> 00:25:32,293
-Então ela vem até minha sala.
+EntÃ£o ela vem atÃ© minha sala.
 
 295
 00:25:33,461 --> 00:25:37,423
-Atendo alunos às segundas e quartas.
-Ela diz: "Com licença, Prof. Lewis."
+Atendo alunos Ã s segundas e quartas.
+Ela diz: "Com licenÃ§a, Prof. Lewis."
 
 296
 00:25:37,590 --> 00:25:39,508
-Não posso usar meu sobrenome verdadeiro
+NÃ£o posso usar meu sobrenome verdadeiro
 
 297
 00:25:39,675 --> 00:25:41,218
-porque não contratam judeus.
+porque nÃ£o contratam judeus.
 
 298
 00:25:43,054 --> 00:25:46,015
@@ -1268,11 +1268,11 @@ Por enquanto...
 
 299
 00:25:46,724 --> 00:25:48,350
-Ela diz: "Com licença, professor.
+Ela diz: "Com licenÃ§a, professor.
 
 300
 00:25:48,517 --> 00:25:50,978
-Corro o risco de repetir em 'Introdução'
+Corro o risco de repetir em 'IntroduÃ§Ã£o'
 
 301
 00:25:51,145 --> 00:25:54,106
@@ -1290,24 +1290,24 @@ Contato visual
 
 304
 00:25:57,777 --> 00:25:59,111
-Faça observações engraçadas
+FaÃ§a observaÃ§Ãµes engraÃ§adas
 
 305
 00:25:59,278 --> 00:26:00,488
-Piadas sexy são engraçadas
+Piadas sexy sÃ£o engraÃ§adas
 
 306
 00:26:00,654 --> 00:26:04,200
-Doença mental
+DoenÃ§a mental
 
 307
 00:26:50,955 --> 00:26:53,332
-A pior parte de ter uma doença mental
+A pior parte de ter uma doenÃ§a mental
 
 308
 00:26:53,499 --> 00:26:58,087
-é que as pessoas esperam
-que você se porte como se NÃO tivesse
+Ã© que as pessoas esperam
+que vocÃª se porte como se NÃƒO tivesse
 
 309
 00:27:05,052 --> 00:27:06,095
@@ -1319,7 +1319,7 @@ Oi.
 
 311
 00:27:08,097 --> 00:27:09,640
-Você estava me seguindo hoje?
+VocÃª estava me seguindo hoje?
 
 312
 00:27:13,185 --> 00:27:14,937
@@ -1327,11 +1327,11 @@ Estava.
 
 313
 00:27:16,814 --> 00:27:18,649
-Imaginei que fosse você.
+Imaginei que fosse vocÃª.
 
 314
 00:27:19,483 --> 00:27:21,902
-Achei que você ia entrar lá e assaltar.
+Achei que vocÃª ia entrar lÃ¡ e assaltar.
 
 315
 00:27:23,946 --> 00:27:25,489
@@ -1339,43 +1339,43 @@ Eu tenho uma arma.
 
 316
 00:27:25,656 --> 00:27:27,283
-Posso passar amanhã.
+Posso passar amanhÃ£.
 
 317
 00:27:30,745 --> 00:27:32,204
-Você é muito engraçado.
+VocÃª Ã© muito engraÃ§ado.
 
 318
 00:27:34,457 --> 00:27:35,750
-É.
+Ã‰.
 
 319
 00:27:35,916 --> 00:27:38,419
-Sabe, eu faço comédia <i>stand-up.</i>
+Sabe, eu faÃ§o comÃ©dia <i>stand-up.</i>
 
 320
 00:27:38,586 --> 00:27:41,338
-Vá assistir a um show qualquer hora.
+VÃ¡ assistir a um show qualquer hora.
 
 321
 00:27:42,048 --> 00:27:43,382
-Pode ser que eu vá.
+Pode ser que eu vÃ¡.
 
 322
 00:27:43,549 --> 00:27:44,675
-É?
+Ã‰?
 
 323
 00:27:44,842 --> 00:27:46,635
-É. Avisa quando tiver?
+Ã‰. Avisa quando tiver?
 
 324
 00:27:46,802 --> 00:27:47,803
-Tá.
+TÃ¡.
 
 325
 00:27:54,727 --> 00:27:58,189
-<i>Se você está contente
+<i>Se vocÃª estÃ¡ contente
 Mexa as orelhas</i>
 
 326
@@ -1384,7 +1384,7 @@ Mexa as orelhas</i>
 
 327
 00:27:59,356 --> 00:28:02,735
-<i>Se você está contente
+<i>Se vocÃª estÃ¡ contente
 Mexa as orelhas</i>
 
 328
@@ -1393,45 +1393,45 @@ Mexa as orelhas</i>
 
 329
 00:28:04,070 --> 00:28:08,491
-<i>Se você está contente
+<i>Se vocÃª estÃ¡ contente
 E quer mostrar para toda a gente</i>
 
 330
 00:28:08,657 --> 00:28:11,869
-<i>Se você está contente
+<i>Se vocÃª estÃ¡ contente
 Mexa as orelhas</i>
 
 331
 00:28:13,287 --> 00:28:16,624
-<i>Se você está contente
-Bata os pés</i>
+<i>Se vocÃª estÃ¡ contente
+Bata os pÃ©s</i>
 
 332
 00:28:16,791 --> 00:28:17,708
-<i>Bata os pés</i>
+<i>Bata os pÃ©s</i>
 
 333
 00:28:17,875 --> 00:28:21,087
-<i>Se você está contente
-Bata os pés</i>
+<i>Se vocÃª estÃ¡ contente
+Bata os pÃ©s</i>
 
 334
 00:28:21,253 --> 00:28:22,254
-<i>Bata os pés</i>
+<i>Bata os pÃ©s</i>
 
 335
 00:28:22,421 --> 00:28:26,842
-<i>Se você está contente
+<i>Se vocÃª estÃ¡ contente
 E quer mostrar para toda a gente</i>
 
 336
 00:28:27,009 --> 00:28:30,471
-<i>Se você está contente
-Bata os pés</i>
+<i>Se vocÃª estÃ¡ contente
+Bata os pÃ©s</i>
 
 337
 00:28:31,847 --> 00:28:34,850
-<i>Se você está contente
+<i>Se vocÃª estÃ¡ contente
 Grite "viva"</i>
 
 338
@@ -1440,7 +1440,7 @@ Grite "viva"</i>
 
 339
 00:28:36,352 --> 00:28:39,772
-<i>Se você está contente
+<i>Se vocÃª estÃ¡ contente
 Grite "viva"</i>
 
 340
@@ -1449,7 +1449,7 @@ Grite "viva"</i>
 
 341
 00:28:41,107 --> 00:28:44,110
-<i>Se você está contente
+<i>Se vocÃª estÃ¡ contente
 E quer mostrar</i>
 
 342
@@ -1458,25 +1458,25 @@ Hoyt, por favor, eu amo este trabalho.
 
 343
 00:28:48,531 --> 00:28:52,952
-<i>Arthur, quero saber por que você levou
+<i>Arthur, quero saber por que vocÃª levou
 uma arma para um hospital infantil.</i>
 
 344
 00:28:53,119 --> 00:28:56,080
-É só um adereço.
+Ã‰ sÃ³ um adereÃ§o.
 Faz parte do meu show agora.
 
 345
 00:28:56,247 --> 00:28:58,082
-<i>Isso é mentira. Mentira.</i>
+<i>Isso Ã© mentira. Mentira.</i>
 
 346
 00:28:58,249 --> 00:29:00,334
-<i>Que palhaço carrega uma arma?</i>
+<i>Que palhaÃ§o carrega uma arma?</i>
 
 347
 00:29:01,043 --> 00:29:05,506
-<i>Randall me contou que você tentou comprar
+<i>Randall me contou que vocÃª tentou comprar
 uma .38 com ele na semana passada.</i>
 
 348
@@ -1485,29 +1485,29 @@ Randall disse isso?
 
 349
 00:29:06,882 --> 00:29:10,010
-<i>Você é pirado, Arthur. E mentiroso.</i>
+<i>VocÃª Ã© pirado, Arthur. E mentiroso.</i>
 
 350
 00:29:10,177 --> 00:29:11,178
-<i>Está despedido!</i>
+<i>EstÃ¡ despedido!</i>
 
 351
 00:29:37,413 --> 00:29:40,166
 <i>Rua Jefferson.
-Próxima parada, Nona Avenida.</i>
+PrÃ³xima parada, Nona Avenida.</i>
 
 352
 00:29:43,169 --> 00:29:45,755
 Ela pediu meu telefone.
-Devíamos ter ficado.
+DevÃ­amos ter ficado.
 
 353
 00:29:45,921 --> 00:29:48,591
-Está sonhando. Ela não estava interessada.
+EstÃ¡ sonhando. Ela nÃ£o estava interessada.
 
 354
 00:29:48,758 --> 00:29:50,968
-Está maluco? Dançamos agarradinhos.
+EstÃ¡ maluco? DanÃ§amos agarradinhos.
 
 355
 00:29:51,135 --> 00:29:52,219
@@ -1515,7 +1515,7 @@ Estava apaixonada.
 
 356
 00:29:52,386 --> 00:29:53,846
-Queria se livrar de você.
+Queria se livrar de vocÃª.
 
 357
 00:29:54,013 --> 00:29:56,348
@@ -1527,15 +1527,15 @@ Quer batata frita?
 
 359
 00:30:03,481 --> 00:30:05,066
-Olá?
+OlÃ¡?
 
 360
 00:30:06,442 --> 00:30:07,526
-Falei com você.
+Falei com vocÃª.
 
 361
 00:30:07,693 --> 00:30:09,236
-Não, obrigada.
+NÃ£o, obrigada.
 
 362
 00:30:12,198 --> 00:30:13,449
@@ -1543,16 +1543,16 @@ Tem certeza?
 
 363
 00:30:15,326 --> 00:30:16,452
-Estão uma delícia.
+EstÃ£o uma delÃ­cia.
 
 364
 00:30:19,288 --> 00:30:22,041
-Não o ignore.
-Ele está sendo gentil com você.
+NÃ£o o ignore.
+Ele estÃ¡ sendo gentil com vocÃª.
 
 365
 00:30:49,026 --> 00:30:50,653
-Qual é a graça, idiota?
+Qual Ã© a graÃ§a, idiota?
 
 366
 00:30:54,865 --> 00:30:56,242
@@ -1560,51 +1560,51 @@ Piranha!
 
 367
 00:31:02,998 --> 00:31:06,001
-<i>Não é precioso?</i>
+<i>NÃ£o Ã© precioso?</i>
 
 368
 00:31:06,877 --> 00:31:09,296
-<i>Nós somos um par?</i>
+<i>NÃ³s somos um par?</i>
 
 369
 00:31:11,757 --> 00:31:14,427
-<i>Eu finalmente aqui no chão</i>
+<i>Eu finalmente aqui no chÃ£o</i>
 
 370
 00:31:14,593 --> 00:31:17,596
-<i>E você em pleno ar</i>
+<i>E vocÃª em pleno ar</i>
 
 371
 00:31:17,763 --> 00:31:20,766
-<i>Que entrem os palhaços</i>
+<i>Que entrem os palhaÃ§os</i>
 
 372
 00:31:24,895 --> 00:31:26,689
-<i>Não é um deleite?</i>
+<i>NÃ£o Ã© um deleite?</i>
 
 373
 00:31:28,149 --> 00:31:30,151
-<i>Você não aprova?</i>
+<i>VocÃª nÃ£o aprova?</i>
 
 374
 00:31:31,152 --> 00:31:33,320
-<i>Um fica correndo por aí</i>
+<i>Um fica correndo por aÃ­</i>
 
 375
 00:31:33,487 --> 00:31:36,323
-<i>E um não consegue se mexer</i>
+<i>E um nÃ£o consegue se mexer</i>
 
 376
 00:31:36,490 --> 00:31:39,660
-<i>Onde estão os palhaços?</i>
+<i>Onde estÃ£o os palhaÃ§os?</i>
 
 377
 00:31:39,827 --> 00:31:43,539
-<i>Tem que haver palhaços</i>
+<i>Tem que haver palhaÃ§os</i>
 
 378
 00:31:53,382 --> 00:31:56,218
-E aí, amigo, diga, qual é a graça?
+E aÃ­, amigo, diga, qual Ã© a graÃ§a?
 
 379
 00:31:56,385 --> 00:31:58,012
@@ -1612,11 +1612,11 @@ Nenhuma.
 
 380
 00:32:02,058 --> 00:32:03,350
-Eu tenho um distúrbio.
+Eu tenho um distÃºrbio.
 
 381
 00:32:04,060 --> 00:32:06,020
-Vou dizer o que você tem, idiota.
+Vou dizer o que vocÃª tem, idiota.
 
 382
 00:32:09,690 --> 00:32:11,108
@@ -1632,12 +1632,12 @@ Segure-o firme.
 
 385
 00:32:18,574 --> 00:32:20,242
-Fique no chão, esquisito!
+Fique no chÃ£o, esquisito!
 
 386
 00:33:03,536 --> 00:33:05,454
 <i>Nona Avenida.
-Próxima parada, Hunter's Point.</i>
+PrÃ³xima parada, Hunter's Point.</i>
 
 387
 00:33:13,045 --> 00:33:14,839
@@ -1653,20 +1653,20 @@ Li que foi um cara maquiado.
 
 390
 00:36:50,012 --> 00:36:52,473
-Não, aqui diz que era uma máscara.
+NÃ£o, aqui diz que era uma mÃ¡scara.
 
 391
 00:36:52,640 --> 00:36:54,767
-De todo modo, é bom para os negócios.
+De todo modo, Ã© bom para os negÃ³cios.
 
 392
 00:36:54,934 --> 00:36:57,269
-Há palhaços
-na primeira página de todo jornal.
+HÃ¡ palhaÃ§os
+na primeira pÃ¡gina de todo jornal.
 
 393
 00:36:57,436 --> 00:36:58,646
-Grandão, e aí?
+GrandÃ£o, e aÃ­?
 
 394
 00:36:58,813 --> 00:36:59,814
@@ -1682,11 +1682,11 @@ Sinto muito, cara.
 
 397
 00:37:06,779 --> 00:37:07,780
-É.
+Ã‰.
 
 398
 00:37:08,447 --> 00:37:09,698
-Não acho justo
+NÃ£o acho justo
 
 399
 00:37:09,865 --> 00:37:11,742
@@ -1699,7 +1699,7 @@ a um hospital infantil?
 
 401
 00:37:16,622 --> 00:37:18,082
-Por que você fez isso?
+Por que vocÃª fez isso?
 
 402
 00:37:18,249 --> 00:37:19,542
@@ -1707,7 +1707,7 @@ Faz parte do novo show?
 
 403
 00:37:19,709 --> 00:37:22,002
-Se a dança não der certo, você se mata?
+Se a danÃ§a nÃ£o der certo, vocÃª se mata?
 
 404
 00:37:23,504 --> 00:37:24,880
@@ -1719,12 +1719,12 @@ A arma era dele.
 
 406
 00:37:27,466 --> 00:37:30,094
--O quê?
--Ainda tenho que pagar, não é?
+-O quÃª?
+-Ainda tenho que pagar, nÃ£o Ã©?
 
 407
 00:37:30,261 --> 00:37:32,012
-O que você está dizendo?
+O que vocÃª estÃ¡ dizendo?
 
 408
 00:37:32,555 --> 00:37:34,348
@@ -1732,7 +1732,7 @@ Pare de falar merda, Art.
 
 409
 00:37:39,812 --> 00:37:40,855
-Ah, não.
+Ah, nÃ£o.
 
 410
 00:37:42,606 --> 00:37:44,316
@@ -1740,11 +1740,11 @@ Esqueci de bater o ponto.
 
 411
 00:37:57,038 --> 00:37:59,415
-NÃO SE ESQUEÇA, SORRIA!
+NÃƒO SE ESQUEÃ‡A, SORRIA!
 
 412
 00:38:02,752 --> 00:38:06,756
-NÃO SORRIA!
+NÃƒO SORRIA!
 
 413
 00:38:14,638 --> 00:38:16,891
@@ -1753,7 +1753,7 @@ NÃO SORRIA!
 414
 00:38:17,058 --> 00:38:20,519
 <i>o brutal assassinato triplo
-no metrô na semana passada,</i>
+no metrÃ´ na semana passada,</i>
 
 415
 00:38:20,686 --> 00:38:22,188
@@ -1761,11 +1761,11 @@ no metrô na semana passada,</i>
 
 416
 00:38:22,354 --> 00:38:24,607
-Feliz, olhe, Thomas Wayne está na TV.
+Feliz, olhe, Thomas Wayne estÃ¡ na TV.
 
 417
 00:38:24,774 --> 00:38:25,941
-Sim, mãe.
+Sim, mÃ£e.
 
 418
 00:38:26,108 --> 00:38:27,359
@@ -1773,13 +1773,13 @@ Sim, mãe.
 
 419
 00:38:27,526 --> 00:38:30,362
-Estão perguntando
-sobre os assassinatos no metrô.
+EstÃ£o perguntando
+sobre os assassinatos no metrÃ´.
 
 420
 00:38:30,529 --> 00:38:33,616
 <i>Obrigado, Thomas.
-Sei que é um momento difícil para você.</i>
+Sei que Ã© um momento difÃ­cil para vocÃª.</i>
 
 421
 00:38:33,783 --> 00:38:35,451
@@ -1799,35 +1799,35 @@ Parece que ele engordou.
 
 425
 00:38:41,916 --> 00:38:44,543
-<i>Embora eu não conhecesse
+<i>Embora eu nÃ£o conhecesse
 nenhum pessoalmente.</i>
 
 426
 00:38:46,253 --> 00:38:50,049
-<i>Como todos nossos funcionários
-sempre foram, eles são da família.</i>
+<i>Como todos nossos funcionÃ¡rios
+sempre foram, eles sÃ£o da famÃ­lia.</i>
 
 427
 00:38:50,216 --> 00:38:52,218
-Ouviu isso? Falei, somos da família.
+Ouviu isso? Falei, somos da famÃ­lia.
 
 428
 00:38:52,385 --> 00:38:55,721
-<i>Parece que há uma onda de aversão
+<i>Parece que hÃ¡ uma onda de aversÃ£o
 aos ricos na cidade.</i>
 
 429
 00:38:55,888 --> 00:39:00,351
-<i>É quase como se os moradores menos
+<i>Ã‰ quase como se os moradores menos
 afortunados apoiassem o assassino.</i>
 
 430
 00:39:00,518 --> 00:39:02,186
-<i>Sim, e é uma pena.</i>
+<i>Sim, e Ã© uma pena.</i>
 
 431
 00:39:02,353 --> 00:39:04,939
-<i>Também por isso
+<i>TambÃ©m por isso
 cogito me candidatar a prefeito.</i>
 
 432
@@ -1836,8 +1836,8 @@ cogito me candidatar a prefeito.</i>
 
 433
 00:39:08,192 --> 00:39:12,738
-<i>E a declaração da testemunha de que
-o suspeito usava uma máscara de palhaço?</i>
+<i>E a declaraÃ§Ã£o da testemunha de que
+o suspeito usava uma mÃ¡scara de palhaÃ§o?</i>
 
 434
 00:39:12,905 --> 00:39:14,907
@@ -1849,12 +1849,12 @@ o suspeito usava uma máscara de palhaço?</i>
 
 436
 00:39:17,451 --> 00:39:19,286
-<i>Alguém escondido atrás de uma máscara.</i>
+<i>AlguÃ©m escondido atrÃ¡s de uma mÃ¡scara.</i>
 
 437
 00:39:19,870 --> 00:39:24,834
-<i>Alguém que tem inveja daqueles
-que têm mais sorte do que ele.</i>
+<i>AlguÃ©m que tem inveja daqueles
+que tÃªm mais sorte do que ele.</i>
 
 438
 00:39:25,543 --> 00:39:28,337
@@ -1862,33 +1862,33 @@ que têm mais sorte do que ele.</i>
 
 439
 00:39:28,504 --> 00:39:31,424
-<i>E até esse tipo de gente
+<i>E atÃ© esse tipo de gente
 mudar para melhor,</i>
 
 440
 00:39:31,590 --> 00:39:35,177
-<i>aqueles dentre nós
+<i>aqueles dentre nÃ³s
 que foram bem-sucedidos na vida</i>
 
 441
 00:39:35,344 --> 00:39:37,680
-<i>sempre verão aqueles que não foram</i>
+<i>sempre verÃ£o aqueles que nÃ£o foram</i>
 
 442
 00:39:37,847 --> 00:39:39,974
-<i>como meros palhaços.</i>
+<i>como meros palhaÃ§os.</i>
 
 443
 00:39:41,600 --> 00:39:44,061
-<i>Thomas Wayne, obrigado pela sua presença.</i>
+<i>Thomas Wayne, obrigado pela sua presenÃ§a.</i>
 
 444
 00:39:44,228 --> 00:39:45,229
-Não tem graça.
+NÃ£o tem graÃ§a.
 
 445
 00:40:06,959 --> 00:40:09,211
-Ouvi uma música no rádio um dia desses,
+Ouvi uma mÃºsica no rÃ¡dio um dia desses,
 
 446
 00:40:12,048 --> 00:40:16,052
@@ -1905,15 +1905,15 @@ Foi muito louco
 
 449
 00:40:22,016 --> 00:40:25,061
-porque é meu nome de palhaço no trabalho.
+porque Ã© meu nome de palhaÃ§o no trabalho.
 
 450
 00:40:26,145 --> 00:40:28,606
-E até bem pouco tempo atrás,
+E atÃ© bem pouco tempo atrÃ¡s,
 
 451
 00:40:29,857 --> 00:40:32,359
-era como se ninguém me visse.
+era como se ninguÃ©m me visse.
 
 452
 00:40:34,403 --> 00:40:36,781
@@ -1921,33 +1921,33 @@ Nem eu sabia se eu realmente existia.
 
 453
 00:40:37,198 --> 00:40:39,575
-Arthur, tenho uma má notícia para você.
+Arthur, tenho uma mÃ¡ notÃ­cia para vocÃª.
 
 454
 00:40:42,912 --> 00:40:44,330
-Você não me ouve, não é?
+VocÃª nÃ£o me ouve, nÃ£o Ã©?
 
 455
 00:40:45,998 --> 00:40:50,002
-Acho que você nunca me escuta de verdade.
+Acho que vocÃª nunca me escuta de verdade.
 
 456
 00:40:51,087 --> 00:40:53,881
-Você faz as mesmas perguntas toda semana.
+VocÃª faz as mesmas perguntas toda semana.
 
 457
 00:40:54,048 --> 00:40:57,343
 "Como vai seu trabalho?
-Está tendo pensamentos negativos?"
+EstÃ¡ tendo pensamentos negativos?"
 
 458
 00:40:58,386 --> 00:41:02,098
-Só o que eu tenho
-são pensamentos negativos,
+SÃ³ o que eu tenho
+sÃ£o pensamentos negativos,
 
 459
 00:41:02,264 --> 00:41:05,101
-mas você não me ouve mesmo.
+mas vocÃª nÃ£o me ouve mesmo.
 
 460
 00:41:05,267 --> 00:41:08,646
@@ -1963,7 +1963,7 @@ Mas eu existo, sim.
 
 463
 00:41:16,404 --> 00:41:20,324
-E as pessoas estão começando a perceber.
+E as pessoas estÃ£o comeÃ§ando a perceber.
 
 464
 00:41:22,076 --> 00:41:23,828
@@ -1976,11 +1976,11 @@ Fecharemos as portas na semana que vem.
 466
 00:41:27,373 --> 00:41:31,335
 A prefeitura cortou verba em todas
-as áreas, incluindo Serviço Social.
+as Ã¡reas, incluindo ServiÃ§o Social.
 
 467
 00:41:31,502 --> 00:41:33,546
-É a última vez que nos encontramos.
+Ã‰ a Ãºltima vez que nos encontramos.
 
 468
 00:41:34,505 --> 00:41:35,673
@@ -1988,12 +1988,12 @@ Tudo bem.
 
 469
 00:41:39,885 --> 00:41:41,887
-Estão se lixando para pessoas como você.
+EstÃ£o se lixando para pessoas como vocÃª.
 
 470
 00:41:44,140 --> 00:41:47,601
-E estão se lixando
-para pessoas como eu também.
+E estÃ£o se lixando
+para pessoas como eu tambÃ©m.
 
 471
 00:41:50,855 --> 00:41:52,189
@@ -2001,7 +2001,7 @@ Merda.
 
 472
 00:42:00,406 --> 00:42:02,908
-Como vou conseguir meus remédios agora?
+Como vou conseguir meus remÃ©dios agora?
 
 473
 00:42:05,911 --> 00:42:07,496
@@ -2014,19 +2014,19 @@ Eu sinto muito, Arthur.
 475
 00:42:15,254 --> 00:42:18,090
 <i>Para a maioria das mulheres,
-sexo é como comprar um carro.</i>
+sexo Ã© como comprar um carro.</i>
 
 476
 00:42:18,758 --> 00:42:21,177
-<i>Tipo assim: "Será que isso vai durar?"</i>
+<i>Tipo assim: "SerÃ¡ que isso vai durar?"</i>
 
 477
 00:42:21,343 --> 00:42:23,345
-<i>"É seguro?"</i>
+<i>"Ã‰ seguro?"</i>
 
 478
 00:42:23,512 --> 00:42:24,972
-<i>"É confiável?"</i>
+<i>"Ã‰ confiÃ¡vel?"</i>
 
 479
 00:42:25,139 --> 00:42:26,432
@@ -2035,7 +2035,7 @@ sexo é como comprar um carro.</i>
 480
 00:42:27,475 --> 00:42:29,518
 <i>Para a maioria dos homens,
-é como estacionar um carro.</i>
+Ã© como estacionar um carro.</i>
 
 481
 00:42:29,685 --> 00:42:32,063
@@ -2047,12 +2047,12 @@ sexo é como comprar um carro.</i>
 
 483
 00:42:34,690 --> 00:42:37,193
-<i>"Ah, vou ter que pagar? Deixa pra lá."</i>
+<i>"Ah, vou ter que pagar? Deixa pra lÃ¡."</i>
 
 484
 00:42:38,861 --> 00:42:41,614
 <i>"Para deficientes?
-Espero que ninguém veja."</i>
+Espero que ninguÃ©m veja."</i>
 
 485
 00:42:44,325 --> 00:42:46,535
@@ -2064,7 +2064,7 @@ Outra salva de palmas para Sam Morril.
 
 487
 00:42:55,169 --> 00:42:59,173
-O próximo comediante se diz
+O prÃ³ximo comediante se diz
 um morador de longa data de Gotham,
 
 488
@@ -2088,19 +2088,19 @@ para Arthur Fleck, gente. Arthur Fleck.
 
 492
 00:43:36,794 --> 00:43:39,338
-Olá. É bom estar aqui.
+OlÃ¡. Ã‰ bom estar aqui.
 
 493
 00:44:04,113 --> 00:44:07,074
-Eu detestava a escola quando era criança.
+Eu detestava a escola quando era crianÃ§a.
 
 494
 00:44:22,590 --> 00:44:26,510
-Eu detestava a escola quando era criança.
+Eu detestava a escola quando era crianÃ§a.
 
 495
 00:44:28,679 --> 00:44:30,347
-Minha mãe dizia:
+Minha mÃ£e dizia:
 
 496
 00:44:30,514 --> 00:44:34,143
@@ -2109,7 +2109,7 @@ Um dia, vai ter que trabalhar para viver."
 
 497
 00:44:35,603 --> 00:44:38,606
-"Não, não vou, mãe.
+"NÃ£o, nÃ£o vou, mÃ£e.
 Eu vou ser comediante."
 
 498
@@ -2123,8 +2123,8 @@ por que os ricos...
 
 500
 00:45:26,654 --> 00:45:29,073
-PALHAÇO ASSASSINO À SOLTA
-ÚLTIMAS NOTÍCIAS SOBRE OS ASSASSINATOS
+PALHAÃ‡O ASSASSINO Ã€ SOLTA
+ÃšLTIMAS NOTÃCIAS SOBRE OS ASSASSINATOS
 
 501
 00:45:39,250 --> 00:45:40,584
@@ -2132,7 +2132,7 @@ Acredita nessa merda?
 
 502
 00:45:41,335 --> 00:45:42,336
-PALHAÇO JUSTICEIRO?
+PALHAÃ‡O JUSTICEIRO?
 
 503
 00:45:42,503 --> 00:45:43,337
@@ -2140,15 +2140,15 @@ Danem-se.
 
 504
 00:45:45,464 --> 00:45:48,092
-Acho que o cara que fez isso é um herói.
+Acho que o cara que fez isso Ã© um herÃ³i.
 
 505
 00:45:50,261 --> 00:45:52,096
-Três canalhas a menos em Gotham City.
+TrÃªs canalhas a menos em Gotham City.
 
 506
 00:45:52,555 --> 00:45:54,473
-Agora só falta um milhão.
+Agora sÃ³ falta um milhÃ£o.
 
 507
 00:46:26,338 --> 00:46:28,924
@@ -2161,11 +2161,11 @@ obrigado pelas risadas.</i>
 
 509
 00:46:30,760 --> 00:46:32,470
-<i>Nós estaremos aqui. Espero.</i>
+<i>NÃ³s estaremos aqui. Espero.</i>
 
 510
 00:46:33,429 --> 00:46:37,099
-<i>Amanhã à noite,
+<i>AmanhÃ£ Ã  noite,
 teremos Diana Hudson, Greg Gordon</i>
 
 511
@@ -2174,7 +2174,7 @@ teremos Diana Hudson, Greg Gordon</i>
 
 512
 00:46:40,728 --> 00:46:42,021
-<i>Obrigado pela audiência.</i>
+<i>Obrigado pela audiÃªncia.</i>
 
 513
 00:46:42,188 --> 00:46:44,482
@@ -2182,15 +2182,15 @@ teremos Diana Hudson, Greg Gordon</i>
 
 514
 00:46:44,648 --> 00:46:46,025
-<i>é a vida.</i>
+<i>Ã© a vida.</i>
 
 515
 00:46:50,362 --> 00:46:51,530
-É a vida.
+Ã‰ a vida.
 
 516
 00:46:56,369 --> 00:46:59,747
-Mãe, é hora de acordar e ir para a cama.
+MÃ£e, Ã© hora de acordar e ir para a cama.
 
 517
 00:47:03,209 --> 00:47:04,668
@@ -2206,24 +2206,24 @@ Vamos, dance comigo.
 
 520
 00:47:12,051 --> 00:47:14,428
-Para Thomas Wayne. É importante.
+Para Thomas Wayne. Ã‰ importante.
 
 521
 00:47:23,354 --> 00:47:25,064
-Está cheirando a perfume.
+EstÃ¡ cheirando a perfume.
 
 522
 00:47:25,231 --> 00:47:27,691
-É porque eu tive um encontro importante.
+Ã‰ porque eu tive um encontro importante.
 
 523
 00:47:32,363 --> 00:47:34,115
-Só não esqueça de postar.
+SÃ³ nÃ£o esqueÃ§a de postar.
 
 524
 00:47:59,932 --> 00:48:03,060
 <i>O Murray Franklin Show
-é gravado ao vivo com a plateia</i>
+Ã© gravado ao vivo com a plateia</i>
 
 525
 00:48:03,227 --> 00:48:05,354
@@ -2235,7 +2235,7 @@ Seu filho e eu precisamos da sua ajuda.
 
 527
 00:48:41,849 --> 00:48:45,019
-Thomas, você é a única esperança
+Thomas, vocÃª Ã© a Ãºnica esperanÃ§a
 para mim e seu filho.
 
 528
@@ -2244,32 +2244,32 @@ Eu te amo para sempre, Penny Fleck
 
 529
 00:49:07,708 --> 00:49:10,294
-Você vai me matar. Vai me fazer enfartar.
+VocÃª vai me matar. Vai me fazer enfartar.
 
 530
 00:49:10,461 --> 00:49:11,629
-Não me venha...
+NÃ£o me venha...
 
 531
 00:49:11,796 --> 00:49:13,631
-Não.
+NÃ£o.
 
 532
 00:49:13,798 --> 00:49:16,759
-Não vou falar com você
-até que pare de ficar bravo!
+NÃ£o vou falar com vocÃª
+atÃ© que pare de ficar bravo!
 
 533
 00:49:16,926 --> 00:49:18,094
-Tá bom.
+TÃ¡ bom.
 
 534
 00:49:24,058 --> 00:49:26,185
-Não estou bravo, mãe.
+NÃ£o estou bravo, mÃ£e.
 
 535
 00:49:26,352 --> 00:49:28,687
-Não estou bravo.
+NÃ£o estou bravo.
 
 536
 00:49:28,854 --> 00:49:30,064
@@ -2277,51 +2277,51 @@ Por favor.
 
 537
 00:49:31,107 --> 00:49:33,859
-Mãe, isso é verdade?
+MÃ£e, isso Ã© verdade?
 
 538
 00:49:37,530 --> 00:49:40,741
-Ele é um homem extraordinário, Feliz.
+Ele Ã© um homem extraordinÃ¡rio, Feliz.
 
 539
 00:49:40,908 --> 00:49:43,244
-É um homem muito poderoso.
+Ã‰ um homem muito poderoso.
 
 540
 00:49:44,787 --> 00:49:46,747
-Nós nos apaixonamos.
+NÃ³s nos apaixonamos.
 
 541
 00:49:47,623 --> 00:49:51,752
-Ele disse que era melhor não ficarmos
-juntos por causa das aparências.
+Ele disse que era melhor nÃ£o ficarmos
+juntos por causa das aparÃªncias.
 
 542
 00:49:54,213 --> 00:49:57,591
 E eu nunca pude contar
-para ninguém porque...
+para ninguÃ©m porque...
 
 543
 00:50:00,136 --> 00:50:01,595
-Bom, eu assinei uns papéis.
+Bom, eu assinei uns papÃ©is.
 
 544
 00:50:03,431 --> 00:50:08,519
-Além disso, pode imaginar o que as pessoas
+AlÃ©m disso, pode imaginar o que as pessoas
 diriam sobre o Thomas e sobre mim.
 
 545
 00:50:11,230 --> 00:50:12,606
-O que diriam sobre você.
+O que diriam sobre vocÃª.
 
 546
 00:50:16,819 --> 00:50:18,738
-O que elas diriam, mãe?
+O que elas diriam, mÃ£e?
 
 547
 00:50:31,459 --> 00:50:35,463
-PALHAÇO JUSTICEIRO
-AINDA À SOLTA
+PALHAÃ‡O JUSTICEIRO
+AINDA Ã€ SOLTA
 
 548
 00:50:36,464 --> 00:50:37,923
@@ -2330,7 +2330,7 @@ THOMAS WAYNE ANUNCIA CANDIDATURA
 549
 00:50:38,090 --> 00:50:40,426
 GOTHAM CITY AGUARDA O FUTURO
-COM INÍCIO DA CAMPANHA
+COM INÃCIO DA CAMPANHA
 
 550
 00:52:51,974 --> 00:52:53,017
@@ -2338,11 +2338,11 @@ Oi.
 
 551
 00:52:55,978 --> 00:52:57,354
-Qual é seu nome?
+Qual Ã© seu nome?
 
 552
 00:52:58,606 --> 00:53:00,232
-É Bruce.
+Ã‰ Bruce.
 
 553
 00:53:01,317 --> 00:53:02,485
@@ -2350,11 +2350,11 @@ Bruce.
 
 554
 00:53:04,445 --> 00:53:05,696
-O meu é Arthur.
+O meu Ã© Arthur.
 
 555
 00:53:27,676 --> 00:53:29,053
-Assim está melhor.
+Assim estÃ¡ melhor.
 
 556
 00:53:29,970 --> 00:53:31,555
@@ -2366,11 +2366,11 @@ Saia de perto dele.
 
 558
 00:53:34,392 --> 00:53:36,519
-Está tudo bem. Sou um cara legal.
+EstÃ¡ tudo bem. Sou um cara legal.
 
 559
 00:53:36,685 --> 00:53:37,937
-Quem é você?
+Quem Ã© vocÃª?
 
 560
 00:53:38,562 --> 00:53:40,231
@@ -2378,7 +2378,7 @@ Vim falar com o Sr. Wayne.
 
 561
 00:53:40,398 --> 00:53:42,900
-Não deveria estar falando
+NÃ£o deveria estar falando
 com o filho dele.
 
 562
@@ -2387,35 +2387,35 @@ Por que deu flores para ele?
 
 563
 00:53:45,653 --> 00:53:46,862
-Não são de verdade.
+NÃ£o sÃ£o de verdade.
 
 564
 00:53:48,614 --> 00:53:50,658
-É mágica.
+Ã‰ mÃ¡gica.
 
 565
 00:53:51,117 --> 00:53:52,535
-Só quis fazê-lo sorrir.
+SÃ³ quis fazÃª-lo sorrir.
 
 566
 00:53:52,702 --> 00:53:54,537
-Bem, isso não tem graça.
+Bem, isso nÃ£o tem graÃ§a.
 
 567
 00:53:55,538 --> 00:53:56,747
-Devo chamar a polícia?
+Devo chamar a polÃ­cia?
 
 568
 00:53:56,914 --> 00:53:58,332
-Não. Por favor.
+NÃ£o. Por favor.
 
 569
 00:53:59,625 --> 00:54:02,837
-O nome da minha mãe é Penny. Penny Fleck.
+O nome da minha mÃ£e Ã© Penny. Penny Fleck.
 
 570
 00:54:03,003 --> 00:54:04,088
-Trabalhou aqui anos atrás.
+Trabalhou aqui anos atrÃ¡s.
 
 571
 00:54:04,255 --> 00:54:06,340
@@ -2424,7 +2424,7 @@ que preciso falar com ele.
 
 572
 00:54:07,508 --> 00:54:08,968
-Você é filho dela.
+VocÃª Ã© filho dela.
 
 573
 00:54:09,135 --> 00:54:10,136
@@ -2432,7 +2432,7 @@ Sim.
 
 574
 00:54:10,803 --> 00:54:12,513
-Você a conheceu?
+VocÃª a conheceu?
 
 575
 00:54:16,142 --> 00:54:18,477
@@ -2444,15 +2444,15 @@ Ela me contou tudo.
 
 577
 00:54:23,357 --> 00:54:25,151
-Não há o que saber.
+NÃ£o hÃ¡ o que saber.
 
 578
 00:54:26,277 --> 00:54:28,070
-Não existe "eles".
+NÃ£o existe "eles".
 
 579
 00:54:29,029 --> 00:54:31,198
-Sua mãe era paranoica.
+Sua mÃ£e era paranoica.
 
 580
 00:54:32,116 --> 00:54:33,200
@@ -2460,19 +2460,19 @@ Ela era doente.
 
 581
 00:54:33,367 --> 00:54:35,411
-Não diga isso.
+NÃ£o diga isso.
 
 582
 00:54:36,579 --> 00:54:37,997
-Vá embora.
+VÃ¡ embora.
 
 583
 00:54:39,248 --> 00:54:41,500
-Antes que faça papel de bobo.
+Antes que faÃ§a papel de bobo.
 
 584
 00:54:43,169 --> 00:54:45,838
-Thomas Wayne é meu pai.
+Thomas Wayne Ã© meu pai.
 
 585
 00:54:50,885 --> 00:54:51,886
@@ -2484,15 +2484,15 @@ Solte-me!
 
 587
 00:55:22,375 --> 00:55:24,210
-Mantenha a respiração acima de 15.
+Mantenha a respiraÃ§Ã£o acima de 15.
 
 588
 00:55:24,377 --> 00:55:26,545
-Devagar e firme. Tem uma escada à frente.
+Devagar e firme. Tem uma escada Ã  frente.
 
 589
 00:55:27,797 --> 00:55:29,006
-Mãe?
+MÃ£e?
 
 590
 00:55:29,840 --> 00:55:30,841
@@ -2500,7 +2500,7 @@ O que aconteceu?
 
 591
 00:55:31,008 --> 00:55:32,676
--Quem é você?
+-Quem Ã© vocÃª?
 -Sou filho dela.
 
 592
@@ -2509,11 +2509,11 @@ O que aconteceu?
 
 593
 00:55:33,844 --> 00:55:35,679
-Ainda não sabemos o que aconteceu.
+Ainda nÃ£o sabemos o que aconteceu.
 
 594
 00:55:35,846 --> 00:55:37,681
--Suba na ambulância.
+-Suba na ambulÃ¢ncia.
 -Degrau.
 
 595
@@ -2522,7 +2522,7 @@ De novo. Levantem.
 
 596
 00:55:39,683 --> 00:55:41,477
-Está um pouco complicado aqui.
+EstÃ¡ um pouco complicado aqui.
 
 597
 00:55:44,230 --> 00:55:45,231
@@ -2534,22 +2534,22 @@ Estou aqui.
 
 599
 00:55:52,488 --> 00:55:53,697
-Com licença.
+Com licenÃ§a.
 
 600
 00:55:53,948 --> 00:55:55,991
--Sua mãe toma algum remédio?
--Não.
+-Sua mÃ£e toma algum remÃ©dio?
+-NÃ£o.
 
 601
 00:55:56,158 --> 00:55:57,201
--Não ouvi.
--Não.
+-NÃ£o ouvi.
+-NÃ£o.
 
 602
 00:55:57,368 --> 00:55:59,912
--Quando se falaram pela última vez?
--Não sei.
+-Quando se falaram pela Ãºltima vez?
+-NÃ£o sei.
 
 603
 00:56:18,472 --> 00:56:20,516
@@ -2562,16 +2562,16 @@ Sr. Fleck.
 605
 00:56:47,710 --> 00:56:52,048
 Desculpe incomodar. Sou o detetive
-Garrity. Este é meu parceiro, Burke.
+Garrity. Este Ã© meu parceiro, Burke.
 
 606
 00:56:52,465 --> 00:56:55,134
-Tínhamos algumas perguntas,
-mas como não estava,
+TÃ­nhamos algumas perguntas,
+mas como nÃ£o estava,
 
 607
 00:56:56,635 --> 00:56:58,137
-falamos com sua mãe.
+falamos com sua mÃ£e.
 
 608
 00:57:02,058 --> 00:57:03,476
@@ -2579,19 +2579,19 @@ O que disseram a ela?
 
 609
 00:57:03,642 --> 00:57:04,643
-Vocês causaram isto?
+VocÃªs causaram isto?
 
 610
 00:57:04,810 --> 00:57:05,811
-O quê? Não.
+O quÃª? NÃ£o.
 
 611
 00:57:05,978 --> 00:57:08,439
-Não. Só fizemos umas perguntas,
+NÃ£o. SÃ³ fizemos umas perguntas,
 
 612
 00:57:08,606 --> 00:57:10,107
-e ela ficou histérica.
+e ela ficou histÃ©rica.
 
 613
 00:57:10,274 --> 00:57:12,026
@@ -2599,15 +2599,15 @@ Hiperventilou,
 
 614
 00:57:12,193 --> 00:57:13,319
-desmaiou e bateu a cabeça.
+desmaiou e bateu a cabeÃ§a.
 
 615
 00:57:13,486 --> 00:57:15,613
-O médico disse que ela teve um derrame.
+O mÃ©dico disse que ela teve um derrame.
 
 616
 00:57:16,238 --> 00:57:18,074
-Nós sentimos muito.
+NÃ³s sentimos muito.
 
 617
 00:57:18,949 --> 00:57:21,786
@@ -2616,11 +2616,11 @@ ainda tenho umas perguntas.
 
 618
 00:57:21,952 --> 00:57:24,330
-São sobre os assassinatos no metrô.
+SÃ£o sobre os assassinatos no metrÃ´.
 
 619
 00:57:24,497 --> 00:57:25,790
-Ouviu falar deles, não?
+Ouviu falar deles, nÃ£o?
 
 620
 00:57:25,956 --> 00:57:27,041
@@ -2628,7 +2628,7 @@ Sim.
 
 621
 00:57:27,208 --> 00:57:28,209
-Isso é horrível.
+Isso Ã© horrÃ­vel.
 
 622
 00:57:28,376 --> 00:57:29,585
@@ -2636,8 +2636,8 @@ Exato.
 
 623
 00:57:30,544 --> 00:57:33,672
-Então fomos falar
-com seu chefe lá no Haha's.
+EntÃ£o fomos falar
+com seu chefe lÃ¡ no Haha's.
 
 624
 00:57:33,839 --> 00:57:37,426
@@ -2646,8 +2646,8 @@ por levar uma arma ao hospital infantil.
 
 625
 00:57:38,928 --> 00:57:40,930
--É verdade?
--Era só um adereço.
+-Ã‰ verdade?
+-Era sÃ³ um adereÃ§o.
 
 626
 00:57:41,097 --> 00:57:42,640
@@ -2655,7 +2655,7 @@ Faz parte do show.
 
 627
 00:57:43,057 --> 00:57:44,392
-Sou palhaço de festa.
+Sou palhaÃ§o de festa.
 
 628
 00:57:44,558 --> 00:57:46,477
@@ -2663,37 +2663,37 @@ Tudo bem. E por que foi despedido?
 
 629
 00:57:49,772 --> 00:57:52,316
-Disseram que eu não era engraçado.
+Disseram que eu nÃ£o era engraÃ§ado.
 
 630
 00:57:52,483 --> 00:57:54,443
-Dá para acreditar?
+DÃ¡ para acreditar?
 
 631
 00:57:54,610 --> 00:57:58,447
-Se não se importam,
-preciso ir cuidar da minha mãe.
+Se nÃ£o se importam,
+preciso ir cuidar da minha mÃ£e.
 
 632
 00:57:58,614 --> 00:58:00,866
-Seu chefe nos deu um dos seus cartões.
+Seu chefe nos deu um dos seus cartÃµes.
 
 633
 00:58:03,077 --> 00:58:05,413
-Esse seu distúrbio, as risadas...
+Esse seu distÃºrbio, as risadas...
 
 634
 00:58:06,163 --> 00:58:07,498
-isso é de verdade
+isso Ã© de verdade
 
 635
 00:58:07,665 --> 00:58:09,500
-ou é coisa de palhaço?
+ou Ã© coisa de palhaÃ§o?
 
 636
 00:58:10,042 --> 00:58:12,545
--Coisa de palhaço?
--É.
+-Coisa de palhaÃ§o?
+-Ã‰.
 
 637
 00:58:12,962 --> 00:58:15,256
@@ -2701,11 +2701,11 @@ Digo, faz parte do seu show?
 
 638
 00:58:17,842 --> 00:58:19,176
-O que você acha?
+O que vocÃª acha?
 
 639
 00:58:25,099 --> 00:58:26,183
-Aí é a saída.
+AÃ­ Ã© a saÃ­da.
 
 640
 00:58:50,666 --> 00:58:52,668
@@ -2713,11 +2713,11 @@ Ela vai ficar boa.
 
 641
 00:58:57,131 --> 00:58:58,841
-Vou pegar um café.
+Vou pegar um cafÃ©.
 
 642
 00:58:59,550 --> 00:59:00,551
-Você quer um?
+VocÃª quer um?
 
 643
 00:59:00,718 --> 00:59:01,719
@@ -2730,7 +2730,7 @@ falei para meu filho mais novo, Billy,</i>
 
 645
 00:59:17,985 --> 00:59:20,446
-<i>o mais novo, o que não é tão inteligente,</i>
+<i>o mais novo, o que nÃ£o Ã© tÃ£o inteligente,</i>
 
 646
 00:59:21,280 --> 00:59:24,116
@@ -2739,7 +2739,7 @@ falei para meu filho mais novo, Billy,</i>
 
 647
 00:59:24,325 --> 00:59:28,245
-<i>E, não estou brincando, Billy disse:
+<i>E, nÃ£o estou brincando, Billy disse:
 "Onde conseguiremos nosso lixo?"</i>
 
 648
@@ -2749,20 +2749,20 @@ que podem fazer meu trabalho,</i>
 
 649
 00:59:39,924 --> 00:59:43,344
-<i>recebemos este vídeo
-de um Clube de Comédia aqui de Gotham.</i>
+<i>recebemos este vÃ­deo
+de um Clube de ComÃ©dia aqui de Gotham.</i>
 
 650
 00:59:43,511 --> 00:59:45,429
-<i>O cara acha que, se você não parar de rir,</i>
+<i>O cara acha que, se vocÃª nÃ£o parar de rir,</i>
 
 651
 00:59:45,596 --> 00:59:47,848
-<i>isso vai tornar você engraçado.</i>
+<i>isso vai tornar vocÃª engraÃ§ado.</i>
 
 652
 00:59:48,015 --> 00:59:49,809
-<i>Olhem só este coringa.</i>
+<i>Olhem sÃ³ este coringa.</i>
 
 653
 00:59:54,480 --> 00:59:55,314
@@ -2770,11 +2770,11 @@ Ai, meu Deus.
 
 654
 00:59:55,481 --> 00:59:59,151
-<i>Eu detestava a escola quando era criança.</i>
+<i>Eu detestava a escola quando era crianÃ§a.</i>
 
 655
 01:00:00,027 --> 01:00:03,072
-<i>Mas minha mãe sempre dizia:</i>
+<i>Mas minha mÃ£e sempre dizia:</i>
 
 656
 01:00:03,239 --> 01:00:07,034
@@ -2783,12 +2783,12 @@ Um dia, vai ter que trabalhar para viver."</i>
 
 657
 01:00:07,827 --> 01:00:11,038
-<i>"Não, não vou, mãe.
+<i>"NÃ£o, nÃ£o vou, mÃ£e.
 Eu vou ser comediante."</i>
 
 658
 01:00:17,837 --> 01:00:19,463
-<i>Deveria ter ouvido sua mãe.</i>
+<i>Deveria ter ouvido sua mÃ£e.</i>
 
 659
 01:00:21,716 --> 01:00:23,300
@@ -2800,15 +2800,15 @@ Eu vou ser comediante."</i>
 
 661
 01:00:26,721 --> 01:00:27,722
-<i>É engraçado.</i>
+<i>Ã‰ engraÃ§ado.</i>
 
 662
 01:00:28,597 --> 01:00:30,725
-<i>Quando eu era criança</i>
+<i>Quando eu era crianÃ§a</i>
 
 663
 01:00:30,891 --> 01:00:33,728
-<i>e dizia às pessoas
+<i>e dizia Ã s pessoas
 que eu ia ser comediante,</i>
 
 664
@@ -2817,7 +2817,7 @@ que eu ia ser comediante,</i>
 
 665
 01:00:36,105 --> 01:00:38,899
-<i>Bem, ninguém está rindo agora.</i>
+<i>Bem, ninguÃ©m estÃ¡ rindo agora.</i>
 
 666
 01:00:42,403 --> 01:00:44,280
@@ -2826,16 +2826,16 @@ que eu ia ser comediante,</i>
 667
 01:00:50,077 --> 01:00:52,913
 <i>Muito bem, o programa
-desta noite vai ser ótimo.</i>
+desta noite vai ser Ã³timo.</i>
 
 668
 01:00:53,080 --> 01:00:56,250
-<i>Estarão conosco Chuck Conby,
+<i>EstarÃ£o conosco Chuck Conby,
 a atriz Joanne Mulligan,</i>
 
 669
 01:00:56,417 --> 01:01:00,254
-<i>e teremos a música nova
+<i>e teremos a mÃºsica nova
 de Mel Rubin e The Stiffs.</i>
 
 670
@@ -2845,8 +2845,8 @@ UM NOVO MOVIMENTO?
 
 671
 01:01:06,218 --> 01:01:08,763
-<i>As tensões aumentaram
-na área metropolitana,</i>
+<i>As tensÃµes aumentaram
+na Ã¡rea metropolitana,</i>
 
 672
 01:01:08,929 --> 01:01:12,516
@@ -2855,21 +2855,21 @@ que as pessoas se acalmem.</i>
 
 673
 01:01:12,683 --> 01:01:14,268
-<i>Os serviços públicos foram afetados,</i>
+<i>Os serviÃ§os pÃºblicos foram afetados,</i>
 
 674
 01:01:14,435 --> 01:01:19,315
 <i>e alguns estabelecimentos decidiram
-não abrir devido ao estado de tensão.</i>
+nÃ£o abrir devido ao estado de tensÃ£o.</i>
 
 675
 01:01:19,482 --> 01:01:22,068
-<i>A reportagem é de Chuck Stevens.</i>
+<i>A reportagem Ã© de Chuck Stevens.</i>
 
 676
 01:01:22,234 --> 01:01:24,779
 <i>O rancor que toma corpo
-na cidade há semanas</i>
+na cidade hÃ¡ semanas</i>
 
 677
 01:01:24,945 --> 01:01:26,947
@@ -2878,7 +2878,7 @@ na cidade há semanas</i>
 678
 01:01:27,114 --> 01:01:30,368
 <i>Manifestantes, muitos vestidos
-de palhaços, foram às ruas</i>
+de palhaÃ§os, foram Ã s ruas</i>
 
 679
 01:01:30,576 --> 01:01:33,996
@@ -2887,8 +2887,8 @@ contra as elites da cidade,</i>
 
 680
 01:01:34,163 --> 01:01:38,417
-<i>incluindo o protesto marcado para amanhã
-à noite em frente ao Wayne Hall.</i>
+<i>incluindo o protesto marcado para amanhÃ£
+Ã  noite em frente ao Wayne Hall.</i>
 
 681
 01:01:38,584 --> 01:01:39,710
@@ -2897,7 +2897,7 @@ contra as elites da cidade,</i>
 682
 01:01:40,252 --> 01:01:43,714
 <i>Os ricos. Thomas Wayne.
-É contra isso esta manifestação.</i>
+Ã‰ contra isso esta manifestaÃ§Ã£o.</i>
 
 683
 01:01:43,881 --> 01:01:45,758
@@ -2910,16 +2910,16 @@ candidato a prefeito,</i>
 
 685
 01:01:48,469 --> 01:01:50,179
-<i>estará no evento beneficente.</i>
+<i>estarÃ¡ no evento beneficente.</i>
 
 686
 01:01:50,346 --> 01:01:52,348
-<i>É bom lembrar que foi Thomas Wayne</i>
+<i>Ã‰ bom lembrar que foi Thomas Wayne</i>
 
 687
 01:01:52,515 --> 01:01:56,769
 <i>o primeiro a chamar muitos
-dos cidadãos de Gotham de palhaços.</i>
+dos cidadÃ£os de Gotham de palhaÃ§os.</i>
 
 688
 01:01:56,977 --> 01:01:57,812
@@ -2927,17 +2927,17 @@ WAYNE = FASCISTA
 
 689
 01:01:57,895 --> 01:01:59,939
-<i>Hoje, seu discurso não foi
+<i>Hoje, seu discurso nÃ£o foi
 um pedido de desculpas.</i>
 
 690
 01:02:00,106 --> 01:02:03,734
 <i>Tem algo de errado com essas pessoas.
-Estou aqui para ajudá-las.</i>
+Estou aqui para ajudÃ¡-las.</i>
 
 691
 01:02:03,901 --> 01:02:06,695
-<i>Vou tirá-las da pobreza,
+<i>Vou tirÃ¡-las da pobreza,
 melhorar a vida delas.</i>
 
 692
@@ -2946,12 +2946,12 @@ melhorar a vida delas.</i>
 
 693
 01:02:08,197 --> 01:02:10,950
-<i>Elas não veem,
-mas sou a única esperança delas.</i>
+<i>Elas nÃ£o veem,
+mas sou a Ãºnica esperanÃ§a delas.</i>
 
 694
 01:02:17,540 --> 01:02:19,166
-SOMOS TODOS PALHAÇOS
+SOMOS TODOS PALHAÃ‡OS
 
 695
 01:02:19,667 --> 01:02:21,419
@@ -2968,7 +2968,7 @@ Abaixo Wayne!
 
 698
 01:02:28,968 --> 01:02:29,969
-PALHAÇO PARA PREFEITO
+PALHAÃ‡O PARA PREFEITO
 
 699
 01:02:30,136 --> 01:02:32,304
@@ -2976,7 +2976,7 @@ Abaixo Wayne!
 
 700
 01:03:05,129 --> 01:03:06,589
-SOMENTE FUNCIONÁRIOS
+SOMENTE FUNCIONÃRIOS
 
 701
 01:03:50,925 --> 01:03:52,468
@@ -2988,23 +2988,23 @@ Posso te ajudar?
 
 703
 01:05:16,218 --> 01:05:17,887
-Eu não sei o que dizer.
+Eu nÃ£o sei o que dizer.
 
 704
 01:05:21,515 --> 01:05:23,726
-Quer um autógrafo ou algo assim?
+Quer um autÃ³grafo ou algo assim?
 
 705
 01:05:23,893 --> 01:05:24,894
-Não.
+NÃ£o.
 
 706
 01:05:31,025 --> 01:05:32,568
-Meu nome é Arthur.
+Meu nome Ã© Arthur.
 
 707
 01:05:34,153 --> 01:05:35,780
-Penny Fleck é minha mãe.
+Penny Fleck Ã© minha mÃ£e.
 
 708
 01:05:37,156 --> 01:05:38,157
@@ -3012,7 +3012,7 @@ Meu Deus.
 
 709
 01:05:39,241 --> 01:05:40,868
-Você foi à minha casa ontem.
+VocÃª foi Ã  minha casa ontem.
 
 710
 01:05:42,495 --> 01:05:43,496
@@ -3020,45 +3020,45 @@ Sim.
 
 711
 01:05:44,288 --> 01:05:46,165
-Desculpe não ter avisado.
+Desculpe nÃ£o ter avisado.
 
 712
 01:05:46,332 --> 01:05:49,543
-Mas minha mãe me contou tudo,
+Mas minha mÃ£e me contou tudo,
 e eu precisava conversar.
 
 713
 01:05:49,710 --> 01:05:51,629
-Olhe, amigo, eu não sou seu pai.
+Olhe, amigo, eu nÃ£o sou seu pai.
 
 714
 01:05:52,254 --> 01:05:53,714
-Qual é seu problema?
+Qual Ã© seu problema?
 
 715
 01:05:55,383 --> 01:05:56,926
-Olhe para nós.
+Olhe para nÃ³s.
 
 716
 01:05:58,427 --> 01:05:59,678
-Eu acho que é.
+Eu acho que Ã©.
 
 717
 01:05:59,845 --> 01:06:01,055
-Isso é impossível.
+Isso Ã© impossÃ­vel.
 
 718
 01:06:02,056 --> 01:06:04,058
-Você é adotado, e nunca dormi com sua mãe.
+VocÃª Ã© adotado, e nunca dormi com sua mÃ£e.
 
 719
 01:06:04,225 --> 01:06:06,060
--Não fui adotado.
+-NÃ£o fui adotado.
 -O que quer, dinheiro?
 
 720
 01:06:06,227 --> 01:06:08,437
-Não, eu não... não fui adotado.
+NÃ£o, eu nÃ£o... nÃ£o fui adotado.
 
 721
 01:06:08,604 --> 01:06:10,398
@@ -3066,15 +3066,15 @@ Meu Deus. Ela nunca te contou?
 
 722
 01:06:10,564 --> 01:06:12,233
-Contou o quê?
+Contou o quÃª?
 
 723
 01:06:13,567 --> 01:06:15,403
-Adotou você quando trabalhava para nós.
+Adotou vocÃª quando trabalhava para nÃ³s.
 
 724
 01:06:15,569 --> 01:06:16,779
-Não é verdade.
+NÃ£o Ã© verdade.
 
 725
 01:06:17,321 --> 01:06:18,322
@@ -3087,7 +3087,7 @@ e internada no Asilo Arkham
 
 727
 01:06:20,908 --> 01:06:22,284
-quando você era pequeno.
+quando vocÃª era pequeno.
 
 728
 01:06:22,451 --> 01:06:23,577
@@ -3095,48 +3095,48 @@ Por que diz isso?
 
 729
 01:06:23,744 --> 01:06:25,246
-Não quero ouvir mentiras.
+NÃ£o quero ouvir mentiras.
 
 730
 01:06:25,413 --> 01:06:28,457
 Sei que parece estranho.
-Não quero causar incômodo.
+NÃ£o quero causar incÃ´modo.
 
 731
 01:06:28,624 --> 01:06:30,209
-Por que todo mundo é rude?
+Por que todo mundo Ã© rude?
 
 732
 01:06:30,376 --> 01:06:31,585
-Por que você é rude?
+Por que vocÃª Ã© rude?
 
 733
 01:06:31,752 --> 01:06:33,087
-Não quero nada de você.
+NÃ£o quero nada de vocÃª.
 
 734
 01:06:33,254 --> 01:06:35,631
-Talvez um pouco de afeto, um abraço, pai!
+Talvez um pouco de afeto, um abraÃ§o, pai!
 
 735
 01:06:35,798 --> 01:06:37,800
-Que tal um pouco de decência?
+Que tal um pouco de decÃªncia?
 
 736
 01:06:37,967 --> 01:06:39,343
-O que há com vocês?
+O que hÃ¡ com vocÃªs?
 
 737
 01:06:39,510 --> 01:06:41,470
-Falam essas coisas da minha mãe.
+Falam essas coisas da minha mÃ£e.
 
 738
 01:06:41,637 --> 01:06:43,013
-Ela é louca.
+Ela Ã© louca.
 
 739
 01:06:52,773 --> 01:06:54,150
-Acha isso engraçado?
+Acha isso engraÃ§ado?
 
 740
 01:06:55,776 --> 01:06:58,946
@@ -3149,11 +3149,11 @@ eu te mato.
 
 742
 01:07:24,221 --> 01:07:27,016
-<i>Olá, Sr. Fleck. Aqui é o detetive Garrity.</i>
+<i>OlÃ¡, Sr. Fleck. Aqui Ã© o detetive Garrity.</i>
 
 743
 01:07:27,183 --> 01:07:29,518
-<i>Nós nos vimos na outra noite no hospital.</i>
+<i>NÃ³s nos vimos na outra noite no hospital.</i>
 
 744
 01:07:29,685 --> 01:07:31,979
@@ -3163,7 +3163,7 @@ e eu temos mais umas perguntas.</i>
 745
 01:07:32,146 --> 01:07:35,066
 <i>Fomos ao seu apartamento,
-mas você não estava.</i>
+mas vocÃª nÃ£o estava.</i>
 
 746
 01:07:35,232 --> 01:07:36,984
@@ -3175,20 +3175,20 @@ mas você não estava.</i>
 
 748
 01:07:39,236 --> 01:07:43,240
-<i>e meu número é 212... 99.</i>
+<i>e meu nÃºmero Ã© 212... 99.</i>
 
 749
 01:08:26,283 --> 01:08:28,119
-<i>Esta mensagem é para Arthur Fleck.</i>
+<i>Esta mensagem Ã© para Arthur Fleck.</i>
 
 750
 01:08:28,285 --> 01:08:32,248
-<i>Meu nome é Shirley Woods.
+<i>Meu nome Ã© Shirley Woods.
 Trabalho no programa do Murray Franklin.</i>
 
 751
 01:08:32,415 --> 01:08:33,416
-<i>Não sei se sabe,</i>
+<i>NÃ£o sei se sabe,</i>
 
 752
 01:08:33,582 --> 01:08:36,252
@@ -3197,7 +3197,7 @@ do seu </i>stand-up,
 
 753
 01:08:36,419 --> 01:08:39,714
-<i>e tivemos uma resposta incrível
+<i>e tivemos uma resposta incrÃ­vel
 dos nossos espectadores.</i>
 
 754
@@ -3206,11 +3206,11 @@ dos nossos espectadores.</i>
 
 755
 01:08:46,512 --> 01:08:47,847
-Quem está falando?
+Quem estÃ¡ falando?
 
 756
 01:08:48,013 --> 01:08:49,640
-<i>Oi. Aqui é Shirley Woods.</i>
+<i>Oi. Aqui Ã© Shirley Woods.</i>
 
 757
 01:08:49,807 --> 01:08:52,601
@@ -3219,7 +3219,7 @@ Quem está falando?
 
 758
 01:08:52,768 --> 01:08:53,811
-<i>É o Arthur?</i>
+<i>Ã‰ o Arthur?</i>
 
 759
 01:08:55,813 --> 01:08:56,814
@@ -3228,11 +3228,11 @@ Sim.
 760
 01:08:56,981 --> 01:09:01,026
 <i>Oi, Arthur. Como eu dizia, recebemos
-muitas ligações por causa do vídeo.</i>
+muitas ligaÃ§Ãµes por causa do vÃ­deo.</i>
 
 761
 01:09:01,193 --> 01:09:02,903
-<i>Respostas incríveis.</i>
+<i>Respostas incrÃ­veis.</i>
 
 762
 01:09:03,070 --> 01:09:07,074
@@ -3246,25 +3246,25 @@ do programa dele?
 
 764
 01:09:15,666 --> 01:09:17,251
-<i>Sim. Não é legal?</i>
+<i>Sim. NÃ£o Ã© legal?</i>
 
 765
 01:09:17,418 --> 01:09:20,296
 <i>Quer conversar.
-Quem sabe você faz uma apresentação?</i>
+Quem sabe vocÃª faz uma apresentaÃ§Ã£o?</i>
 
 766
 01:09:21,297 --> 01:09:23,466
-<i>Você acha essa ideia boa?</i>
+<i>VocÃª acha essa ideia boa?</i>
 
 767
 01:09:27,803 --> 01:09:29,847
-Sim, é uma ótima ideia.
+Sim, Ã© uma Ã³tima ideia.
 
 768
 01:09:30,014 --> 01:09:33,642
-<i>Podemos já marcar a data?
-Estará disponível na próxima quinta?</i>
+<i>Podemos jÃ¡ marcar a data?
+EstarÃ¡ disponÃ­vel na prÃ³xima quinta?</i>
 
 769
 01:09:50,451 --> 01:09:52,578
@@ -3280,13 +3280,13 @@ Eu sinto muito, meu amigo.
 
 772
 01:10:31,325 --> 01:10:33,452
-Os prontuários com dez anos
-ou mais ficam no porão,
+Os prontuÃ¡rios com dez anos
+ou mais ficam no porÃ£o,
 
 773
 01:10:33,619 --> 01:10:36,622
-e você está falando
-de 30 anos atrás, então...
+e vocÃª estÃ¡ falando
+de 30 anos atrÃ¡s, entÃ£o...
 
 774
 01:10:37,998 --> 01:10:39,959
@@ -3302,7 +3302,7 @@ Como uma pessoa vem parar aqui?
 
 777
 01:10:46,924 --> 01:10:50,428
-Todos eles... todos que estão aqui
+Todos eles... todos que estÃ£o aqui
 cometeram crimes?
 
 778
@@ -3311,7 +3311,7 @@ Bom, alguns cometeram.
 
 779
 01:10:52,888 --> 01:10:55,766
-Alguns são somente loucos.
+Alguns sÃ£o somente loucos.
 
 780
 01:10:55,933 --> 01:10:58,394
@@ -3320,26 +3320,26 @@ para si mesmos e para os outros.
 
 781
 01:10:58,561 --> 01:11:02,314
-Alguns só não têm para onde ir.
-Não sabem o que fazer, entende?
+Alguns sÃ³ nÃ£o tÃªm para onde ir.
+NÃ£o sabem o que fazer, entende?
 
 782
 01:11:02,481 --> 01:11:05,359
-Sim, eu entendo, irmão.
+Sim, eu entendo, irmÃ£o.
 
 783
 01:11:06,235 --> 01:11:09,071
-Às vezes, eu não sei o que fazer.
+Ã€s vezes, eu nÃ£o sei o que fazer.
 
 784
 01:11:10,614 --> 01:11:13,284
-Da última vez,
+Da Ãºltima vez,
 acabei descontando numas pessoas.
 
 785
 01:11:14,744 --> 01:11:18,372
 Eu achei que ia ficar incomodado
-com isso, mas não fiquei.
+com isso, mas nÃ£o fiquei.
 
 786
 01:11:19,707 --> 01:11:20,708
@@ -3351,11 +3351,11 @@ Eu me descontrolei e fiz uma coisa feia.
 
 788
 01:11:29,550 --> 01:11:30,593
-Sabe como é.
+Sabe como Ã©.
 
 789
 01:11:30,760 --> 01:11:36,098
-É muito difícil tentar ser...
+Ã‰ muito difÃ­cil tentar ser...
 feliz o tempo inteiro.
 
 790
@@ -3364,25 +3364,25 @@ Ei, escuta, cara.
 
 791
 01:11:40,895 --> 01:11:43,939
-Sou só assistente administrativo.
+Sou sÃ³ assistente administrativo.
 Tipo balconista.
 
 792
 01:11:44,106 --> 01:11:45,691
-Só arquivo a papelada.
+SÃ³ arquivo a papelada.
 
 793
 01:11:46,817 --> 01:11:48,527
-Não sei o que te dizer.
+NÃ£o sei o que te dizer.
 
 794
 01:11:48,694 --> 01:11:50,488
-Mas você deveria se consultar.
+Mas vocÃª deveria se consultar.
 
 795
 01:11:50,654 --> 01:11:54,533
-Eles têm programas,
-serviço social, esse tipo de coisa.
+Eles tÃªm programas,
+serviÃ§o social, esse tipo de coisa.
 
 796
 01:11:54,700 --> 01:11:57,620
@@ -3390,7 +3390,7 @@ Ah, sim. Eles cortaram tudo.
 
 797
 01:12:02,792 --> 01:12:04,794
-Pronto, aqui está. Fleck.
+Pronto, aqui estÃ¡. Fleck.
 
 798
 01:12:04,960 --> 01:12:06,879
@@ -3406,12 +3406,12 @@ Diagnosticada pelo Dr. Benjamin Stoner.
 
 801
 01:12:17,139 --> 01:12:19,517
-e distúrbio de personalidade narcisista.
+e distÃºrbio de personalidade narcisista.
 
 802
 01:12:21,185 --> 01:12:26,399
-Foi considerada culpada por pôr
-em risco o bem-estar do próprio filho."
+Foi considerada culpada por pÃ´r
+em risco o bem-estar do prÃ³prio filho."
 
 803
 01:12:34,698 --> 01:12:35,700
@@ -3419,15 +3419,15 @@ O que foi?
 
 804
 01:12:39,120 --> 01:12:40,579
-Disse que ela é sua mãe.
+Disse que ela Ã© sua mÃ£e.
 
 805
 01:12:46,877 --> 01:12:49,255
-Lamento. Eu não posso liberar os laudos
+Lamento. Eu nÃ£o posso liberar os laudos
 
 806
 01:12:49,422 --> 01:12:52,174
-sem os formulários adequados.
+sem os formulÃ¡rios adequados.
 
 807
 01:12:52,633 --> 01:12:54,301
@@ -3435,16 +3435,16 @@ Eu posso ter problemas.
 
 808
 01:12:55,094 --> 01:12:57,138
-Se trouxer sua mãe para assinar,
+Se trouxer sua mÃ£e para assinar,
 
 809
 01:12:57,304 --> 01:12:58,305
-será mais fácil.
+serÃ¡ mais fÃ¡cil.
 
 810
 01:12:58,472 --> 01:13:01,517
-Eu não posso liberar
-sem a assinatura dela, tá bom?
+Eu nÃ£o posso liberar
+sem a assinatura dela, tÃ¡ bom?
 
 811
 01:13:01,684 --> 01:13:02,685
@@ -3452,11 +3452,11 @@ Sinto muito.
 
 812
 01:13:06,856 --> 01:13:09,066
-Não, cara! Merda!
+NÃ£o, cara! Merda!
 
 813
 01:13:09,650 --> 01:13:11,527
-Qual é, cara, devolva...
+Qual Ã©, cara, devolva...
 
 814
 01:13:12,445 --> 01:13:14,739
@@ -3464,21 +3464,21 @@ Ei!
 
 815
 01:13:41,348 --> 01:13:43,309
-SECRETARIA DE SAÚDE DE GOTHAM
+SECRETARIA DE SAÃšDE DE GOTHAM
 
 816
 01:13:43,476 --> 01:13:45,603
-PEDIDO DE PROTEÇÃO
-PARA RELATÓRIOS DE ABUSO
+PEDIDO DE PROTEÃ‡ÃƒO
+PARA RELATÃ“RIOS DE ABUSO
 
 817
 01:13:45,770 --> 01:13:47,813
-DEPARTAMENTO DE SAÚDE
-DIVISÃO PSIQUIÁTRICA
+DEPARTAMENTO DE SAÃšDE
+DIVISÃƒO PSIQUIÃTRICA
 
 818
 01:13:47,980 --> 01:13:50,149
-AVALIAÇÃO: PENNY FLECK
+AVALIAÃ‡ÃƒO: PENNY FLECK
 
 819
 01:13:54,737 --> 01:13:57,073
@@ -3486,19 +3486,19 @@ COMPORTAMENTO EXTREMAMENTE BIZARRO
 
 820
 01:13:57,239 --> 01:13:58,824
-ABUSO FÍSICO.
+ABUSO FÃSICO.
 
 821
 01:14:05,956 --> 01:14:09,210
-PEDIDO DE ADOÇÃO DE CRIANÇA
+PEDIDO DE ADOÃ‡ÃƒO DE CRIANÃ‡A
 
 822
 01:14:12,922 --> 01:14:15,758
-<i>Já discutimos isso, Penny. Você o adotou.</i>
+<i>JÃ¡ discutimos isso, Penny. VocÃª o adotou.</i>
 
 823
 01:14:15,841 --> 01:14:16,675
-DESCONHECIDO (CRIANÇA ABANDONADA)
+DESCONHECIDO (CRIANÃ‡A ABANDONADA)
 
 824
 01:14:16,759 --> 01:14:17,968
@@ -3506,12 +3506,12 @@ DESCONHECIDO (CRIANÇA ABANDONADA)
 
 825
 01:14:18,052 --> 01:14:18,969
-NOME COMPLETO DE CADA CRIANÇA
+NOME COMPLETO DE CADA CRIANÃ‡A
 DESCONHECIDO
 
 826
 01:14:19,053 --> 01:14:21,263
-<i>Isso não é verdade.</i>
+<i>Isso nÃ£o Ã© verdade.</i>
 
 827
 01:14:21,430 --> 01:14:23,682
@@ -3519,11 +3519,11 @@ Thomas inventou isso tudo,
 
 828
 01:14:23,849 --> 01:14:26,477
-então ficou sendo nosso segredo.
+entÃ£o ficou sendo nosso segredo.
 
 829
 01:14:28,396 --> 01:14:30,815
-<i>Você também não fez nada</i>
+<i>VocÃª tambÃ©m nÃ£o fez nada</i>
 
 830
 01:14:31,440 --> 01:14:36,320
@@ -3532,17 +3532,17 @@ batia repetidamente no seu filho adotivo
 
 831
 01:14:37,696 --> 01:14:38,697
-e espancava você.
+e espancava vocÃª.
 
 832
 01:14:46,163 --> 01:14:48,708
-MÃE PERMITIU MAUS-TRATOS
+MÃƒE PERMITIU MAUS-TRATOS
 AO FILHO ADOTIVO
 
 833
 01:14:48,874 --> 01:14:51,919
 CASA DO TERROR
-PARA UMA MÃE E SEU FILHO
+PARA UMA MÃƒE E SEU FILHO
 
 834
 01:14:58,467 --> 01:15:00,052
@@ -3559,12 +3559,12 @@ no seu apartamento imundo.
 
 837
 01:15:07,017 --> 01:15:09,520
-Malnutrido, com múltiplas escoriações
+Malnutrido, com mÃºltiplas escoriaÃ§Ãµes
 pelo corpo
 
 838
 01:15:09,687 --> 01:15:11,689
-e trauma severo na cabeça.
+e trauma severo na cabeÃ§a.
 
 839
 01:15:13,858 --> 01:15:15,568
@@ -3572,11 +3572,11 @@ Eu nunca o ouvi chorar.
 
 840
 01:15:16,485 --> 01:15:19,947
-Ele sempre foi um garotinho tão feliz.
+Ele sempre foi um garotinho tÃ£o feliz.
 
 841
 01:17:21,026 --> 01:17:22,445
-É hora de ir para a cama.
+Ã‰ hora de ir para a cama.
 
 842
 01:17:25,948 --> 01:17:26,949
@@ -3584,15 +3584,15 @@ Meu Deus!
 
 843
 01:17:27,908 --> 01:17:29,660
-O que está fazendo aqui?
+O que estÃ¡ fazendo aqui?
 
 844
 01:17:32,121 --> 01:17:33,998
-Está no apartamento errado.
+EstÃ¡ no apartamento errado.
 
 845
 01:17:40,629 --> 01:17:42,339
-Seu nome é Arthur, certo?
+Seu nome Ã© Arthur, certo?
 
 846
 01:17:42,965 --> 01:17:44,175
@@ -3600,12 +3600,12 @@ Mora no fim do corredor.
 
 847
 01:17:47,386 --> 01:17:49,180
-Você precisa sair daqui.
+VocÃª precisa sair daqui.
 
 848
 01:17:53,476 --> 01:17:56,437
 Minha filhinha
-está dormindo no outro quarto.
+estÃ¡ dormindo no outro quarto.
 
 849
 01:18:01,567 --> 01:18:02,651
@@ -3613,12 +3613,12 @@ Por favor.
 
 850
 01:18:05,321 --> 01:18:07,573
-Eu tive um dia péssimo.
+Eu tive um dia pÃ©ssimo.
 
 851
 01:18:10,409 --> 01:18:12,912
-Quer que eu chame alguém?
-Sua mãe está em casa?
+Quer que eu chame alguÃ©m?
+Sua mÃ£e estÃ¡ em casa?
 
 852
 01:19:39,832 --> 01:19:40,875
@@ -3638,11 +3638,11 @@ Eu sempre detestei esse nome.
 
 856
 01:20:18,913 --> 01:20:20,831
-Lembra como você dizia
+Lembra como vocÃª dizia
 
 857
 01:20:22,875 --> 01:20:25,503
-que minha risada era um distúrbio?
+que minha risada era um distÃºrbio?
 
 858
 01:20:27,046 --> 01:20:29,131
@@ -3650,7 +3650,7 @@ Que tinha algo de errado comigo?
 
 859
 01:20:32,218 --> 01:20:33,427
-Não tem.
+NÃ£o tem.
 
 860
 01:20:36,305 --> 01:20:37,640
@@ -3666,12 +3666,12 @@ Feliz.
 
 863
 01:20:47,983 --> 01:20:53,114
-Eu não fui feliz um minuto sequer
-em toda minha vida desgraçada.
+Eu nÃ£o fui feliz um minuto sequer
+em toda minha vida desgraÃ§ada.
 
 864
 01:21:00,079 --> 01:21:01,497
-Sabe o que é engraçado?
+Sabe o que Ã© engraÃ§ado?
 
 865
 01:21:04,250 --> 01:21:06,043
@@ -3679,7 +3679,7 @@ Sabe o que realmente me faz rir?
 
 866
 01:21:08,421 --> 01:21:10,840
-Eu achava que minha vida era uma tragédia.
+Eu achava que minha vida era uma tragÃ©dia.
 
 867
 01:21:12,591 --> 01:21:14,593
@@ -3687,7 +3687,7 @@ Mas agora eu entendo
 
 868
 01:21:14,760 --> 01:21:16,345
-que é uma puta comédia.
+que Ã© uma puta comÃ©dia.
 
 869
 01:22:26,874 --> 01:22:28,042
@@ -3699,7 +3699,7 @@ que é uma puta comédia.
 
 871
 01:22:31,379 --> 01:22:33,255
-<i>estreia esta semana no país todo.</i>
+<i>estreia esta semana no paÃ­s todo.</i>
 
 872
 01:22:33,422 --> 01:22:37,426
@@ -3708,12 +3708,12 @@ deste programa, Ethan Chase.</i>
 
 873
 01:22:57,113 --> 01:22:58,823
-<i>Bom te ver. Você está ótimo.</i>
+<i>Bom te ver. VocÃª estÃ¡ Ã³timo.</i>
 
 874
 01:22:58,989 --> 01:23:01,992
-<i>-Obrigado. Você também está ótimo.
--Não posso me queixar.</i>
+<i>-Obrigado. VocÃª tambÃ©m estÃ¡ Ã³timo.
+-NÃ£o posso me queixar.</i>
 
 875
 01:23:02,451 --> 01:23:04,745
@@ -3734,7 +3734,7 @@ Esse sempre foi o meu sonho.
 
 879
 01:23:17,299 --> 01:23:18,592
-<i>-Está?
+<i>-EstÃ¡?
 -Estou.</i>
 
 880
@@ -3747,11 +3747,11 @@ Desculpe. O que disse?
 
 882
 01:23:37,361 --> 01:23:39,155
-Muito engraçado, Murray.
+Muito engraÃ§ado, Murray.
 
 883
 01:23:40,448 --> 01:23:42,616
-Sabe, eu também sou comediante.
+Sabe, eu tambÃ©m sou comediante.
 
 884
 01:23:42,783 --> 01:23:44,243
@@ -3759,7 +3759,7 @@ Quer ouvir uma piada?
 
 885
 01:23:45,286 --> 01:23:47,496
-É? Todos vocês?
+Ã‰? Todos vocÃªs?
 
 886
 01:23:47,997 --> 01:23:48,998
@@ -3776,7 +3776,7 @@ TW
 
 889
 01:26:06,844 --> 01:26:07,928
-Já vou!
+JÃ¡ vou!
 
 890
 01:26:19,023 --> 01:26:20,441
@@ -3784,7 +3784,7 @@ Oi, Arthur.
 
 891
 01:26:20,608 --> 01:26:21,609
-Como vai você?
+Como vai vocÃª?
 
 892
 01:26:22,610 --> 01:26:23,903
@@ -3800,11 +3800,11 @@ Conseguiu outro emprego?
 
 895
 01:26:27,865 --> 01:26:28,866
-Não.
+NÃ£o.
 
 896
 01:26:29,784 --> 01:26:32,828
-Você tem que participar
+VocÃª tem que participar
 do protesto na prefeitura.
 
 897
@@ -3821,11 +3821,11 @@ Sim.
 
 900
 01:26:39,043 --> 01:26:40,461
-Que maquiagem é essa?
+Que maquiagem Ã© essa?
 
 901
 01:26:41,921 --> 01:26:43,422
-Minha mãe morreu.
+Minha mÃ£e morreu.
 
 902
 01:26:43,589 --> 01:26:44,799
@@ -3833,7 +3833,7 @@ Estou comemorando.
 
 903
 01:26:45,716 --> 01:26:46,717
-É, nós soubemos.
+Ã‰, nÃ³s soubemos.
 
 904
 01:26:46,884 --> 01:26:47,927
@@ -3846,15 +3846,15 @@ de algo para te animar.
 
 906
 01:26:51,347 --> 01:26:52,973
-Que amáveis.
+Que amÃ¡veis.
 
 907
 01:26:53,140 --> 01:26:56,018
-Mas, não, eu estou bem.
+Mas, nÃ£o, eu estou bem.
 
 908
 01:26:56,811 --> 01:26:58,437
-Parei de tomar meus remédios.
+Parei de tomar meus remÃ©dios.
 
 909
 01:26:58,604 --> 01:27:00,231
@@ -3862,35 +3862,35 @@ Estou me sentindo melhor.
 
 910
 01:27:02,358 --> 01:27:04,860
-Certo. Que ótimo.
+Certo. Que Ã³timo.
 
 911
 01:27:06,987 --> 01:27:09,865
-Ouça, eu não sei se você soube,
+OuÃ§a, eu nÃ£o sei se vocÃª soube,
 
 912
 01:27:10,032 --> 01:27:12,451
 mas os policiais
-têm aparecido no trabalho,
+tÃªm aparecido no trabalho,
 
 913
 01:27:13,202 --> 01:27:17,123
 falando com todo mundo
-sobre os assassinatos no metrô.
+sobre os assassinatos no metrÃ´.
 
 914
 01:27:17,957 --> 01:27:19,041
-Não falaram comigo.
+NÃ£o falaram comigo.
 
 915
 01:27:21,001 --> 01:27:23,671
 Porque o suspeito
-é uma pessoa de tamanho normal.
+Ã© uma pessoa de tamanho normal.
 
 916
 01:27:24,213 --> 01:27:26,716
-Se fosse um anão,
-você já estaria na cadeia.
+Se fosse um anÃ£o,
+vocÃª jÃ¡ estaria na cadeia.
 
 917
 01:27:32,513 --> 01:27:33,764
@@ -3898,25 +3898,25 @@ Enfim...
 
 918
 01:27:33,931 --> 01:27:37,935
-Hoyt disse que eles falaram com você.
+Hoyt disse que eles falaram com vocÃª.
 
 919
 01:27:38,102 --> 01:27:41,063
-Agora estão me procurando,
+Agora estÃ£o me procurando,
 e quero saber o que disse,
 
 920
 01:27:41,230 --> 01:27:42,648
-para alinhar a história,
+para alinhar a histÃ³ria,
 
 921
 01:27:42,815 --> 01:27:45,860
-já que você é meu garoto.
+jÃ¡ que vocÃª Ã© meu garoto.
 
 922
 01:27:46,026 --> 01:27:47,737
 -Faz sentido.
--Você entende?
+-VocÃª entende?
 
 923
 01:27:47,862 --> 01:27:49,530
@@ -3928,15 +3928,15 @@ Arthur!
 
 925
 01:27:56,996 --> 01:27:58,330
-Não!
+NÃ£o!
 
 926
 01:27:59,665 --> 01:28:00,666
-O que é isso?
+O que Ã© isso?
 
 927
 01:28:02,001 --> 01:28:03,002
-Não!
+NÃ£o!
 
 928
 01:28:10,926 --> 01:28:13,012
@@ -3944,11 +3944,11 @@ Por que fez isso, Arthur?
 
 929
 01:28:34,075 --> 01:28:36,577
-Você vê o Murray Franklin Show?
+VocÃª vÃª o Murray Franklin Show?
 
 930
 01:28:36,744 --> 01:28:37,745
-Tá.
+TÃ¡.
 
 931
 01:28:39,080 --> 01:28:40,873
@@ -3956,31 +3956,31 @@ Vou participar esta noite.
 
 932
 01:28:45,169 --> 01:28:48,839
-É uma loucura, não? Eu na televisão.
+Ã‰ uma loucura, nÃ£o? Eu na televisÃ£o.
 
 933
 01:28:50,883 --> 01:28:52,843
-O que é isso, Arthur?
+O que Ã© isso, Arthur?
 
 934
 01:28:54,095 --> 01:28:55,179
-O quê?
+O quÃª?
 
 935
 01:29:00,184 --> 01:29:01,394
-Está tudo bem, Gary.
+EstÃ¡ tudo bem, Gary.
 
 936
 01:29:01,852 --> 01:29:02,853
-Você pode ir.
+VocÃª pode ir.
 
 937
 01:29:05,439 --> 01:29:07,066
-Eu não vou te machucar.
+Eu nÃ£o vou te machucar.
 
 938
 01:29:11,737 --> 01:29:13,823
-Não olhe. Vá embora.
+NÃ£o olhe. VÃ¡ embora.
 
 939
 01:29:26,377 --> 01:29:27,378
@@ -4016,7 +4016,7 @@ Sim?
 
 947
 01:30:00,494 --> 01:30:03,080
-Você foi o único que foi legal comigo.
+VocÃª foi o Ãºnico que foi legal comigo.
 
 948
 01:30:05,166 --> 01:30:06,375
@@ -4068,7 +4068,7 @@ Vamos!
 
 960
 01:32:32,396 --> 01:32:33,898
-GANÂNCIA
+GANÃ‚NCIA
 
 961
 01:32:35,524 --> 01:32:38,152
@@ -4076,19 +4076,19 @@ Segurem esse trem! Segurem!
 
 962
 01:32:40,071 --> 01:32:41,280
-Saia! Saia daí!
+Saia! Saia daÃ­!
 
 963
 01:32:42,406 --> 01:32:43,949
-<i>Próxima parada, Bedford Park.</i>
+<i>PrÃ³xima parada, Bedford Park.</i>
 
 964
 01:32:58,422 --> 01:32:59,423
-Tirem as máscaras!
+Tirem as mÃ¡scaras!
 
 965
 01:32:59,590 --> 01:33:00,966
-Tire a máscara!
+Tire a mÃ¡scara!
 
 966
 01:33:01,801 --> 01:33:03,552
@@ -4096,7 +4096,7 @@ Abaixem os cartazes! Agora!
 
 967
 01:33:12,728 --> 01:33:14,188
-Polícia! Abaixem os cartazes!
+PolÃ­cia! Abaixem os cartazes!
 
 968
 01:33:15,356 --> 01:33:16,440
@@ -4112,19 +4112,19 @@ Acabem com ele!
 
 971
 01:33:33,165 --> 01:33:34,709
-Parem essa briga! Polícia!
+Parem essa briga! PolÃ­cia!
 
 972
 01:33:34,875 --> 01:33:37,002
-Polícia! Abaixem-se!
+PolÃ­cia! Abaixem-se!
 
 973
 01:33:39,171 --> 01:33:41,298
-Abaixem-se! Para trás!
+Abaixem-se! Para trÃ¡s!
 
 974
 01:33:42,383 --> 01:33:43,384
-Polícia! Abaixem-se!
+PolÃ­cia! Abaixem-se!
 
 975
 01:33:44,301 --> 01:33:45,428
@@ -4132,7 +4132,7 @@ Abaixem-se!
 
 976
 01:33:50,141 --> 01:33:51,934
-Fique aí, caramba!
+Fique aÃ­, caramba!
 
 977
 01:33:56,188 --> 01:33:57,189
@@ -4148,7 +4148,7 @@ Burke!
 
 980
 01:34:04,822 --> 01:34:06,282
-Não façam isso!
+NÃ£o faÃ§am isso!
 
 981
 01:34:50,785 --> 01:34:52,787
@@ -4157,12 +4157,12 @@ AO VIVO COM MURRAY FRANKLIN
 982
 01:34:56,082 --> 01:34:58,751
 <i>Dois policiais foram
-confrontados pela multidão</i>
+confrontados pela multidÃ£o</i>
 
 983
 01:34:58,918 --> 01:35:01,712
-<i>e estão no hospital,
-em estado grave, mas estável.</i>
+<i>e estÃ£o no hospital,
+em estado grave, mas estÃ¡vel.</i>
 
 984
 01:35:01,879 --> 01:35:03,381
@@ -4171,11 +4171,11 @@ COLOQUE UM SORRISO NESSA CARA
 985
 01:35:03,547 --> 01:35:06,175
 <i>Vamos falar ao vivo
-com a repórter Courtney Weathers,</i>
+com a repÃ³rter Courtney Weathers,</i>
 
 986
 01:35:06,342 --> 01:35:08,260
-<i>que está em frente à estação Bedford Park,</i>
+<i>que estÃ¡ em frente Ã  estaÃ§Ã£o Bedford Park,</i>
 
 987
 01:35:08,427 --> 01:35:10,262
@@ -4183,7 +4183,7 @@ com a repórter Courtney Weathers,</i>
 
 988
 01:35:10,429 --> 01:35:12,306
-<i>Courtney, qual é a situação aí?</i>
+<i>Courtney, qual Ã© a situaÃ§Ã£o aÃ­?</i>
 
 989
 01:35:17,520 --> 01:35:18,354
@@ -4191,11 +4191,11 @@ Murray.
 
 990
 01:35:18,521 --> 01:35:20,106
-Ei. É Sr. Franklin, amigo.
+Ei. Ã‰ Sr. Franklin, amigo.
 
 991
 01:35:20,272 --> 01:35:22,650
-Qual é, Gene. Isso é uma bobagem.
+Qual Ã©, Gene. Isso Ã© uma bobagem.
 
 992
 01:35:23,734 --> 01:35:24,944
@@ -4203,7 +4203,7 @@ Obrigado, Murray.
 
 993
 01:35:26,153 --> 01:35:27,905
-É como se eu te conhecesse.
+Ã‰ como se eu te conhecesse.
 
 994
 01:35:28,406 --> 01:35:30,241
@@ -4215,56 +4215,56 @@ Obrigado.
 
 996
 01:35:31,701 --> 01:35:32,993
-Por que está pintado?
+Por que estÃ¡ pintado?
 
 997
 01:35:33,160 --> 01:35:35,121
-Você faz parte dos protestos?
+VocÃª faz parte dos protestos?
 
 998
 01:35:35,287 --> 01:35:36,288
-Não.
+NÃ£o.
 
 999
 01:35:36,455 --> 01:35:38,207
-Não acredito em nada disso.
+NÃ£o acredito em nada disso.
 
 1000
 01:35:38,916 --> 01:35:40,501
-Não acredito em nada.
+NÃ£o acredito em nada.
 
 1001
 01:35:41,127 --> 01:35:42,670
-É só para a apresentação.
+Ã‰ sÃ³ para a apresentaÃ§Ã£o.
 
 1002
 01:35:42,837 --> 01:35:43,838
-Para a apresentação?
+Para a apresentaÃ§Ã£o?
 
 1003
 01:35:44,004 --> 01:35:45,756
-Um palhaço foi morto no metrô.
+Um palhaÃ§o foi morto no metrÃ´.
 
 1004
 01:35:45,923 --> 01:35:47,466
-Ele está sabendo disso.
+Ele estÃ¡ sabendo disso.
 
 1005
 01:35:47,633 --> 01:35:48,884
-Não, eu não sabia.
+NÃ£o, eu nÃ£o sabia.
 
 1006
 01:35:49,343 --> 01:35:50,678
--Tá.
--É disso que eu falo.
+-TÃ¡.
+-Ã‰ disso que eu falo.
 
 1007
 01:35:50,845 --> 01:35:52,888
-A plateia vai detestar vê-lo.
+A plateia vai detestar vÃª-lo.
 
 1008
 01:35:53,055 --> 01:35:55,182
-Um pouco, talvez, mas não o bloco todo.
+Um pouco, talvez, mas nÃ£o o bloco todo.
 
 1009
 01:35:55,349 --> 01:35:57,560
@@ -4284,11 +4284,11 @@ Mas algumas regras.
 
 1013
 01:36:03,566 --> 01:36:05,317
-Nada de palavrões ou vulgaridades.
+Nada de palavrÃµes ou vulgaridades.
 
 1014
 01:36:05,484 --> 01:36:06,944
-É um programa decente.
+Ã‰ um programa decente.
 
 1015
 01:36:07,111 --> 01:36:08,112
@@ -4297,7 +4297,7 @@ Nada de palavrões ou vulgaridades.
 
 1016
 01:36:08,279 --> 01:36:09,864
-Você entra após a Dra. Sally.
+VocÃª entra apÃ³s a Dra. Sally.
 
 1017
 01:36:10,030 --> 01:36:11,031
@@ -4305,12 +4305,12 @@ Adoro a Dra. Sally.
 
 1018
 01:36:11,198 --> 01:36:12,199
-Que ótimo.
+Que Ã³timo.
 
 1019
 01:36:12,324 --> 01:36:14,827
--Alguém virá te buscar, tá?
--Tá. Perfeito.
+-AlguÃ©m virÃ¡ te buscar, tÃ¡?
+-TÃ¡. Perfeito.
 
 1020
 01:36:14,994 --> 01:36:15,953
@@ -4322,7 +4322,7 @@ Obrigado, Murray.
 
 1022
 01:36:18,372 --> 01:36:20,499
-Murray, só uma coisinha.
+Murray, sÃ³ uma coisinha.
 
 1023
 01:36:20,666 --> 01:36:21,584
@@ -4338,7 +4338,7 @@ pode me apresentar como Coringa?
 
 1026
 01:36:25,629 --> 01:36:27,339
-Por que não usa seu nome?
+Por que nÃ£o usa seu nome?
 
 1027
 01:36:27,965 --> 01:36:30,217
@@ -4350,20 +4350,20 @@ Coringa.
 
 1029
 01:36:31,677 --> 01:36:32,678
-Você se lembra?
+VocÃª se lembra?
 
 1030
 01:36:33,054 --> 01:36:35,056
 -Chamei?
--Não sei.
+-NÃ£o sei.
 
 1031
 01:36:35,222 --> 01:36:37,308
-Se é o que você quer, então Coringa.
+Se Ã© o que vocÃª quer, entÃ£o Coringa.
 
 1032
 01:36:37,475 --> 01:36:38,476
-É bom.
+Ã‰ bom.
 
 1033
 01:36:38,642 --> 01:36:39,727
@@ -4371,20 +4371,20 @@ Obrigado, Murray.
 
 1034
 01:37:01,791 --> 01:37:05,002
-Vou tentar, mas não sei
+Vou tentar, mas nÃ£o sei
 se minha esposa vai deixar.
 
 1035
 01:37:06,462 --> 01:37:07,797
-Talvez a próxima esposa.
+Talvez a prÃ³xima esposa.
 
 1036
 01:37:11,509 --> 01:37:13,260
-Tem que ver o próximo convidado.
+Tem que ver o prÃ³ximo convidado.
 
 1037
 01:37:13,427 --> 01:37:15,471
-Na certa, ele precisa de um médico.
+Na certa, ele precisa de um mÃ©dico.
 
 1038
 01:37:16,555 --> 01:37:18,265
@@ -4396,16 +4396,16 @@ Ele parece ter muitos problemas.
 
 1040
 01:37:22,061 --> 01:37:24,688
-Bobby, vamos mostrar o vídeo
-uma última vez.
+Bobby, vamos mostrar o vÃ­deo
+uma Ãºltima vez.
 
 1041
 01:37:31,112 --> 01:37:33,989
-<i>Eu detestava a escola quando era criança.</i>
+<i>Eu detestava a escola quando era crianÃ§a.</i>
 
 1042
 01:37:35,783 --> 01:37:37,952
-<i>Mas minha mãe sempre dizia:</i>
+<i>Mas minha mÃ£e sempre dizia:</i>
 
 1043
 01:37:38,994 --> 01:37:43,457
@@ -4414,7 +4414,7 @@ Um dia, vai ter que trabalhar para viver."</i>
 
 1044
 01:37:43,624 --> 01:37:46,836
-<i>"Não, não vou, mãe.
+<i>"NÃ£o, nÃ£o vou, mÃ£e.
 Eu vou ser comediante."</i>
 
 1045
@@ -4423,21 +4423,21 @@ Tudo bem.
 
 1046
 01:37:56,887 --> 01:38:00,141
-Talvez tenham visto esse vídeo
-do próximo convidado.
+Talvez tenham visto esse vÃ­deo
+do prÃ³ximo convidado.
 
 1047
 01:38:00,307 --> 01:38:02,685
-Antes que ele entre, só quero dizer
+Antes que ele entre, sÃ³ quero dizer
 
 1048
 01:38:02,852 --> 01:38:06,397
 que estamos arrasados
-com o que está acontecendo na cidade hoje.
+com o que estÃ¡ acontecendo na cidade hoje.
 
 1049
 01:38:06,564 --> 01:38:08,858
-Mas é assim que ele quer se apresentar
+Mas Ã© assim que ele quer se apresentar
 
 1050
 01:38:09,024 --> 01:38:12,236
@@ -4462,7 +4462,7 @@ Bom, foi uma entrada e tanto.
 
 1055
 01:39:11,420 --> 01:39:12,421
-Você está bem?
+VocÃª estÃ¡ bem?
 
 1056
 01:39:15,257 --> 01:39:16,675
@@ -4470,11 +4470,11 @@ Sim.
 
 1057
 01:39:16,842 --> 01:39:19,553
-É exatamente como eu imaginava.
+Ã‰ exatamente como eu imaginava.
 
 1058
 01:39:21,514 --> 01:39:23,307
-Bem, não posso dizer o mesmo.
+Bem, nÃ£o posso dizer o mesmo.
 
 1059
 01:39:30,189 --> 01:39:32,358
@@ -4483,7 +4483,7 @@ Pode nos falar sobre este visual?
 1060
 01:39:32,525 --> 01:39:35,903
 Quando conversamos antes,
-disse que não era algo político.
+disse que nÃ£o era algo polÃ­tico.
 
 1061
 01:39:36,070 --> 01:39:37,113
@@ -4491,23 +4491,23 @@ Correto?
 
 1062
 01:39:37,279 --> 01:39:38,906
-Exato. Eu não sou político.
+Exato. Eu nÃ£o sou polÃ­tico.
 
 1063
 01:39:39,073 --> 01:39:41,617
-Só estou tentando fazer as pessoas rirem.
+SÃ³ estou tentando fazer as pessoas rirem.
 
 1064
 01:39:41,784 --> 01:39:43,411
-E como você está se saindo?
+E como vocÃª estÃ¡ se saindo?
 
 1065
 01:39:51,877 --> 01:39:53,713
-Bom, sei que você é comediante.
+Bom, sei que vocÃª Ã© comediante.
 
 1066
 01:39:53,879 --> 01:39:56,924
-Está trabalhando em novo material?
+EstÃ¡ trabalhando em novo material?
 Quer contar uma piada?
 
 1067
@@ -4528,7 +4528,7 @@ Um caderno de piadas.
 
 1071
 01:40:19,905 --> 01:40:22,908
-Só espero que minha morte levante mais
+SÃ³ espero que minha morte levante mais
 dinheiro do que a minha vida
 
 1072
@@ -4537,7 +4537,7 @@ Sem pressa. Temos a noite toda.
 
 1073
 01:40:34,128 --> 01:40:36,422
-Tá, tudo bem, lá vai uma.
+TÃ¡, tudo bem, lÃ¡ vai uma.
 
 1074
 01:40:39,550 --> 01:40:42,053
@@ -4557,41 +4557,41 @@ Toc toc.
 
 1078
 01:40:55,858 --> 01:40:57,359
-Quem é?
+Quem Ã©?
 
 1079
 01:40:58,819 --> 01:41:00,237
-É a polícia, senhora.
+Ã‰ a polÃ­cia, senhora.
 
 1080
 01:41:00,404 --> 01:41:03,616
-Seu filho foi atropelado por um bêbado.
-Ele está morto.
+Seu filho foi atropelado por um bÃªbado.
+Ele estÃ¡ morto.
 
 1081
 01:41:06,744 --> 01:41:08,329
-Oh, não.
+Oh, nÃ£o.
 
 1082
 01:41:08,496 --> 01:41:10,247
-Não se pode brincar com isso.
+NÃ£o se pode brincar com isso.
 
 1083
 01:41:10,414 --> 01:41:12,375
-É, isso não é engraçado, Arthur.
+Ã‰, isso nÃ£o Ã© engraÃ§ado, Arthur.
 
 1084
 01:41:12,541 --> 01:41:15,002
-Esse não é o tipo de humor deste programa.
+Esse nÃ£o Ã© o tipo de humor deste programa.
 
 1085
 01:41:15,586 --> 01:41:17,880
-Está certo. É, desculpe.
+EstÃ¡ certo. Ã‰, desculpe.
 
 1086
 01:41:18,047 --> 01:41:22,426
-Acontece que as últimas semanas
-foram difíceis para mim, Murray.
+Acontece que as Ãºltimas semanas
+foram difÃ­ceis para mim, Murray.
 
 1087
 01:41:24,011 --> 01:41:25,846
@@ -4607,19 +4607,19 @@ Estou esperando o desfecho da piada.
 
 1090
 01:41:40,569 --> 01:41:42,279
-Não tem desfecho.
+NÃ£o tem desfecho.
 
 1091
 01:41:43,697 --> 01:41:45,574
-Não é piada.
+NÃ£o Ã© piada.
 
 1092
 01:41:50,246 --> 01:41:51,330
-Fala sério, não?
+Fala sÃ©rio, nÃ£o?
 
 1093
 01:41:51,497 --> 01:41:53,708
-Está dizendo que matou os três jovens?
+EstÃ¡ dizendo que matou os trÃªs jovens?
 
 1094
 01:41:53,874 --> 01:41:54,875
@@ -4627,11 +4627,11 @@ Sim.
 
 1095
 01:41:55,042 --> 01:41:56,752
-Por que deveríamos acreditar?
+Por que deverÃ­amos acreditar?
 
 1096
 01:41:56,919 --> 01:41:58,879
-Eu não tenho mais nada a perder.
+Eu nÃ£o tenho mais nada a perder.
 
 1097
 01:42:00,881 --> 01:42:02,925
@@ -4639,12 +4639,12 @@ Nada mais pode me machucar.
 
 1098
 01:42:06,095 --> 01:42:08,973
-Minha vida não passa de uma comédia.
+Minha vida nÃ£o passa de uma comÃ©dia.
 
 1099
 01:42:12,601 --> 01:42:15,980
 Deixe-me entender,
-acha que matar aqueles caras tem graça?
+acha que matar aqueles caras tem graÃ§a?
 
 1100
 01:42:16,647 --> 01:42:18,149
@@ -4653,19 +4653,19 @@ Eu acho.
 1101
 01:42:18,315 --> 01:42:20,943
 E estou cansado
-de fazer de conta que não é.
+de fazer de conta que nÃ£o Ã©.
 
 1102
 01:42:21,110 --> 01:42:22,987
-A comédia é subjetiva, Murray.
+A comÃ©dia Ã© subjetiva, Murray.
 
 1103
 01:42:23,446 --> 01:42:25,156
-Não é o que dizem?
+NÃ£o Ã© o que dizem?
 
 1104
 01:42:25,322 --> 01:42:27,074
-Todos vocês,
+Todos vocÃªs,
 
 1105
 01:42:27,241 --> 01:42:29,827
@@ -4673,12 +4673,12 @@ o sistema que sabe tanto,
 
 1106
 01:42:29,994 --> 01:42:32,705
-vocês decidem o que é certo ou errado.
+vocÃªs decidem o que Ã© certo ou errado.
 
 1107
 01:42:32,872 --> 01:42:38,085
-Assim como vocês decidem
-o que é engraçado ou não é.
+Assim como vocÃªs decidem
+o que Ã© engraÃ§ado ou nÃ£o Ã©.
 
 1108
 01:42:39,420 --> 01:42:40,421
@@ -4687,46 +4687,46 @@ Bote-o para fora!
 1109
 01:42:41,172 --> 01:42:44,842
 Pois bem,
-acho que eu poderia deduzir então
+acho que eu poderia deduzir entÃ£o
 
 1110
 01:42:45,176 --> 01:42:48,763
-que você começou um movimento,
-para se tornar um símbolo?
+que vocÃª comeÃ§ou um movimento,
+para se tornar um sÃ­mbolo?
 
 1111
 01:42:49,388 --> 01:42:50,931
-Qual é, Murray!
+Qual Ã©, Murray!
 
 1112
 01:42:51,098 --> 01:42:53,934
-Pareço o tipo de palhaço
-que começaria um movimento?
+PareÃ§o o tipo de palhaÃ§o
+que comeÃ§aria um movimento?
 
 1113
 01:42:54,101 --> 01:42:56,937
 Matei aqueles caras
-porque eles eram horríveis.
+porque eles eram horrÃ­veis.
 
 1114
 01:42:57,104 --> 01:42:59,607
-Todo mundo é horrível hoje em dia.
+Todo mundo Ã© horrÃ­vel hoje em dia.
 
 1115
 01:42:59,774 --> 01:43:02,068
-Só isso já faz qualquer um enlouquecer.
+SÃ³ isso jÃ¡ faz qualquer um enlouquecer.
 
 1116
 01:43:02,234 --> 01:43:03,986
-Então é isso, você está louco.
+EntÃ£o Ã© isso, vocÃª estÃ¡ louco.
 
 1117
 01:43:04,153 --> 01:43:06,447
-É sua desculpa para matar três jovens?
+Ã‰ sua desculpa para matar trÃªs jovens?
 
 1118
 01:43:07,073 --> 01:43:08,616
-Não.
+NÃ£o.
 
 1119
 01:43:08,783 --> 01:43:12,119
@@ -4740,16 +4740,16 @@ por causa deles?
 
 1121
 01:43:18,250 --> 01:43:21,462
-Se fosse eu morrendo na calçada,
+Se fosse eu morrendo na calÃ§ada,
 passariam por cima.
 
 1122
 01:43:21,629 --> 01:43:23,756
-Passo todo dia por vocês, e não me notam.
+Passo todo dia por vocÃªs, e nÃ£o me notam.
 
 1123
 01:43:23,923 --> 01:43:27,802
-Mas e esses caras? Só porque Thomas Wayne
+Mas e esses caras? SÃ³ porque Thomas Wayne
 chorou por eles na TV?
 
 1124
@@ -4762,35 +4762,35 @@ Sim, eu tenho.
 
 1126
 01:43:32,264 --> 01:43:35,684
-Você já viu como é lá fora, Murray?
+VocÃª jÃ¡ viu como Ã© lÃ¡ fora, Murray?
 
 1127
 01:43:35,851 --> 01:43:38,896
-Alguma vez você sai de verdade do estúdio?
+Alguma vez vocÃª sai de verdade do estÃºdio?
 
 1128
 01:43:39,063 --> 01:43:42,900
-Todas as pessoas só berram
+Todas as pessoas sÃ³ berram
 e gritam umas com as outras.
 
 1129
 01:43:43,067 --> 01:43:45,236
-Ninguém mais é civilizado.
+NinguÃ©m mais Ã© civilizado.
 
 1130
 01:43:45,403 --> 01:43:48,989
-Ninguém pensa como é estar
+NinguÃ©m pensa como Ã© estar
 no lugar da outra pessoa.
 
 1131
 01:43:49,782 --> 01:43:54,620
 Acha que homens como Thomas Wayne
-se perguntam como é ser alguém como eu?
+se perguntam como Ã© ser alguÃ©m como eu?
 
 1132
 01:43:54,787 --> 01:43:57,498
-Ser alguém senão eles mesmos?
-Não se perguntam.
+Ser alguÃ©m senÃ£o eles mesmos?
+NÃ£o se perguntam.
 
 1133
 01:43:57,665 --> 01:44:02,420
@@ -4803,37 +4803,37 @@ Sem reagir, sem perder o controle!
 
 1135
 01:44:04,839 --> 01:44:06,465
-Você terminou?
+VocÃª terminou?
 
 1136
 01:44:06,632 --> 01:44:08,968
-Digo, é muita autopiedade, Arthur.
+Digo, Ã© muita autopiedade, Arthur.
 
 1137
 01:44:09,135 --> 01:44:12,179
-Está inventando desculpas
+EstÃ¡ inventando desculpas
 por ter matado aqueles jovens.
 
 1138
 01:44:12,346 --> 01:44:15,683
 Nem todo mundo, eu te garanto,
-nem todo mundo é horrível.
+nem todo mundo Ã© horrÃ­vel.
 
 1139
 01:44:17,977 --> 01:44:19,186
-Você é horrível.
+VocÃª Ã© horrÃ­vel.
 
 1140
 01:44:19,353 --> 01:44:21,230
-Eu? Eu sou horrível?
+Eu? Eu sou horrÃ­vel?
 
 1141
 01:44:21,397 --> 01:44:23,149
-Ah, é? Por que sou horrível?
+Ah, Ã©? Por que sou horrÃ­vel?
 
 1142
 01:44:25,317 --> 01:44:26,777
-Mostrando meu vídeo,
+Mostrando meu vÃ­deo,
 
 1143
 01:44:28,195 --> 01:44:30,072
@@ -4841,38 +4841,38 @@ convidando-me para o programa.
 
 1144
 01:44:31,157 --> 01:44:33,492
-Você só queria debochar de mim.
+VocÃª sÃ³ queria debochar de mim.
 
 1145
 01:44:34,493 --> 01:44:36,454
-Você é igualzinho a todos eles.
+VocÃª Ã© igualzinho a todos eles.
 
 1146
 01:44:36,620 --> 01:44:38,539
-Não sabe nada sobre mim, amigo.
+NÃ£o sabe nada sobre mim, amigo.
 
 1147
 01:44:38,706 --> 01:44:41,292
 Olhe o que houve
-por causa do que você fez.
+por causa do que vocÃª fez.
 
 1148
 01:44:41,459 --> 01:44:43,169
-Estão acontecendo motins.
+EstÃ£o acontecendo motins.
 
 1149
 01:44:43,335 --> 01:44:46,005
-Há dois policiais em estado crítico,
-e você ri.
+HÃ¡ dois policiais em estado crÃ­tico,
+e vocÃª ri.
 
 1150
 01:44:46,172 --> 01:44:47,173
-Está rindo.
+EstÃ¡ rindo.
 
 1151
 01:44:47,339 --> 01:44:50,176
 Uma pessoa morreu hoje
-por causa do que você fez.
+por causa do que vocÃª fez.
 
 1152
 01:44:50,342 --> 01:44:51,802
@@ -4884,7 +4884,7 @@ Que tal outra piada?
 
 1154
 01:44:55,765 --> 01:44:57,391
-Não, chega das suas piadas.
+NÃ£o, chega das suas piadas.
 
 1155
 01:44:57,558 --> 01:44:58,768
@@ -4893,7 +4893,7 @@ Não, chega das suas piadas.
 
 1156
 01:44:58,934 --> 01:45:01,479
-...quando cruza um solitário doente mental
+...quando cruza um solitÃ¡rio doente mental
 
 1157
 01:45:01,645 --> 01:45:05,191
@@ -4902,7 +4902,7 @@ que o abandona e o trata que nem lixo?
 
 1158
 01:45:05,357 --> 01:45:06,358
-Ligue para a polícia!
+Ligue para a polÃ­cia!
 
 1159
 01:45:06,525 --> 01:45:07,818
@@ -4911,15 +4911,15 @@ Ligue para a polícia!
 
 1160
 01:45:07,985 --> 01:45:09,653
-Você recebe o que merece!
+VocÃª recebe o que merece!
 
 1161
 01:45:46,190 --> 01:45:49,527
-<i>Boa noite. E lembrem-se sempre, é a...</i>
+<i>Boa noite. E lembrem-se sempre, Ã© a...</i>
 
 1162
 01:45:54,698 --> 01:45:55,950
-<i>Plantão de notícias.</i>
+<i>PlantÃ£o de notÃ­cias.</i>
 
 1163
 01:45:56,117 --> 01:45:58,661
@@ -4934,12 +4934,12 @@ durante seu programa.</i>
 1165
 01:46:01,122 --> 01:46:06,377
 <i>O homem que foi apresentado por Franklin
-como "Coringa" está agora preso.</i>
+como "Coringa" estÃ¡ agora preso.</i>
 
 1166
 01:46:06,544 --> 01:46:10,715
-<i>A polícia conduziu o suspeito
-algemado para fora do estúdio.</i>
+<i>A polÃ­cia conduziu o suspeito
+algemado para fora do estÃºdio.</i>
 
 1167
 01:46:10,881 --> 01:46:13,426
@@ -4948,7 +4948,7 @@ o desfecho de uma piada.</i>
 
 1168
 01:46:13,592 --> 01:46:15,177
-<i>Você recebe o que merece!</i>
+<i>VocÃª recebe o que merece!</i>
 
 1169
 01:46:15,344 --> 01:46:17,513
@@ -4964,38 +4964,38 @@ o desfecho de uma piada.</i>
 
 1172
 01:46:21,100 --> 01:46:22,435
-<i>Uma multidão de palhaços...</i>
+<i>Uma multidÃ£o de palhaÃ§os...</i>
 
 1173
 01:46:22,601 --> 01:46:24,061
-<i>...com máscaras de palhaços.</i>
+<i>...com mÃ¡scaras de palhaÃ§os.</i>
 
 1174
 01:46:26,397 --> 01:46:29,483
-<i>Se fosse eu morrendo na calçada,
+<i>Se fosse eu morrendo na calÃ§ada,
 passariam por cima.</i>
 
 1175
 01:46:29,942 --> 01:46:32,194
 <i>-Aos ignorados pelo sistema.
--É a vida!</i>
+-Ã‰ a vida!</i>
 
 1176
 01:46:32,361 --> 01:46:35,030
-<i>Como vocês veem, Gotham está em chamas.</i>
+<i>Como vocÃªs veem, Gotham estÃ¡ em chamas.</i>
 
 1177
 01:47:30,252 --> 01:47:32,254
-Pare de rir, esquisito! Não tem graça.
+Pare de rir, esquisito! NÃ£o tem graÃ§a.
 
 1178
 01:47:32,880 --> 01:47:35,216
-A cidade está em chamas por sua causa.
+A cidade estÃ¡ em chamas por sua causa.
 
 1179
 01:47:36,425 --> 01:47:40,346
 <i>Todas as unidades, fogo reportado
-ao norte do beco. Médicos no local.</i>
+ao norte do beco. MÃ©dicos no local.</i>
 
 1180
 01:47:40,971 --> 01:47:42,431
@@ -5003,7 +5003,7 @@ Eu sei.
 
 1181
 01:47:43,933 --> 01:47:45,935
-Não é bonito?
+NÃ£o Ã© bonito?
 
 1182
 01:49:11,479 --> 01:49:13,189
@@ -5020,7 +5020,7 @@ RESISTA
 
 1185
 01:49:28,412 --> 01:49:29,747
-Vamos para lá.
+Vamos para lÃ¡.
 
 1186
 01:49:47,640 --> 01:49:48,766
@@ -5028,11 +5028,11 @@ Ei, Wayne.
 
 1187
 01:49:49,725 --> 01:49:51,477
-Você recebe o que merece.
+VocÃª recebe o que merece.
 
 1188
 01:49:51,644 --> 01:49:52,770
-Não! Amigo!
+NÃ£o! Amigo!
 
 1189
 01:50:33,561 --> 01:50:35,563
@@ -5044,7 +5044,7 @@ Vamos, cara, levante-se!
 
 1191
 01:53:16,891 --> 01:53:18,976
-O que é tão engraçado?
+O que Ã© tÃ£o engraÃ§ado?
 
 1192
 01:53:22,980 --> 01:53:24,565
@@ -5052,19 +5052,19 @@ Eu estava pensando numa piada.
 
 1193
 01:53:43,751 --> 01:53:45,753
-Você quer contar para mim?
+VocÃª quer contar para mim?
 
 1194
 01:53:51,926 --> 01:53:53,552
-Você não entenderia.
+VocÃª nÃ£o entenderia.
 
 1195
 01:54:05,606 --> 01:54:07,274
-<i>É a vida</i>
+<i>Ã‰ a vida</i>
 
 1196
 01:54:08,901 --> 01:54:11,821
-<i>E por mais estranho que pareça</i>
+<i>E por mais estranho que pareÃ§a</i>
 
 1197
 01:54:13,280 --> 01:54:15,991
@@ -5076,8 +5076,8 @@ Você não entenderia.
 
 1199
 01:54:19,328 --> 01:54:22,998
-<i>Mas eu não deixo
-Não deixo isso me abater</i>
+<i>Mas eu nÃ£o deixo
+NÃ£o deixo isso me abater</i>
 
 1200
 01:54:25,167 --> 01:54:27,336
@@ -5090,4 +5090,3 @@ FIM
 1202
 01:57:34,356 --> 01:57:38,277
 CORINGA
-
