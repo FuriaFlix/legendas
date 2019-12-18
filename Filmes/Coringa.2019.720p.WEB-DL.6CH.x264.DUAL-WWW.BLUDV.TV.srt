@@ -1,0 +1,5093 @@
+1
+00:00:07,685 --> 00:00:09,103
+<i>A notícia nunca para.</i>
+
+2
+00:00:09,270 --> 00:00:11,188
+<i>Esta é a 1080 GCR.</i>
+
+3
+00:00:11,355 --> 00:00:14,316
+<i>Você tem as notícias que precisa,
+o dia inteiro.</i>
+
+4
+00:00:15,109 --> 00:00:16,110
+<i>Bom dia.</i>
+
+5
+00:00:16,277 --> 00:00:19,405
+<i>Temos 5º C às 10h30 desta quinta-feira,
+15 de outubro.</i>
+
+6
+00:00:19,572 --> 00:00:21,907
+<i>Sou Stan L. Brooks, e vamos às notícias.</i>
+
+7
+00:00:22,074 --> 00:00:24,285
+<i>É o 18º dia da greve dos lixeiros,</i>
+
+8
+00:00:24,452 --> 00:00:27,079
+<i>com dez mil toneladas de lixo
+acumulando todo dia.</i>
+
+9
+00:00:27,246 --> 00:00:30,624
+<i>Até os bairros mais elegantes
+da cidade parecem favelas.</i>
+
+10
+00:00:30,791 --> 00:00:34,295
+<i>O secretário da Saúde, Edward O'Rourke,
+declarou estado de emergência</i>
+
+11
+00:00:34,462 --> 00:00:36,088
+<i>pela primeira vez em décadas.</i>
+
+12
+00:00:36,255 --> 00:00:38,340
+<i>Não é preciso esperar alguém morrer</i>
+
+13
+00:00:38,507 --> 00:00:40,092
+<i>ou contrair febre tifoide.</i>
+
+14
+00:00:40,259 --> 00:00:42,261
+<i>Já é uma situação bem séria.</i>
+
+15
+00:00:42,428 --> 00:00:44,638
+<i>É algo que afeta
+quase todo mundo na cidade,</i>
+
+16
+00:00:44,805 --> 00:00:46,849
+<i>não importa quem seja ou onde viva.</i>
+
+17
+00:00:47,016 --> 00:00:51,312
+<i>Não se pode andar por lugar nenhum
+sem ver só lixo e ratos.</i>
+
+18
+00:00:51,479 --> 00:00:53,856
+<i>Já afeta meus negócios,
+os clientes não vêm</i>
+
+19
+00:00:54,023 --> 00:00:55,816
+<i>devido à situação do lixo.</i>
+
+20
+00:00:55,983 --> 00:00:59,570
+<i>Ainda não sinto o cheiro aqui,
+mas olhar para isso é terrível.</i>
+
+21
+00:00:59,737 --> 00:01:02,907
+<i>Isso não me afeta,
+a não ser pelo fedor aqui.</i>
+
+22
+00:01:03,074 --> 00:01:04,075
+<i>É horrível.</i>
+
+23
+00:01:04,241 --> 00:01:06,786
+<i>É um caos. Estou neste país há 50 anos</i>
+
+24
+00:01:06,952 --> 00:01:08,371
+<i>e nunca vi nada igual.</i>
+
+25
+00:01:08,537 --> 00:01:09,997
+<i>Onde este mundo vai parar?</i>
+
+26
+00:01:10,164 --> 00:01:12,750
+<i>Deixe-os conversando
+numa sala até resolverem.</i>
+
+27
+00:01:12,917 --> 00:01:15,127
+<i>Por 24 horas, 48, o tempo necessário.</i>
+
+28
+00:01:15,586 --> 00:01:19,131
+<i>A Guarda Nacional se mobilizar
+e limpar tudo é uma boa ideia.</i>
+
+29
+00:01:19,298 --> 00:01:21,967
+<i>A construção civil
+e os proprietários de imóveis</i>
+
+30
+00:01:22,134 --> 00:01:25,513
+<i>estão preocupados com o aumento
+do preço do óleo de aquecimento.</i>
+
+31
+00:01:25,679 --> 00:01:28,391
+<i>Inquilinos da área metropolitana
+vão ter dificuldades...</i>
+
+32
+00:01:35,898 --> 00:01:38,109
+LOJA DE MÚSICA KENNY'S
+FECHANDO AS PORTAS
+
+33
+00:01:39,985 --> 00:01:41,987
+LIQUIDAÇÃO TOTAL!!
+
+34
+00:02:03,884 --> 00:02:06,095
+-Ei, que sapato é esse?
+-Roupa legal.
+
+35
+00:02:06,262 --> 00:02:07,930
+Para ser palhaço, deve caprichar.
+
+36
+00:02:08,097 --> 00:02:09,181
+Sabe disso, não?
+
+37
+00:02:10,099 --> 00:02:11,350
+-Ei!
+-Segura!
+
+38
+00:02:11,517 --> 00:02:12,518
+Vamos!
+
+39
+00:02:12,685 --> 00:02:13,853
+Ei!
+
+40
+00:02:14,353 --> 00:02:15,229
+Ele vem vindo!
+
+41
+00:02:15,396 --> 00:02:16,981
+Venha, palhaço, vamos!
+
+42
+00:02:17,148 --> 00:02:17,982
+Pegamos o cartaz.
+
+43
+00:02:18,065 --> 00:02:19,650
+-Ele está correndo.
+-Vamos.
+
+44
+00:02:19,817 --> 00:02:20,651
+Segurem-nos!
+
+45
+00:02:20,735 --> 00:02:22,611
+Vamos! Cuidado com o carro!
+
+46
+00:02:25,072 --> 00:02:26,323
+Cadê seu cartaz, palhaço?
+
+47
+00:02:26,991 --> 00:02:27,825
+Ei!
+
+48
+00:02:32,830 --> 00:02:34,248
+Vai, palhaço! Vamos!
+
+49
+00:02:34,415 --> 00:02:35,499
+Segurem-nos!
+
+50
+00:02:37,418 --> 00:02:38,794
+Anda! Vamos!
+
+51
+00:02:41,297 --> 00:02:42,465
+Segurem-nos!
+
+52
+00:02:42,631 --> 00:02:44,258
+Vamos, corra!
+
+53
+00:02:46,385 --> 00:02:47,762
+Ei!
+
+54
+00:02:49,013 --> 00:02:50,514
+Seus filhos...
+
+55
+00:02:56,020 --> 00:02:57,104
+Caramba! Mandou bem.
+
+56
+00:02:57,271 --> 00:02:59,023
+Vamos! Deem uma surra nele!
+
+57
+00:02:59,190 --> 00:03:00,941
+Esse cara é fraco. Não é de nada.
+
+58
+00:03:01,108 --> 00:03:03,027
+Com mais força! Mais força!
+
+59
+00:03:03,194 --> 00:03:04,445
+Peguem as coisas dele.
+
+60
+00:03:04,612 --> 00:03:06,864
+Vamos embora, vamos! Depressa, vamos!
+
+61
+00:03:38,229 --> 00:03:42,441
+CORINGA
+
+62
+00:04:51,052 --> 00:04:52,428
+É impressão minha
+
+63
+00:04:53,596 --> 00:04:56,098
+ou o mundo está ficando mais maluco?
+
+64
+00:04:59,685 --> 00:05:01,687
+Com certeza, está tenso.
+
+65
+00:05:03,064 --> 00:05:04,899
+As pessoas estão aborrecidas.
+
+66
+00:05:05,066 --> 00:05:07,943
+Elas estão batalhando. Procurando emprego.
+
+67
+00:05:08,110 --> 00:05:09,487
+São tempos difíceis.
+
+68
+00:05:12,406 --> 00:05:13,908
+E você?
+
+69
+00:05:15,534 --> 00:05:17,620
+Continua escrevendo seu diário?
+
+70
+00:05:19,413 --> 00:05:21,165
+Sim, senhora.
+
+71
+00:05:22,708 --> 00:05:24,085
+Ótimo.
+
+72
+00:05:25,002 --> 00:05:26,545
+Você o trouxe com você?
+
+73
+00:05:31,133 --> 00:05:32,218
+Arthur.
+
+74
+00:05:32,385 --> 00:05:36,472
+Da última vez, pedi para você
+trazer o diário para estas consultas.
+
+75
+00:05:37,181 --> 00:05:38,516
+Posso ver?
+
+76
+00:05:50,486 --> 00:05:53,364
+Eu o tenho usado como... como diário...
+
+77
+00:05:55,241 --> 00:05:56,909
+mas também para anotar piadas.
+
+78
+00:05:58,035 --> 00:06:01,414
+Observações ou pensamentos engraçados.
+
+79
+00:06:02,540 --> 00:06:06,961
+Acho que contei que estou tentando
+uma carreira na comédia <i>stand-up.</i>
+
+80
+00:06:10,381 --> 00:06:12,007
+Não, não contou.
+
+81
+00:06:13,467 --> 00:06:15,469
+Acho que eu contei.
+
+82
+00:06:18,931 --> 00:06:23,853
+Só espero que minha morte
+faça mais centavos do que minha vida
+
+83
+00:06:24,019 --> 00:06:27,940
+"Só espero que minha morte
+faça mais sentido do que minha vida."
+
+84
+00:06:43,956 --> 00:06:46,292
+Qual é a sensação de ter que vir aqui?
+
+85
+00:06:46,709 --> 00:06:49,462
+Ajuda ter alguém com quem conversar?
+
+86
+00:06:53,507 --> 00:06:56,844
+Eu me sentia melhor
+quando estava preso no sanatório.
+
+87
+00:06:58,888 --> 00:07:00,139
+E pensou mais sobre
+
+88
+00:07:01,515 --> 00:07:02,892
+por que você foi preso?
+
+89
+00:07:03,059 --> 00:07:04,393
+SALA DE OBSERVAÇÃO
+
+90
+00:07:08,731 --> 00:07:10,399
+Quem sabe?
+
+91
+00:07:17,573 --> 00:07:21,327
+Será que você pode pedir
+para o médico aumentar minha medicação?
+
+92
+00:07:27,041 --> 00:07:29,668
+Arthur, você toma
+sete remédios diferentes.
+
+93
+00:07:31,003 --> 00:07:33,589
+Certamente, estão fazendo algum efeito.
+
+94
+00:07:36,133 --> 00:07:39,303
+Eu só não quero mais me sentir tão mal.
+
+95
+00:08:15,381 --> 00:08:17,550
+Quer parar de perturbar meu filho?
+
+96
+00:08:20,720 --> 00:08:22,263
+-Não estava perturbando.
+-Pare.
+
+97
+00:08:31,564 --> 00:08:33,357
+O que é? Você acha engraçado?
+
+98
+00:08:41,657 --> 00:08:43,284
+Desculpe. Eu tenho um...
+
+99
+00:08:46,704 --> 00:08:49,206
+Desculpe minha risada: tenho um problema.
+VIRE
+
+100
+00:08:49,373 --> 00:08:51,709
+É um distúrbio que causa
+risada incontrolável,
+
+101
+00:08:51,876 --> 00:08:53,461
+não compatível com o sentimento.
+
+102
+00:08:53,627 --> 00:08:55,463
+Acontece com quem tem
+problemas neurológicos.
+
+103
+00:08:55,629 --> 00:08:56,630
+Obrigado!
+
+104
+00:08:59,884 --> 00:09:00,885
+Desculpe.
+
+105
+00:09:23,824 --> 00:09:25,826
+HELMS
+FARMÁCIA
+
+106
+00:10:39,817 --> 00:10:42,653
+Feliz, checou a correspondência
+antes de subir?
+
+107
+00:10:42,820 --> 00:10:44,405
+Sim, mãe.
+
+108
+00:10:45,281 --> 00:10:46,866
+Nada.
+
+109
+00:10:50,036 --> 00:10:53,664
+<i>E, por fim, esta noite,
+quando achávamos que não poderia piorar,</i>
+
+110
+00:10:54,040 --> 00:10:57,668
+<i>autoridades dizem
+que a cidade está infestada de ratos.</i>
+
+111
+00:10:57,835 --> 00:11:01,338
+<i>E não são ratos comuns,
+mas super-ratos, difíceis de matar.</i>
+
+112
+00:11:01,505 --> 00:11:03,424
+Ele não deve estar recebendo
+minhas cartas.
+
+113
+00:11:04,800 --> 00:11:06,844
+É o Thomas Wayne, mãe.
+
+114
+00:11:07,011 --> 00:11:08,429
+É um homem ocupado.
+
+115
+00:11:08,596 --> 00:11:12,308
+Por favor. Trabalhei para aquela família
+durante anos.
+
+116
+00:11:12,767 --> 00:11:14,769
+O mínimo que pode fazer é responder.
+
+117
+00:11:16,312 --> 00:11:19,482
+Tome. Não fique tão agitada. Coma.
+
+118
+00:11:19,648 --> 00:11:20,649
+Precisa comer.
+
+119
+00:11:20,816 --> 00:11:24,445
+Você que precisa comer.
+Veja como está magro.
+
+120
+00:11:25,988 --> 00:11:28,449
+<i>As vítimas foram levadas para o hospital.</i>
+
+121
+00:11:28,532 --> 00:11:29,909
+<i>A cidade precisa do flautista de Hamelin.</i>
+
+122
+00:11:30,076 --> 00:11:32,745
+Ele será um ótimo prefeito.
+Todos dizem isso.
+
+123
+00:11:33,287 --> 00:11:36,707
+Ah, é. Todos quem? Com quem você conversa?
+
+124
+00:11:37,291 --> 00:11:39,668
+Bem, todo mundo do noticiário.
+
+125
+00:11:39,835 --> 00:11:43,506
+Ele é o único que pode salvar a cidade.
+Ele nos deve isso.
+
+126
+00:11:46,550 --> 00:11:47,927
+Vem sentar. Está começando.
+
+127
+00:11:48,094 --> 00:11:49,887
+Viva, Murray.
+
+128
+00:11:50,763 --> 00:11:54,183
+<i>Dos estúdios da NCB em Gotham City,</i>
+
+129
+00:11:54,350 --> 00:11:57,645
+Ao Vivo com Murray Franklin!
+
+130
+00:11:58,646 --> 00:12:01,732
+<i>Esta noite, Murray recebe Sandra Winger...</i>
+
+131
+00:12:01,899 --> 00:12:03,109
+Winger vai participar.
+
+132
+00:12:03,275 --> 00:12:06,404
+<i>...e o piano estiloso de Yeldon e Chantel.</i>
+
+133
+00:12:06,570 --> 00:12:11,450
+<i>Acompanhando Murray, como sempre,
+Ellis Drane e sua orquestra de jazz.</i>
+
+134
+00:12:11,617 --> 00:12:14,286
+<i>E agora, sem mais delongas,</i>
+
+135
+00:12:14,453 --> 00:12:17,206
+Murray Franklin.
+
+136
+00:12:29,468 --> 00:12:31,345
+Obrigado.
+
+137
+00:12:32,513 --> 00:12:33,639
+Obrigado.
+
+138
+00:12:33,806 --> 00:12:36,142
+Temos uma linda plateia esta noite.
+
+139
+00:12:36,600 --> 00:12:38,436
+É!
+
+140
+00:12:38,602 --> 00:12:40,312
+Nossa! Obrigado.
+
+141
+00:12:40,730 --> 00:12:41,814
+Obrigado.
+
+142
+00:12:42,440 --> 00:12:46,485
+Todo mundo já ouviu falar dos ratos
+que estão em Gotham agora, não é?
+
+143
+00:12:47,486 --> 00:12:50,865
+Bem, hoje o prefeito disse
+que tem uma solução.
+
+144
+00:12:51,031 --> 00:12:52,575
+Querem saber qual?
+
+145
+00:12:52,742 --> 00:12:53,826
+Supergatos.
+
+146
+00:12:58,414 --> 00:12:59,832
+Falando sério, esses ratos...
+
+147
+00:12:59,999 --> 00:13:01,500
+Eu te amo, Murray!
+
+148
+00:13:03,377 --> 00:13:04,670
+Eu também te amo.
+
+149
+00:13:06,589 --> 00:13:08,174
+Bobby, pode acender as luzes?
+
+150
+00:13:08,340 --> 00:13:09,341
+Quem foi?
+
+151
+00:13:09,508 --> 00:13:11,677
+Foi você? Levante-se, por favor.
+
+152
+00:13:11,844 --> 00:13:13,763
+Fique de pé para mim.
+
+153
+00:13:13,929 --> 00:13:14,930
+Vamos lá.
+
+154
+00:13:20,102 --> 00:13:21,812
+Qual é seu nome?
+
+155
+00:13:22,354 --> 00:13:24,356
+Oi, Murray. Arthur.
+
+156
+00:13:24,523 --> 00:13:26,192
+-Arthur?
+-Meu nome é Arthur.
+
+157
+00:13:26,358 --> 00:13:29,153
+Você tem algo de especial, Arthur.
+Sei que tem.
+
+158
+00:13:29,320 --> 00:13:30,321
+De onde você é?
+
+159
+00:13:30,488 --> 00:13:32,198
+Eu moro aqui na cidade
+
+160
+00:13:32,364 --> 00:13:33,616
+com minha mãe.
+
+161
+00:13:35,409 --> 00:13:37,620
+Esperem. Não tem nada de engraçado nisso.
+
+162
+00:13:37,787 --> 00:13:40,456
+Morei com minha mãe
+até fazer sucesso. Só eu e ela.
+
+163
+00:13:40,623 --> 00:13:43,459
+Sou o garoto cujo pai saiu
+para comprar cigarro
+
+164
+00:13:43,626 --> 00:13:44,627
+e nunca mais voltou.
+
+165
+00:13:45,836 --> 00:13:47,838
+Eu sei como é isso, Murray.
+
+166
+00:13:48,005 --> 00:13:50,549
+Eu fui o homem da casa desde sempre.
+
+167
+00:13:50,716 --> 00:13:52,468
+Eu cuido bem da minha mãe.
+
+168
+00:13:56,639 --> 00:13:59,558
+Por todo esse sacrifício,
+ela deve te amar muito.
+
+169
+00:13:59,725 --> 00:14:00,726
+Ela ama, sim.
+
+170
+00:14:01,560 --> 00:14:05,439
+Ela sempre me diz para sorrir,
+para fazer uma cara feliz.
+
+171
+00:14:05,606 --> 00:14:08,234
+E que vim ao mundo
+para trazer alegria e risos.
+
+172
+00:14:15,908 --> 00:14:18,661
+Eu gostei. Gostei muito. Desça aqui.
+
+173
+00:14:18,828 --> 00:14:21,664
+Venha. Depois dessa,
+você tem que descer aqui.
+
+174
+00:14:21,831 --> 00:14:23,249
+Venha!
+
+175
+00:14:31,215 --> 00:14:32,216
+Venha.
+
+176
+00:14:47,440 --> 00:14:49,692
+O programa está ótimo. Fiquem ligados.
+
+177
+00:14:49,859 --> 00:14:51,652
+A gente volta já.
+
+178
+00:14:52,403 --> 00:14:53,821
+Foi legal, Arthur. Obrigado.
+
+179
+00:14:53,988 --> 00:14:55,740
+Adorei ouvir o que disse.
+
+180
+00:14:55,906 --> 00:14:57,116
+Ganhei o dia.
+
+181
+00:14:57,283 --> 00:14:58,492
+Obrigado, Murray.
+
+182
+00:14:58,909 --> 00:15:01,954
+Sabe, isso aí, as luzes,
+o show, a plateia, isso tudo?
+
+183
+00:15:02,121 --> 00:15:04,540
+Eu abriria mão
+para ter um filho como você.
+
+184
+00:15:47,124 --> 00:15:49,001
+-E aí, mocinhas?
+-Oi, Randall.
+
+185
+00:15:49,168 --> 00:15:50,836
+Mais um dia na terra do riso.
+
+186
+00:15:51,003 --> 00:15:52,004
+É.
+
+187
+00:15:55,549 --> 00:15:56,634
+Você está bem?
+
+188
+00:15:58,594 --> 00:16:01,097
+Eu soube da surra que você levou.
+
+189
+00:16:01,847 --> 00:16:02,932
+Selvagens!
+
+190
+00:16:04,475 --> 00:16:07,019
+Eram garotos.
+Eu deveria ter deixado pra lá.
+
+191
+00:16:07,186 --> 00:16:08,020
+Não.
+
+192
+00:16:08,187 --> 00:16:10,523
+Eles roubam tudo de você se deixar.
+
+193
+00:16:10,689 --> 00:16:12,024
+A coisa está feia.
+
+194
+00:16:12,566 --> 00:16:13,943
+São uns animais.
+
+195
+00:16:18,781 --> 00:16:20,074
+Quer saber?
+
+196
+00:16:25,329 --> 00:16:26,330
+Tome.
+
+197
+00:16:27,998 --> 00:16:29,250
+O que é isso?
+
+198
+00:16:29,709 --> 00:16:30,793
+Pegue.
+
+199
+00:16:31,711 --> 00:16:32,795
+É para você.
+
+200
+00:16:37,258 --> 00:16:39,218
+Tem que se proteger lá fora.
+
+201
+00:16:39,969 --> 00:16:41,470
+Senão você está ferrado.
+
+202
+00:16:43,097 --> 00:16:44,265
+Randall...
+
+203
+00:16:45,725 --> 00:16:48,352
+eu não posso ter uma arma.
+
+204
+00:16:49,895 --> 00:16:51,355
+Não se preocupe, Art.
+
+205
+00:16:52,148 --> 00:16:53,399
+Ninguém precisa saber.
+
+206
+00:16:53,566 --> 00:16:55,901
+E você pode me pagar uma outra hora.
+
+207
+00:16:56,068 --> 00:16:57,278
+Sabe que é meu garoto.
+
+208
+00:16:59,488 --> 00:17:00,489
+Arthur...
+
+209
+00:17:01,115 --> 00:17:02,616
+Hoyt te espera no escritório.
+
+210
+00:17:03,367 --> 00:17:05,870
+Ei, Gary. Sabe o que eu sempre quis saber?
+
+211
+00:17:06,037 --> 00:17:07,163
+Não faço ideia.
+
+212
+00:17:07,329 --> 00:17:10,708
+Vocês chamam de golfe miniatura
+ou é só golfe para vocês?
+
+213
+00:17:15,963 --> 00:17:17,465
+Dá um soco no pau dele.
+
+214
+00:17:29,560 --> 00:17:31,103
+ESCRITÓRIO
+
+215
+00:17:34,440 --> 00:17:36,067
+Oi, Hoyt.
+
+216
+00:17:36,233 --> 00:17:38,736
+Gary disse que você queria falar comigo.
+
+217
+00:17:38,903 --> 00:17:41,822
+E a carreira na comédia?
+Já é famoso no <i>stand-up?</i>
+
+218
+00:17:41,989 --> 00:17:42,948
+Eu não.
+
+219
+00:17:43,115 --> 00:17:45,242
+Estou tralhando nos meus textos.
+
+220
+00:17:45,409 --> 00:17:47,328
+Não se sente. Vai ser rápido.
+
+221
+00:17:47,495 --> 00:17:48,996
+Eu gosto de você, Arthur.
+
+222
+00:17:49,163 --> 00:17:51,874
+Muitos aqui acham você esquisito,
+mas eu gosto de você.
+
+223
+00:17:53,209 --> 00:17:54,835
+Nem sei por que eu gosto.
+
+224
+00:17:55,544 --> 00:17:57,129
+Mas recebi mais uma queixa.
+
+225
+00:17:57,838 --> 00:18:00,633
+Isso começa a me deixar puto.
+É da loja Kenny's.
+
+226
+00:18:00,800 --> 00:18:02,635
+O cara disse que você sumiu.
+
+227
+00:18:02,802 --> 00:18:04,178
+Nem devolveu o cartaz.
+
+228
+00:18:05,054 --> 00:18:06,847
+Porque eu fui agredido.
+
+229
+00:18:07,223 --> 00:18:08,933
+Você não soube?
+
+230
+00:18:09,100 --> 00:18:10,851
+Por um cartaz?
+
+231
+00:18:11,018 --> 00:18:13,187
+Isso é conversa. Não faz sentido.
+
+232
+00:18:13,354 --> 00:18:15,314
+Devolva o cartaz para ele.
+
+233
+00:18:15,481 --> 00:18:17,858
+O negócio dele está falindo,
+pelo amor de Deus.
+
+234
+00:18:18,025 --> 00:18:19,819
+Por que eu ficaria com o cartaz?
+
+235
+00:18:19,985 --> 00:18:22,738
+Sei lá!
+Por que as pessoas fazem as coisas?
+
+236
+00:18:24,031 --> 00:18:26,033
+Se você não devolver o cartaz,
+
+237
+00:18:26,200 --> 00:18:28,244
+eu vou descontar do seu salário.
+
+238
+00:18:29,328 --> 00:18:30,454
+Está claro?
+
+239
+00:18:31,997 --> 00:18:34,750
+Ouça, eu estou tentando te ajudar.
+
+240
+00:18:34,917 --> 00:18:36,877
+Tá? E vou te dizer outra coisa.
+
+241
+00:18:37,044 --> 00:18:40,256
+Os outros caras não se sentem
+à vontade perto de você
+
+242
+00:18:40,423 --> 00:18:42,383
+porque acham que você é estranho.
+
+243
+00:18:42,550 --> 00:18:45,386
+Tá legal?
+E eu não posso permitir essa situação.
+
+244
+00:19:35,186 --> 00:19:36,228
+Espere.
+
+245
+00:19:36,395 --> 00:19:37,396
+Espere.
+
+246
+00:19:40,649 --> 00:19:41,776
+Obrigada.
+
+247
+00:20:03,798 --> 00:20:06,384
+Este prédio é horrível, não é?
+
+248
+00:20:08,260 --> 00:20:10,721
+Este prédio é horrível, não é, mamãe?
+
+249
+00:20:10,888 --> 00:20:13,307
+Sim, nós te ouvimos, GiGi.
+
+250
+00:20:13,474 --> 00:20:15,810
+Ele é horrível, mamãe.
+
+251
+00:20:17,520 --> 00:20:18,521
+Não é, mamãe?
+
+252
+00:20:26,487 --> 00:20:27,988
+-Boa noite.
+-É horrível, não é?
+
+253
+00:20:34,829 --> 00:20:35,746
+Ei!
+
+254
+00:20:42,545 --> 00:20:43,546
+Venha.
+
+255
+00:21:02,940 --> 00:21:03,941
+Olhe para cima.
+
+256
+00:21:04,400 --> 00:21:06,402
+O carteiro deve estar jogando fora.
+
+257
+00:21:06,569 --> 00:21:09,447
+Por que as cartas
+são tão importantes para você?
+
+258
+00:21:10,364 --> 00:21:13,075
+-O que acha que ele vai fazer?
+-Vai nos ajudar.
+
+259
+00:21:13,993 --> 00:21:18,164
+Mas você trabalhou para ele
+há quanto tempo, trinta anos?
+
+260
+00:21:18,330 --> 00:21:20,207
+Por que ele nos ajudaria?
+
+261
+00:21:20,374 --> 00:21:22,960
+Porque Thomas Wayne é um bom homem.
+
+262
+00:21:23,836 --> 00:21:26,422
+Se ele soubesse como estamos vivendo,
+
+263
+00:21:26,589 --> 00:21:30,051
+se ele visse este apartamento,
+ele ficaria indignado.
+
+264
+00:21:31,427 --> 00:21:34,096
+Não sei te explicar de uma forma melhor.
+
+265
+00:21:35,973 --> 00:21:37,850
+Não se preocupe com dinheiro.
+
+266
+00:21:39,185 --> 00:21:40,311
+Nem comigo.
+
+267
+00:21:40,770 --> 00:21:44,648
+Todo mundo diz que meu <i>stand-up
+</i>está pronto para clubes grandes.
+
+268
+00:21:45,858 --> 00:21:48,444
+Mas, Feliz,
+por que você acha que consegue?
+
+269
+00:21:48,944 --> 00:21:50,029
+Como assim?
+
+270
+00:21:51,822 --> 00:21:54,116
+Comediante não precisa ser engraçado?
+
+271
+00:22:57,763 --> 00:22:59,014
+Qual é seu nome?
+
+272
+00:23:00,224 --> 00:23:01,225
+Arthur.
+
+273
+00:23:02,226 --> 00:23:05,479
+Arthur, você é um ótimo dançarino.
+
+274
+00:23:06,188 --> 00:23:07,314
+Eu sei.
+
+275
+00:23:07,982 --> 00:23:10,109
+Sabe quem não é? Ele.
+
+276
+00:23:15,740 --> 00:23:17,658
+O que foi isso? Você está bem?
+
+277
+00:23:17,825 --> 00:23:18,868
+Mãe, o que é?
+
+278
+00:23:19,035 --> 00:23:21,162
+Aquele barulho! Ouviu o barulho?
+
+279
+00:23:21,328 --> 00:23:23,581
+Estou vendo um filme de guerra antigo.
+
+280
+00:23:23,748 --> 00:23:25,249
+Abaixe isso!
+
+281
+00:23:31,630 --> 00:23:33,299
+Desculpe, mãe.
+
+282
+00:23:46,020 --> 00:23:47,146
+Você está bem?
+
+283
+00:24:54,505 --> 00:24:57,049
+É legal ver casais no meu show.
+
+284
+00:24:58,008 --> 00:25:00,219
+Tenho uma esposa. Adoramos fantasiar.
+
+285
+00:25:00,720 --> 00:25:03,013
+Sim, é muito sexy.
+
+286
+00:25:03,180 --> 00:25:04,682
+Minha preferida agora é
+
+287
+00:25:04,849 --> 00:25:09,228
+professor e aluna que precisa passar
+na minha matéria para se formar.
+
+288
+00:25:10,396 --> 00:25:11,647
+É.
+
+289
+00:25:13,107 --> 00:25:14,483
+Vou contar como funciona.
+
+290
+00:25:14,650 --> 00:25:17,319
+Sou professor
+de uma universidade de prestígio,
+
+291
+00:25:18,904 --> 00:25:22,783
+e minha esposa é minha aluna
+de "Introdução à Civilização Ocidental".
+
+292
+00:25:24,827 --> 00:25:25,995
+Eu sei.
+
+293
+00:25:26,579 --> 00:25:29,331
+Por que aluna de introdução?
+Também não entendi.
+
+294
+00:25:30,458 --> 00:25:32,293
+Então ela vem até minha sala.
+
+295
+00:25:33,461 --> 00:25:37,423
+Atendo alunos às segundas e quartas.
+Ela diz: "Com licença, Prof. Lewis."
+
+296
+00:25:37,590 --> 00:25:39,508
+Não posso usar meu sobrenome verdadeiro
+
+297
+00:25:39,675 --> 00:25:41,218
+porque não contratam judeus.
+
+298
+00:25:43,054 --> 00:25:46,015
+Vou assumir ao obter estabilidade.
+Por enquanto...
+
+299
+00:25:46,724 --> 00:25:48,350
+Ela diz: "Com licença, professor.
+
+300
+00:25:48,517 --> 00:25:50,978
+Corro o risco de repetir em 'Introdução'
+
+301
+00:25:51,145 --> 00:25:54,106
+e estou disposta a fazer
+qualquer coisa para passar."
+
+302
+00:25:54,899 --> 00:25:56,442
+Falei: "Qualquer coisa?" E ela...
+
+303
+00:25:56,609 --> 00:25:57,610
+Cabelos sedosos?
+Contato visual
+
+304
+00:25:57,777 --> 00:25:59,111
+Faça observações engraçadas
+
+305
+00:25:59,278 --> 00:26:00,488
+Piadas sexy são engraçadas
+
+306
+00:26:00,654 --> 00:26:04,200
+Doença mental
+
+307
+00:26:50,955 --> 00:26:53,332
+A pior parte de ter uma doença mental
+
+308
+00:26:53,499 --> 00:26:58,087
+é que as pessoas esperam
+que você se porte como se NÃO tivesse
+
+309
+00:27:05,052 --> 00:27:06,095
+Oi.
+
+310
+00:27:06,262 --> 00:27:07,096
+Oi.
+
+311
+00:27:08,097 --> 00:27:09,640
+Você estava me seguindo hoje?
+
+312
+00:27:13,185 --> 00:27:14,937
+Estava.
+
+313
+00:27:16,814 --> 00:27:18,649
+Imaginei que fosse você.
+
+314
+00:27:19,483 --> 00:27:21,902
+Achei que você ia entrar lá e assaltar.
+
+315
+00:27:23,946 --> 00:27:25,489
+Eu tenho uma arma.
+
+316
+00:27:25,656 --> 00:27:27,283
+Posso passar amanhã.
+
+317
+00:27:30,745 --> 00:27:32,204
+Você é muito engraçado.
+
+318
+00:27:34,457 --> 00:27:35,750
+É.
+
+319
+00:27:35,916 --> 00:27:38,419
+Sabe, eu faço comédia <i>stand-up.</i>
+
+320
+00:27:38,586 --> 00:27:41,338
+Vá assistir a um show qualquer hora.
+
+321
+00:27:42,048 --> 00:27:43,382
+Pode ser que eu vá.
+
+322
+00:27:43,549 --> 00:27:44,675
+É?
+
+323
+00:27:44,842 --> 00:27:46,635
+É. Avisa quando tiver?
+
+324
+00:27:46,802 --> 00:27:47,803
+Tá.
+
+325
+00:27:54,727 --> 00:27:58,189
+<i>Se você está contente
+Mexa as orelhas</i>
+
+326
+00:27:58,355 --> 00:27:59,190
+<i>Mexa as orelhas</i>
+
+327
+00:27:59,356 --> 00:28:02,735
+<i>Se você está contente
+Mexa as orelhas</i>
+
+328
+00:28:02,902 --> 00:28:03,903
+<i>Mexa as orelhas</i>
+
+329
+00:28:04,070 --> 00:28:08,491
+<i>Se você está contente
+E quer mostrar para toda a gente</i>
+
+330
+00:28:08,657 --> 00:28:11,869
+<i>Se você está contente
+Mexa as orelhas</i>
+
+331
+00:28:13,287 --> 00:28:16,624
+<i>Se você está contente
+Bata os pés</i>
+
+332
+00:28:16,791 --> 00:28:17,708
+<i>Bata os pés</i>
+
+333
+00:28:17,875 --> 00:28:21,087
+<i>Se você está contente
+Bata os pés</i>
+
+334
+00:28:21,253 --> 00:28:22,254
+<i>Bata os pés</i>
+
+335
+00:28:22,421 --> 00:28:26,842
+<i>Se você está contente
+E quer mostrar para toda a gente</i>
+
+336
+00:28:27,009 --> 00:28:30,471
+<i>Se você está contente
+Bata os pés</i>
+
+337
+00:28:31,847 --> 00:28:34,850
+<i>Se você está contente
+Grite "viva"</i>
+
+338
+00:28:35,017 --> 00:28:36,185
+<i>Grite "viva"</i>
+
+339
+00:28:36,352 --> 00:28:39,772
+<i>Se você está contente
+Grite "viva"</i>
+
+340
+00:28:39,939 --> 00:28:40,940
+<i>Grite "viva"</i>
+
+341
+00:28:41,107 --> 00:28:44,110
+<i>Se você está contente
+E quer mostrar</i>
+
+342
+00:28:44,735 --> 00:28:48,364
+Hoyt, por favor, eu amo este trabalho.
+
+343
+00:28:48,531 --> 00:28:52,952
+<i>Arthur, quero saber por que você levou
+uma arma para um hospital infantil.</i>
+
+344
+00:28:53,119 --> 00:28:56,080
+É só um adereço.
+Faz parte do meu show agora.
+
+345
+00:28:56,247 --> 00:28:58,082
+<i>Isso é mentira. Mentira.</i>
+
+346
+00:28:58,249 --> 00:29:00,334
+<i>Que palhaço carrega uma arma?</i>
+
+347
+00:29:01,043 --> 00:29:05,506
+<i>Randall me contou que você tentou comprar
+uma .38 com ele na semana passada.</i>
+
+348
+00:29:05,673 --> 00:29:06,716
+Randall disse isso?
+
+349
+00:29:06,882 --> 00:29:10,010
+<i>Você é pirado, Arthur. E mentiroso.</i>
+
+350
+00:29:10,177 --> 00:29:11,178
+<i>Está despedido!</i>
+
+351
+00:29:37,413 --> 00:29:40,166
+<i>Rua Jefferson.
+Próxima parada, Nona Avenida.</i>
+
+352
+00:29:43,169 --> 00:29:45,755
+Ela pediu meu telefone.
+Devíamos ter ficado.
+
+353
+00:29:45,921 --> 00:29:48,591
+Está sonhando. Ela não estava interessada.
+
+354
+00:29:48,758 --> 00:29:50,968
+Está maluco? Dançamos agarradinhos.
+
+355
+00:29:51,135 --> 00:29:52,219
+Estava apaixonada.
+
+356
+00:29:52,386 --> 00:29:53,846
+Queria se livrar de você.
+
+357
+00:29:54,013 --> 00:29:56,348
+Ryan, estou maluco? Diga a ele o que viu.
+
+358
+00:29:58,934 --> 00:30:00,728
+Quer batata frita?
+
+359
+00:30:03,481 --> 00:30:05,066
+Olá?
+
+360
+00:30:06,442 --> 00:30:07,526
+Falei com você.
+
+361
+00:30:07,693 --> 00:30:09,236
+Não, obrigada.
+
+362
+00:30:12,198 --> 00:30:13,449
+Tem certeza?
+
+363
+00:30:15,326 --> 00:30:16,452
+Estão uma delícia.
+
+364
+00:30:19,288 --> 00:30:22,041
+Não o ignore.
+Ele está sendo gentil com você.
+
+365
+00:30:49,026 --> 00:30:50,653
+Qual é a graça, idiota?
+
+366
+00:30:54,865 --> 00:30:56,242
+Piranha!
+
+367
+00:31:02,998 --> 00:31:06,001
+<i>Não é precioso?</i>
+
+368
+00:31:06,877 --> 00:31:09,296
+<i>Nós somos um par?</i>
+
+369
+00:31:11,757 --> 00:31:14,427
+<i>Eu finalmente aqui no chão</i>
+
+370
+00:31:14,593 --> 00:31:17,596
+<i>E você em pleno ar</i>
+
+371
+00:31:17,763 --> 00:31:20,766
+<i>Que entrem os palhaços</i>
+
+372
+00:31:24,895 --> 00:31:26,689
+<i>Não é um deleite?</i>
+
+373
+00:31:28,149 --> 00:31:30,151
+<i>Você não aprova?</i>
+
+374
+00:31:31,152 --> 00:31:33,320
+<i>Um fica correndo por aí</i>
+
+375
+00:31:33,487 --> 00:31:36,323
+<i>E um não consegue se mexer</i>
+
+376
+00:31:36,490 --> 00:31:39,660
+<i>Onde estão os palhaços?</i>
+
+377
+00:31:39,827 --> 00:31:43,539
+<i>Tem que haver palhaços</i>
+
+378
+00:31:53,382 --> 00:31:56,218
+E aí, amigo, diga, qual é a graça?
+
+379
+00:31:56,385 --> 00:31:58,012
+Nenhuma.
+
+380
+00:32:02,058 --> 00:32:03,350
+Eu tenho um distúrbio.
+
+381
+00:32:04,060 --> 00:32:06,020
+Vou dizer o que você tem, idiota.
+
+382
+00:32:09,690 --> 00:32:11,108
+Por favor, parem!
+
+383
+00:32:13,152 --> 00:32:14,111
+Gosta de chutar, hein?
+
+384
+00:32:14,278 --> 00:32:16,072
+Segure-o firme.
+
+385
+00:32:18,574 --> 00:32:20,242
+Fique no chão, esquisito!
+
+386
+00:33:03,536 --> 00:33:05,454
+<i>Nona Avenida.
+Próxima parada, Hunter's Point.</i>
+
+387
+00:33:13,045 --> 00:33:14,839
+<i>Afastem-se das portas.</i>
+
+388
+00:33:51,834 --> 00:33:54,378
+Merda...
+
+389
+00:36:47,885 --> 00:36:49,845
+Li que foi um cara maquiado.
+
+390
+00:36:50,012 --> 00:36:52,473
+Não, aqui diz que era uma máscara.
+
+391
+00:36:52,640 --> 00:36:54,767
+De todo modo, é bom para os negócios.
+
+392
+00:36:54,934 --> 00:36:57,269
+Há palhaços
+na primeira página de todo jornal.
+
+393
+00:36:57,436 --> 00:36:58,646
+Grandão, e aí?
+
+394
+00:36:58,813 --> 00:36:59,814
+Oi.
+
+395
+00:37:02,942 --> 00:37:05,152
+Ei, Arthur, eu soube o que aconteceu.
+
+396
+00:37:05,319 --> 00:37:06,612
+Sinto muito, cara.
+
+397
+00:37:06,779 --> 00:37:07,780
+É.
+
+398
+00:37:08,447 --> 00:37:09,698
+Não acho justo
+
+399
+00:37:09,865 --> 00:37:11,742
+ser despedido assim.
+
+400
+00:37:12,952 --> 00:37:15,538
+Levou mesmo uma arma
+a um hospital infantil?
+
+401
+00:37:16,622 --> 00:37:18,082
+Por que você fez isso?
+
+402
+00:37:18,249 --> 00:37:19,542
+Faz parte do novo show?
+
+403
+00:37:19,709 --> 00:37:22,002
+Se a dança não der certo, você se mata?
+
+404
+00:37:23,504 --> 00:37:24,880
+Perguntem para o Randall.
+
+405
+00:37:25,881 --> 00:37:27,007
+A arma era dele.
+
+406
+00:37:27,466 --> 00:37:30,094
+-O quê?
+-Ainda tenho que pagar, não é?
+
+407
+00:37:30,261 --> 00:37:32,012
+O que você está dizendo?
+
+408
+00:37:32,555 --> 00:37:34,348
+Pare de falar merda, Art.
+
+409
+00:37:39,812 --> 00:37:40,855
+Ah, não.
+
+410
+00:37:42,606 --> 00:37:44,316
+Esqueci de bater o ponto.
+
+411
+00:37:57,038 --> 00:37:59,415
+NÃO SE ESQUEÇA, SORRIA!
+
+412
+00:38:02,752 --> 00:38:06,756
+NÃO SORRIA!
+
+413
+00:38:14,638 --> 00:38:16,891
+<i>Enquanto nossa cidade tenta entender</i>
+
+414
+00:38:17,058 --> 00:38:20,519
+<i>o brutal assassinato triplo
+no metrô na semana passada,</i>
+
+415
+00:38:20,686 --> 00:38:22,188
+<i>recebemos Thomas Wayne.</i>
+
+416
+00:38:22,354 --> 00:38:24,607
+Feliz, olhe, Thomas Wayne está na TV.
+
+417
+00:38:24,774 --> 00:38:25,941
+Sim, mãe.
+
+418
+00:38:26,108 --> 00:38:27,359
+<i>Obrigado por me receber.</i>
+
+419
+00:38:27,526 --> 00:38:30,362
+Estão perguntando
+sobre os assassinatos no metrô.
+
+420
+00:38:30,529 --> 00:38:33,616
+<i>Obrigado, Thomas.
+Sei que é um momento difícil para você.</i>
+
+421
+00:38:33,783 --> 00:38:35,451
+Por que ele?
+
+422
+00:38:35,618 --> 00:38:37,495
+Parece que ele engordou.
+
+423
+00:38:37,661 --> 00:38:39,372
+<i>Eles eram da Wayne Investments.</i>
+
+424
+00:38:40,081 --> 00:38:41,749
+<i>Bons, decentes, educados.</i>
+
+425
+00:38:41,916 --> 00:38:44,543
+<i>Embora eu não conhecesse
+nenhum pessoalmente.</i>
+
+426
+00:38:46,253 --> 00:38:50,049
+<i>Como todos nossos funcionários
+sempre foram, eles são da família.</i>
+
+427
+00:38:50,216 --> 00:38:52,218
+Ouviu isso? Falei, somos da família.
+
+428
+00:38:52,385 --> 00:38:55,721
+<i>Parece que há uma onda de aversão
+aos ricos na cidade.</i>
+
+429
+00:38:55,888 --> 00:39:00,351
+<i>É quase como se os moradores menos
+afortunados apoiassem o assassino.</i>
+
+430
+00:39:00,518 --> 00:39:02,186
+<i>Sim, e é uma pena.</i>
+
+431
+00:39:02,353 --> 00:39:04,939
+<i>Também por isso
+cogito me candidatar a prefeito.</i>
+
+432
+00:39:05,815 --> 00:39:08,025
+<i>Gotham perdeu o rumo.</i>
+
+433
+00:39:08,192 --> 00:39:12,738
+<i>E a declaração da testemunha de que
+o suspeito usava uma máscara de palhaço?</i>
+
+434
+00:39:12,905 --> 00:39:14,907
+<i>Bom, para mim faz todo sentido.</i>
+
+435
+00:39:15,074 --> 00:39:17,284
+<i>Que covarde teria tanto sangue frio?</i>
+
+436
+00:39:17,451 --> 00:39:19,286
+<i>Alguém escondido atrás de uma máscara.</i>
+
+437
+00:39:19,870 --> 00:39:24,834
+<i>Alguém que tem inveja daqueles
+que têm mais sorte do que ele.</i>
+
+438
+00:39:25,543 --> 00:39:28,337
+<i>No entanto, tem medo de mostrar a cara.</i>
+
+439
+00:39:28,504 --> 00:39:31,424
+<i>E até esse tipo de gente
+mudar para melhor,</i>
+
+440
+00:39:31,590 --> 00:39:35,177
+<i>aqueles dentre nós
+que foram bem-sucedidos na vida</i>
+
+441
+00:39:35,344 --> 00:39:37,680
+<i>sempre verão aqueles que não foram</i>
+
+442
+00:39:37,847 --> 00:39:39,974
+<i>como meros palhaços.</i>
+
+443
+00:39:41,600 --> 00:39:44,061
+<i>Thomas Wayne, obrigado pela sua presença.</i>
+
+444
+00:39:44,228 --> 00:39:45,229
+Não tem graça.
+
+445
+00:40:06,959 --> 00:40:09,211
+Ouvi uma música no rádio um dia desses,
+
+446
+00:40:12,048 --> 00:40:16,052
+e o cara estava cantando
+que o nome dele era Carnaval.
+
+447
+00:40:17,219 --> 00:40:18,304
+Arthur...
+
+448
+00:40:18,471 --> 00:40:19,638
+Foi muito louco
+
+449
+00:40:22,016 --> 00:40:25,061
+porque é meu nome de palhaço no trabalho.
+
+450
+00:40:26,145 --> 00:40:28,606
+E até bem pouco tempo atrás,
+
+451
+00:40:29,857 --> 00:40:32,359
+era como se ninguém me visse.
+
+452
+00:40:34,403 --> 00:40:36,781
+Nem eu sabia se eu realmente existia.
+
+453
+00:40:37,198 --> 00:40:39,575
+Arthur, tenho uma má notícia para você.
+
+454
+00:40:42,912 --> 00:40:44,330
+Você não me ouve, não é?
+
+455
+00:40:45,998 --> 00:40:50,002
+Acho que você nunca me escuta de verdade.
+
+456
+00:40:51,087 --> 00:40:53,881
+Você faz as mesmas perguntas toda semana.
+
+457
+00:40:54,048 --> 00:40:57,343
+"Como vai seu trabalho?
+Está tendo pensamentos negativos?"
+
+458
+00:40:58,386 --> 00:41:02,098
+Só o que eu tenho
+são pensamentos negativos,
+
+459
+00:41:02,264 --> 00:41:05,101
+mas você não me ouve mesmo.
+
+460
+00:41:05,267 --> 00:41:08,646
+Eu disse que, durante toda minha vida,
+
+461
+00:41:08,813 --> 00:41:12,024
+eu nem sabia se eu realmente existia.
+
+462
+00:41:13,234 --> 00:41:14,944
+Mas eu existo, sim.
+
+463
+00:41:16,404 --> 00:41:20,324
+E as pessoas estão começando a perceber.
+
+464
+00:41:22,076 --> 00:41:23,828
+Cortaram a nossa verba.
+
+465
+00:41:23,994 --> 00:41:25,955
+Fecharemos as portas na semana que vem.
+
+466
+00:41:27,373 --> 00:41:31,335
+A prefeitura cortou verba em todas
+as áreas, incluindo Serviço Social.
+
+467
+00:41:31,502 --> 00:41:33,546
+É a última vez que nos encontramos.
+
+468
+00:41:34,505 --> 00:41:35,673
+Tudo bem.
+
+469
+00:41:39,885 --> 00:41:41,887
+Estão se lixando para pessoas como você.
+
+470
+00:41:44,140 --> 00:41:47,601
+E estão se lixando
+para pessoas como eu também.
+
+471
+00:41:50,855 --> 00:41:52,189
+Merda.
+
+472
+00:42:00,406 --> 00:42:02,908
+Como vou conseguir meus remédios agora?
+
+473
+00:42:05,911 --> 00:42:07,496
+Com quem vou falar?
+
+474
+00:42:09,957 --> 00:42:11,751
+Eu sinto muito, Arthur.
+
+475
+00:42:15,254 --> 00:42:18,090
+<i>Para a maioria das mulheres,
+sexo é como comprar um carro.</i>
+
+476
+00:42:18,758 --> 00:42:21,177
+<i>Tipo assim: "Será que isso vai durar?"</i>
+
+477
+00:42:21,343 --> 00:42:23,345
+<i>"É seguro?"</i>
+
+478
+00:42:23,512 --> 00:42:24,972
+<i>"É confiável?"</i>
+
+479
+00:42:25,139 --> 00:42:26,432
+<i>"Pode me matar?"</i>
+
+480
+00:42:27,475 --> 00:42:29,518
+<i>Para a maioria dos homens,
+é como estacionar um carro.</i>
+
+481
+00:42:29,685 --> 00:42:32,063
+<i>Pensamos: "Tem uma vaga."</i>
+
+482
+00:42:32,229 --> 00:42:34,523
+<i>"Tem outra vaga. Essa pode ser boa."</i>
+
+483
+00:42:34,690 --> 00:42:37,193
+<i>"Ah, vou ter que pagar? Deixa pra lá."</i>
+
+484
+00:42:38,861 --> 00:42:41,614
+<i>"Para deficientes?
+Espero que ninguém veja."</i>
+
+485
+00:42:44,325 --> 00:42:46,535
+<i>Meu tempo acabou. Muito obrigado, gente.</i>
+
+486
+00:42:51,707 --> 00:42:53,876
+Outra salva de palmas para Sam Morril.
+
+487
+00:42:55,169 --> 00:42:59,173
+O próximo comediante se diz
+um morador de longa data de Gotham,
+
+488
+00:42:59,340 --> 00:43:02,843
+a quem desde bem novo disseram
+que seu objetivo na vida
+
+489
+00:43:03,010 --> 00:43:07,014
+era trazer risos e alegria
+para este mundo frio e sombrio.
+
+490
+00:43:07,598 --> 00:43:08,933
+Muito bem.
+
+491
+00:43:09,100 --> 00:43:12,478
+Uma salva de palmas
+para Arthur Fleck, gente. Arthur Fleck.
+
+492
+00:43:36,794 --> 00:43:39,338
+Olá. É bom estar aqui.
+
+493
+00:44:04,113 --> 00:44:07,074
+Eu detestava a escola quando era criança.
+
+494
+00:44:22,590 --> 00:44:26,510
+Eu detestava a escola quando era criança.
+
+495
+00:44:28,679 --> 00:44:30,347
+Minha mãe dizia:
+
+496
+00:44:30,514 --> 00:44:34,143
+"Deveria aproveitar.
+Um dia, vai ter que trabalhar para viver."
+
+497
+00:44:35,603 --> 00:44:38,606
+"Não, não vou, mãe.
+Eu vou ser comediante."
+
+498
+00:44:51,243 --> 00:44:52,370
+Tem outra.
+
+499
+00:44:53,788 --> 00:44:58,751
+Sabem, outro dia eu estava pensando:
+por que os ricos...
+
+500
+00:45:26,654 --> 00:45:29,073
+PALHAÇO ASSASSINO À SOLTA
+ÚLTIMAS NOTÍCIAS SOBRE OS ASSASSINATOS
+
+501
+00:45:39,250 --> 00:45:40,584
+Acredita nessa merda?
+
+502
+00:45:41,335 --> 00:45:42,336
+PALHAÇO JUSTICEIRO?
+
+503
+00:45:42,503 --> 00:45:43,337
+Danem-se.
+
+504
+00:45:45,464 --> 00:45:48,092
+Acho que o cara que fez isso é um herói.
+
+505
+00:45:50,261 --> 00:45:52,096
+Três canalhas a menos em Gotham City.
+
+506
+00:45:52,555 --> 00:45:54,473
+Agora só falta um milhão.
+
+507
+00:46:26,338 --> 00:46:28,924
+<i>E, amigo, como sempre,
+obrigado pelas risadas.</i>
+
+508
+00:46:29,091 --> 00:46:30,593
+<i>Sei que te veremos de novo.</i>
+
+509
+00:46:30,760 --> 00:46:32,470
+<i>Nós estaremos aqui. Espero.</i>
+
+510
+00:46:33,429 --> 00:46:37,099
+<i>Amanhã à noite,
+teremos Diana Hudson, Greg Gordon</i>
+
+511
+00:46:37,266 --> 00:46:40,061
+<i>e o perito em animais, Hugh Little.</i>
+
+512
+00:46:40,728 --> 00:46:42,021
+<i>Obrigado pela audiência.</i>
+
+513
+00:46:42,188 --> 00:46:44,482
+<i>Boa noite e lembrem-se sempre,</i>
+
+514
+00:46:44,648 --> 00:46:46,025
+<i>é a vida.</i>
+
+515
+00:46:50,362 --> 00:46:51,530
+É a vida.
+
+516
+00:46:56,369 --> 00:46:59,747
+Mãe, é hora de acordar e ir para a cama.
+
+517
+00:47:03,209 --> 00:47:04,668
+Ah, Feliz.
+
+518
+00:47:07,505 --> 00:47:09,173
+Feliz, escrevi outra carta.
+
+519
+00:47:09,340 --> 00:47:11,050
+Vamos, dance comigo.
+
+520
+00:47:12,051 --> 00:47:14,428
+Para Thomas Wayne. É importante.
+
+521
+00:47:23,354 --> 00:47:25,064
+Está cheirando a perfume.
+
+522
+00:47:25,231 --> 00:47:27,691
+É porque eu tive um encontro importante.
+
+523
+00:47:32,363 --> 00:47:34,115
+Só não esqueça de postar.
+
+524
+00:47:59,932 --> 00:48:03,060
+<i>O Murray Franklin Show
+é gravado ao vivo com a plateia</i>
+
+525
+00:48:03,227 --> 00:48:05,354
+<i>no belo centro de Gotham City.</i>
+
+526
+00:48:29,962 --> 00:48:35,134
+Seu filho e eu precisamos da sua ajuda.
+
+527
+00:48:41,849 --> 00:48:45,019
+Thomas, você é a única esperança
+para mim e seu filho.
+
+528
+00:48:53,652 --> 00:48:56,030
+Eu te amo para sempre, Penny Fleck
+
+529
+00:49:07,708 --> 00:49:10,294
+Você vai me matar. Vai me fazer enfartar.
+
+530
+00:49:10,461 --> 00:49:11,629
+Não me venha...
+
+531
+00:49:11,796 --> 00:49:13,631
+Não.
+
+532
+00:49:13,798 --> 00:49:16,759
+Não vou falar com você
+até que pare de ficar bravo!
+
+533
+00:49:16,926 --> 00:49:18,094
+Tá bom.
+
+534
+00:49:24,058 --> 00:49:26,185
+Não estou bravo, mãe.
+
+535
+00:49:26,352 --> 00:49:28,687
+Não estou bravo.
+
+536
+00:49:28,854 --> 00:49:30,064
+Por favor.
+
+537
+00:49:31,107 --> 00:49:33,859
+Mãe, isso é verdade?
+
+538
+00:49:37,530 --> 00:49:40,741
+Ele é um homem extraordinário, Feliz.
+
+539
+00:49:40,908 --> 00:49:43,244
+É um homem muito poderoso.
+
+540
+00:49:44,787 --> 00:49:46,747
+Nós nos apaixonamos.
+
+541
+00:49:47,623 --> 00:49:51,752
+Ele disse que era melhor não ficarmos
+juntos por causa das aparências.
+
+542
+00:49:54,213 --> 00:49:57,591
+E eu nunca pude contar
+para ninguém porque...
+
+543
+00:50:00,136 --> 00:50:01,595
+Bom, eu assinei uns papéis.
+
+544
+00:50:03,431 --> 00:50:08,519
+Além disso, pode imaginar o que as pessoas
+diriam sobre o Thomas e sobre mim.
+
+545
+00:50:11,230 --> 00:50:12,606
+O que diriam sobre você.
+
+546
+00:50:16,819 --> 00:50:18,738
+O que elas diriam, mãe?
+
+547
+00:50:31,459 --> 00:50:35,463
+PALHAÇO JUSTICEIRO
+AINDA À SOLTA
+
+548
+00:50:36,464 --> 00:50:37,923
+THOMAS WAYNE ANUNCIA CANDIDATURA
+
+549
+00:50:38,090 --> 00:50:40,426
+GOTHAM CITY AGUARDA O FUTURO
+COM INÍCIO DA CAMPANHA
+
+550
+00:52:51,974 --> 00:52:53,017
+Oi.
+
+551
+00:52:55,978 --> 00:52:57,354
+Qual é seu nome?
+
+552
+00:52:58,606 --> 00:53:00,232
+É Bruce.
+
+553
+00:53:01,317 --> 00:53:02,485
+Bruce.
+
+554
+00:53:04,445 --> 00:53:05,696
+O meu é Arthur.
+
+555
+00:53:27,676 --> 00:53:29,053
+Assim está melhor.
+
+556
+00:53:29,970 --> 00:53:31,555
+Bruce!
+
+557
+00:53:33,057 --> 00:53:34,225
+Saia de perto dele.
+
+558
+00:53:34,392 --> 00:53:36,519
+Está tudo bem. Sou um cara legal.
+
+559
+00:53:36,685 --> 00:53:37,937
+Quem é você?
+
+560
+00:53:38,562 --> 00:53:40,231
+Vim falar com o Sr. Wayne.
+
+561
+00:53:40,398 --> 00:53:42,900
+Não deveria estar falando
+com o filho dele.
+
+562
+00:53:44,318 --> 00:53:45,486
+Por que deu flores para ele?
+
+563
+00:53:45,653 --> 00:53:46,862
+Não são de verdade.
+
+564
+00:53:48,614 --> 00:53:50,658
+É mágica.
+
+565
+00:53:51,117 --> 00:53:52,535
+Só quis fazê-lo sorrir.
+
+566
+00:53:52,702 --> 00:53:54,537
+Bem, isso não tem graça.
+
+567
+00:53:55,538 --> 00:53:56,747
+Devo chamar a polícia?
+
+568
+00:53:56,914 --> 00:53:58,332
+Não. Por favor.
+
+569
+00:53:59,625 --> 00:54:02,837
+O nome da minha mãe é Penny. Penny Fleck.
+
+570
+00:54:03,003 --> 00:54:04,088
+Trabalhou aqui anos atrás.
+
+571
+00:54:04,255 --> 00:54:06,340
+Diga ao Sr. Wayne
+que preciso falar com ele.
+
+572
+00:54:07,508 --> 00:54:08,968
+Você é filho dela.
+
+573
+00:54:09,135 --> 00:54:10,136
+Sim.
+
+574
+00:54:10,803 --> 00:54:12,513
+Você a conheceu?
+
+575
+00:54:16,142 --> 00:54:18,477
+Eu sei sobre eles dois.
+
+576
+00:54:19,061 --> 00:54:21,480
+Ela me contou tudo.
+
+577
+00:54:23,357 --> 00:54:25,151
+Não há o que saber.
+
+578
+00:54:26,277 --> 00:54:28,070
+Não existe "eles".
+
+579
+00:54:29,029 --> 00:54:31,198
+Sua mãe era paranoica.
+
+580
+00:54:32,116 --> 00:54:33,200
+Ela era doente.
+
+581
+00:54:33,367 --> 00:54:35,411
+Não diga isso.
+
+582
+00:54:36,579 --> 00:54:37,997
+Vá embora.
+
+583
+00:54:39,248 --> 00:54:41,500
+Antes que faça papel de bobo.
+
+584
+00:54:43,169 --> 00:54:45,838
+Thomas Wayne é meu pai.
+
+585
+00:54:50,885 --> 00:54:51,886
+Ele me abandonou.
+
+586
+00:54:54,722 --> 00:54:56,015
+Solte-me!
+
+587
+00:55:22,375 --> 00:55:24,210
+Mantenha a respiração acima de 15.
+
+588
+00:55:24,377 --> 00:55:26,545
+Devagar e firme. Tem uma escada à frente.
+
+589
+00:55:27,797 --> 00:55:29,006
+Mãe?
+
+590
+00:55:29,840 --> 00:55:30,841
+O que aconteceu?
+
+591
+00:55:31,008 --> 00:55:32,676
+-Quem é você?
+-Sou filho dela.
+
+592
+00:55:32,843 --> 00:55:33,677
+O que aconteceu?
+
+593
+00:55:33,844 --> 00:55:35,679
+Ainda não sabemos o que aconteceu.
+
+594
+00:55:35,846 --> 00:55:37,681
+-Suba na ambulância.
+-Degrau.
+
+595
+00:55:37,848 --> 00:55:39,100
+De novo. Levantem.
+
+596
+00:55:39,683 --> 00:55:41,477
+Está um pouco complicado aqui.
+
+597
+00:55:44,230 --> 00:55:45,231
+Levantem.
+
+598
+00:55:50,778 --> 00:55:52,113
+Estou aqui.
+
+599
+00:55:52,488 --> 00:55:53,697
+Com licença.
+
+600
+00:55:53,948 --> 00:55:55,991
+-Sua mãe toma algum remédio?
+-Não.
+
+601
+00:55:56,158 --> 00:55:57,201
+-Não ouvi.
+-Não.
+
+602
+00:55:57,368 --> 00:55:59,912
+-Quando se falaram pela última vez?
+-Não sei.
+
+603
+00:56:18,472 --> 00:56:20,516
+PRONTO-SOCORRO
+
+604
+00:56:45,124 --> 00:56:46,333
+Sr. Fleck.
+
+605
+00:56:47,710 --> 00:56:52,048
+Desculpe incomodar. Sou o detetive
+Garrity. Este é meu parceiro, Burke.
+
+606
+00:56:52,465 --> 00:56:55,134
+Tínhamos algumas perguntas,
+mas como não estava,
+
+607
+00:56:56,635 --> 00:56:58,137
+falamos com sua mãe.
+
+608
+00:57:02,058 --> 00:57:03,476
+O que disseram a ela?
+
+609
+00:57:03,642 --> 00:57:04,643
+Vocês causaram isto?
+
+610
+00:57:04,810 --> 00:57:05,811
+O quê? Não.
+
+611
+00:57:05,978 --> 00:57:08,439
+Não. Só fizemos umas perguntas,
+
+612
+00:57:08,606 --> 00:57:10,107
+e ela ficou histérica.
+
+613
+00:57:10,274 --> 00:57:12,026
+Hiperventilou,
+
+614
+00:57:12,193 --> 00:57:13,319
+desmaiou e bateu a cabeça.
+
+615
+00:57:13,486 --> 00:57:15,613
+O médico disse que ela teve um derrame.
+
+616
+00:57:16,238 --> 00:57:18,074
+Nós sentimos muito.
+
+617
+00:57:18,949 --> 00:57:21,786
+Mas, como eu disse,
+ainda tenho umas perguntas.
+
+618
+00:57:21,952 --> 00:57:24,330
+São sobre os assassinatos no metrô.
+
+619
+00:57:24,497 --> 00:57:25,790
+Ouviu falar deles, não?
+
+620
+00:57:25,956 --> 00:57:27,041
+Sim.
+
+621
+00:57:27,208 --> 00:57:28,209
+Isso é horrível.
+
+622
+00:57:28,376 --> 00:57:29,585
+Exato.
+
+623
+00:57:30,544 --> 00:57:33,672
+Então fomos falar
+com seu chefe lá no Haha's.
+
+624
+00:57:33,839 --> 00:57:37,426
+Ele disse que foi despedido
+por levar uma arma ao hospital infantil.
+
+625
+00:57:38,928 --> 00:57:40,930
+-É verdade?
+-Era só um adereço.
+
+626
+00:57:41,097 --> 00:57:42,640
+Faz parte do show.
+
+627
+00:57:43,057 --> 00:57:44,392
+Sou palhaço de festa.
+
+628
+00:57:44,558 --> 00:57:46,477
+Tudo bem. E por que foi despedido?
+
+629
+00:57:49,772 --> 00:57:52,316
+Disseram que eu não era engraçado.
+
+630
+00:57:52,483 --> 00:57:54,443
+Dá para acreditar?
+
+631
+00:57:54,610 --> 00:57:58,447
+Se não se importam,
+preciso ir cuidar da minha mãe.
+
+632
+00:57:58,614 --> 00:58:00,866
+Seu chefe nos deu um dos seus cartões.
+
+633
+00:58:03,077 --> 00:58:05,413
+Esse seu distúrbio, as risadas...
+
+634
+00:58:06,163 --> 00:58:07,498
+isso é de verdade
+
+635
+00:58:07,665 --> 00:58:09,500
+ou é coisa de palhaço?
+
+636
+00:58:10,042 --> 00:58:12,545
+-Coisa de palhaço?
+-É.
+
+637
+00:58:12,962 --> 00:58:15,256
+Digo, faz parte do seu show?
+
+638
+00:58:17,842 --> 00:58:19,176
+O que você acha?
+
+639
+00:58:25,099 --> 00:58:26,183
+Aí é a saída.
+
+640
+00:58:50,666 --> 00:58:52,668
+Ela vai ficar boa.
+
+641
+00:58:57,131 --> 00:58:58,841
+Vou pegar um café.
+
+642
+00:58:59,550 --> 00:59:00,551
+Você quer um?
+
+643
+00:59:00,718 --> 00:59:01,719
+Quero.
+
+644
+00:59:14,857 --> 00:59:17,818
+<i>Uma noite dessas,
+falei para meu filho mais novo, Billy,</i>
+
+645
+00:59:17,985 --> 00:59:20,446
+<i>o mais novo, o que não é tão inteligente,</i>
+
+646
+00:59:21,280 --> 00:59:24,116
+<i>eu disse a ele:
+"A greve do lixo continua, Billy."</i>
+
+647
+00:59:24,325 --> 00:59:28,245
+<i>E, não estou brincando, Billy disse:
+"Onde conseguiremos nosso lixo?"</i>
+
+648
+00:59:35,878 --> 00:59:39,757
+<i>Por fim, num mundo onde todos acham
+que podem fazer meu trabalho,</i>
+
+649
+00:59:39,924 --> 00:59:43,344
+<i>recebemos este vídeo
+de um Clube de Comédia aqui de Gotham.</i>
+
+650
+00:59:43,511 --> 00:59:45,429
+<i>O cara acha que, se você não parar de rir,</i>
+
+651
+00:59:45,596 --> 00:59:47,848
+<i>isso vai tornar você engraçado.</i>
+
+652
+00:59:48,015 --> 00:59:49,809
+<i>Olhem só este coringa.</i>
+
+653
+00:59:54,480 --> 00:59:55,314
+Ai, meu Deus.
+
+654
+00:59:55,481 --> 00:59:59,151
+<i>Eu detestava a escola quando era criança.</i>
+
+655
+01:00:00,027 --> 01:00:03,072
+<i>Mas minha mãe sempre dizia:</i>
+
+656
+01:00:03,239 --> 01:00:07,034
+<i>"Deveria aproveitar.
+Um dia, vai ter que trabalhar para viver."</i>
+
+657
+01:00:07,827 --> 01:00:11,038
+<i>"Não, não vou, mãe.
+Eu vou ser comediante."</i>
+
+658
+01:00:17,837 --> 01:00:19,463
+<i>Deveria ter ouvido sua mãe.</i>
+
+659
+01:00:21,716 --> 01:00:23,300
+<i>Mais um. Mais um, Bobby.</i>
+
+660
+01:00:23,467 --> 01:00:25,886
+<i>Vamos ver mais um. Eu adoro este cara.</i>
+
+661
+01:00:26,721 --> 01:00:27,722
+<i>É engraçado.</i>
+
+662
+01:00:28,597 --> 01:00:30,725
+<i>Quando eu era criança</i>
+
+663
+01:00:30,891 --> 01:00:33,728
+<i>e dizia às pessoas
+que eu ia ser comediante,</i>
+
+664
+01:00:33,894 --> 01:00:35,938
+<i>todo mundo ria de mim.</i>
+
+665
+01:00:36,105 --> 01:00:38,899
+<i>Bem, ninguém está rindo agora.</i>
+
+666
+01:00:42,403 --> 01:00:44,280
+<i>Com toda certeza, amigo.</i>
+
+667
+01:00:50,077 --> 01:00:52,913
+<i>Muito bem, o programa
+desta noite vai ser ótimo.</i>
+
+668
+01:00:53,080 --> 01:00:56,250
+<i>Estarão conosco Chuck Conby,
+a atriz Joanne Mulligan,</i>
+
+669
+01:00:56,417 --> 01:01:00,254
+<i>e teremos a música nova
+de Mel Rubin e The Stiffs.</i>
+
+670
+01:01:00,796 --> 01:01:02,548
+MATEM OS RICOS
+UM NOVO MOVIMENTO?
+
+671
+01:01:06,218 --> 01:01:08,763
+<i>As tensões aumentaram
+na área metropolitana,</i>
+
+672
+01:01:08,929 --> 01:01:12,516
+<i>e o prefeito Stokes suplicou
+que as pessoas se acalmem.</i>
+
+673
+01:01:12,683 --> 01:01:14,268
+<i>Os serviços públicos foram afetados,</i>
+
+674
+01:01:14,435 --> 01:01:19,315
+<i>e alguns estabelecimentos decidiram
+não abrir devido ao estado de tensão.</i>
+
+675
+01:01:19,482 --> 01:01:22,068
+<i>A reportagem é de Chuck Stevens.</i>
+
+676
+01:01:22,234 --> 01:01:24,779
+<i>O rancor que toma corpo
+na cidade há semanas</i>
+
+677
+01:01:24,945 --> 01:01:26,947
+<i>parece estar a ponto de explodir.</i>
+
+678
+01:01:27,114 --> 01:01:30,368
+<i>Manifestantes, muitos vestidos
+de palhaços, foram às ruas</i>
+
+679
+01:01:30,576 --> 01:01:33,996
+<i>em uma das muitas passeatas
+contra as elites da cidade,</i>
+
+680
+01:01:34,163 --> 01:01:38,417
+<i>incluindo o protesto marcado para amanhã
+à noite em frente ao Wayne Hall.</i>
+
+681
+01:01:38,584 --> 01:01:39,710
+<i>Qual o objetivo disso?</i>
+
+682
+01:01:40,252 --> 01:01:43,714
+<i>Os ricos. Thomas Wayne.
+É contra isso esta manifestação.</i>
+
+683
+01:01:43,881 --> 01:01:45,758
+<i>Contra todo o sistema.</i>
+
+684
+01:01:45,925 --> 01:01:48,302
+<i>Wayne, que anunciou ser
+candidato a prefeito,</i>
+
+685
+01:01:48,469 --> 01:01:50,179
+<i>estará no evento beneficente.</i>
+
+686
+01:01:50,346 --> 01:01:52,348
+<i>É bom lembrar que foi Thomas Wayne</i>
+
+687
+01:01:52,515 --> 01:01:56,769
+<i>o primeiro a chamar muitos
+dos cidadãos de Gotham de palhaços.</i>
+
+688
+01:01:56,977 --> 01:01:57,812
+WAYNE = FASCISTA
+
+689
+01:01:57,895 --> 01:01:59,939
+<i>Hoje, seu discurso não foi
+um pedido de desculpas.</i>
+
+690
+01:02:00,106 --> 01:02:03,734
+<i>Tem algo de errado com essas pessoas.
+Estou aqui para ajudá-las.</i>
+
+691
+01:02:03,901 --> 01:02:06,695
+<i>Vou tirá-las da pobreza,
+melhorar a vida delas.</i>
+
+692
+01:02:06,862 --> 01:02:08,030
+<i>Por isso me candidatei.</i>
+
+693
+01:02:08,197 --> 01:02:10,950
+<i>Elas não veem,
+mas sou a única esperança delas.</i>
+
+694
+01:02:17,540 --> 01:02:19,166
+SOMOS TODOS PALHAÇOS
+
+695
+01:02:19,667 --> 01:02:21,419
+MATEM OS RICOS
+
+696
+01:02:21,585 --> 01:02:22,420
+FODA-SE
+WAYNE
+
+697
+01:02:26,757 --> 01:02:28,801
+Abaixo Wayne!
+
+698
+01:02:28,968 --> 01:02:29,969
+PALHAÇO PARA PREFEITO
+
+699
+01:02:30,136 --> 01:02:32,304
+Abaixo Wayne!
+
+700
+01:03:05,129 --> 01:03:06,589
+SOMENTE FUNCIONÁRIOS
+
+701
+01:03:50,925 --> 01:03:52,468
+PERIGO
+
+702
+01:05:12,882 --> 01:05:13,966
+Posso te ajudar?
+
+703
+01:05:16,218 --> 01:05:17,887
+Eu não sei o que dizer.
+
+704
+01:05:21,515 --> 01:05:23,726
+Quer um autógrafo ou algo assim?
+
+705
+01:05:23,893 --> 01:05:24,894
+Não.
+
+706
+01:05:31,025 --> 01:05:32,568
+Meu nome é Arthur.
+
+707
+01:05:34,153 --> 01:05:35,780
+Penny Fleck é minha mãe.
+
+708
+01:05:37,156 --> 01:05:38,157
+Meu Deus.
+
+709
+01:05:39,241 --> 01:05:40,868
+Você foi à minha casa ontem.
+
+710
+01:05:42,495 --> 01:05:43,496
+Sim.
+
+711
+01:05:44,288 --> 01:05:46,165
+Desculpe não ter avisado.
+
+712
+01:05:46,332 --> 01:05:49,543
+Mas minha mãe me contou tudo,
+e eu precisava conversar.
+
+713
+01:05:49,710 --> 01:05:51,629
+Olhe, amigo, eu não sou seu pai.
+
+714
+01:05:52,254 --> 01:05:53,714
+Qual é seu problema?
+
+715
+01:05:55,383 --> 01:05:56,926
+Olhe para nós.
+
+716
+01:05:58,427 --> 01:05:59,678
+Eu acho que é.
+
+717
+01:05:59,845 --> 01:06:01,055
+Isso é impossível.
+
+718
+01:06:02,056 --> 01:06:04,058
+Você é adotado, e nunca dormi com sua mãe.
+
+719
+01:06:04,225 --> 01:06:06,060
+-Não fui adotado.
+-O que quer, dinheiro?
+
+720
+01:06:06,227 --> 01:06:08,437
+Não, eu não... não fui adotado.
+
+721
+01:06:08,604 --> 01:06:10,398
+Meu Deus. Ela nunca te contou?
+
+722
+01:06:10,564 --> 01:06:12,233
+Contou o quê?
+
+723
+01:06:13,567 --> 01:06:15,403
+Adotou você quando trabalhava para nós.
+
+724
+01:06:15,569 --> 01:06:16,779
+Não é verdade.
+
+725
+01:06:17,321 --> 01:06:18,322
+Por que diz isso?
+
+726
+01:06:18,489 --> 01:06:20,741
+Depois, foi presa
+e internada no Asilo Arkham
+
+727
+01:06:20,908 --> 01:06:22,284
+quando você era pequeno.
+
+728
+01:06:22,451 --> 01:06:23,577
+Por que diz isso?
+
+729
+01:06:23,744 --> 01:06:25,246
+Não quero ouvir mentiras.
+
+730
+01:06:25,413 --> 01:06:28,457
+Sei que parece estranho.
+Não quero causar incômodo.
+
+731
+01:06:28,624 --> 01:06:30,209
+Por que todo mundo é rude?
+
+732
+01:06:30,376 --> 01:06:31,585
+Por que você é rude?
+
+733
+01:06:31,752 --> 01:06:33,087
+Não quero nada de você.
+
+734
+01:06:33,254 --> 01:06:35,631
+Talvez um pouco de afeto, um abraço, pai!
+
+735
+01:06:35,798 --> 01:06:37,800
+Que tal um pouco de decência?
+
+736
+01:06:37,967 --> 01:06:39,343
+O que há com vocês?
+
+737
+01:06:39,510 --> 01:06:41,470
+Falam essas coisas da minha mãe.
+
+738
+01:06:41,637 --> 01:06:43,013
+Ela é louca.
+
+739
+01:06:52,773 --> 01:06:54,150
+Acha isso engraçado?
+
+740
+01:06:55,776 --> 01:06:58,946
+Pai, sou eu. Por favor!
+
+741
+01:07:01,657 --> 01:07:04,285
+Se encostar no meu filho de novo,
+eu te mato.
+
+742
+01:07:24,221 --> 01:07:27,016
+<i>Olá, Sr. Fleck. Aqui é o detetive Garrity.</i>
+
+743
+01:07:27,183 --> 01:07:29,518
+<i>Nós nos vimos na outra noite no hospital.</i>
+
+744
+01:07:29,685 --> 01:07:31,979
+<i>Meu parceiro
+e eu temos mais umas perguntas.</i>
+
+745
+01:07:32,146 --> 01:07:35,066
+<i>Fomos ao seu apartamento,
+mas você não estava.</i>
+
+746
+01:07:35,232 --> 01:07:36,984
+<i>Ligue-me ao ouvir a mensagem.</i>
+
+747
+01:07:37,151 --> 01:07:39,070
+<i>De novo, detetive Garrity,</i>
+
+748
+01:07:39,236 --> 01:07:43,240
+<i>e meu número é 212... 99.</i>
+
+749
+01:08:26,283 --> 01:08:28,119
+<i>Esta mensagem é para Arthur Fleck.</i>
+
+750
+01:08:28,285 --> 01:08:32,248
+<i>Meu nome é Shirley Woods.
+Trabalho no programa do Murray Franklin.</i>
+
+751
+01:08:32,415 --> 01:08:33,416
+<i>Não sei se sabe,</i>
+
+752
+01:08:33,582 --> 01:08:36,252
+<i>mas Murray passou um trecho
+do seu </i>stand-up,
+
+753
+01:08:36,419 --> 01:08:39,714
+<i>e tivemos uma resposta incrível
+dos nossos espectadores.</i>
+
+754
+01:08:39,880 --> 01:08:42,091
+<i>Murray me pediu para te ligar e ver...</i>
+
+755
+01:08:46,512 --> 01:08:47,847
+Quem está falando?
+
+756
+01:08:48,013 --> 01:08:49,640
+<i>Oi. Aqui é Shirley Woods.</i>
+
+757
+01:08:49,807 --> 01:08:52,601
+<i>Sou produtora do
+</i>Ao Vivo com Murray Franklin.
+
+758
+01:08:52,768 --> 01:08:53,811
+<i>É o Arthur?</i>
+
+759
+01:08:55,813 --> 01:08:56,814
+Sim.
+
+760
+01:08:56,981 --> 01:09:01,026
+<i>Oi, Arthur. Como eu dizia, recebemos
+muitas ligações por causa do vídeo.</i>
+
+761
+01:09:01,193 --> 01:09:02,903
+<i>Respostas incríveis.</i>
+
+762
+01:09:03,070 --> 01:09:07,074
+<i>E Murray quer saber se aceita vir
+ao programa como convidado dele.</i>
+
+763
+01:09:12,371 --> 01:09:15,499
+Murray quer que eu participe
+do programa dele?
+
+764
+01:09:15,666 --> 01:09:17,251
+<i>Sim. Não é legal?</i>
+
+765
+01:09:17,418 --> 01:09:20,296
+<i>Quer conversar.
+Quem sabe você faz uma apresentação?</i>
+
+766
+01:09:21,297 --> 01:09:23,466
+<i>Você acha essa ideia boa?</i>
+
+767
+01:09:27,803 --> 01:09:29,847
+Sim, é uma ótima ideia.
+
+768
+01:09:30,014 --> 01:09:33,642
+<i>Podemos já marcar a data?
+Estará disponível na próxima quinta?</i>
+
+769
+01:09:50,451 --> 01:09:52,578
+ASILO ARKHAM
+
+770
+01:10:26,362 --> 01:10:27,363
+Ei.
+
+771
+01:10:28,614 --> 01:10:31,158
+Eu sinto muito, meu amigo.
+
+772
+01:10:31,325 --> 01:10:33,452
+Os prontuários com dez anos
+ou mais ficam no porão,
+
+773
+01:10:33,619 --> 01:10:36,622
+e você está falando
+de 30 anos atrás, então...
+
+774
+01:10:37,998 --> 01:10:39,959
+Posso te fazer uma pergunta?
+
+775
+01:10:40,126 --> 01:10:41,335
+Claro.
+
+776
+01:10:41,919 --> 01:10:45,840
+Como uma pessoa vem parar aqui?
+
+777
+01:10:46,924 --> 01:10:50,428
+Todos eles... todos que estão aqui
+cometeram crimes?
+
+778
+01:10:51,053 --> 01:10:52,722
+Bom, alguns cometeram.
+
+779
+01:10:52,888 --> 01:10:55,766
+Alguns são somente loucos.
+
+780
+01:10:55,933 --> 01:10:58,394
+Constituem um risco
+para si mesmos e para os outros.
+
+781
+01:10:58,561 --> 01:11:02,314
+Alguns só não têm para onde ir.
+Não sabem o que fazer, entende?
+
+782
+01:11:02,481 --> 01:11:05,359
+Sim, eu entendo, irmão.
+
+783
+01:11:06,235 --> 01:11:09,071
+Às vezes, eu não sei o que fazer.
+
+784
+01:11:10,614 --> 01:11:13,284
+Da última vez,
+acabei descontando numas pessoas.
+
+785
+01:11:14,744 --> 01:11:18,372
+Eu achei que ia ficar incomodado
+com isso, mas não fiquei.
+
+786
+01:11:19,707 --> 01:11:20,708
+Como assim?
+
+787
+01:11:22,251 --> 01:11:25,755
+Eu me descontrolei e fiz uma coisa feia.
+
+788
+01:11:29,550 --> 01:11:30,593
+Sabe como é.
+
+789
+01:11:30,760 --> 01:11:36,098
+É muito difícil tentar ser...
+feliz o tempo inteiro.
+
+790
+01:11:38,184 --> 01:11:39,894
+Ei, escuta, cara.
+
+791
+01:11:40,895 --> 01:11:43,939
+Sou só assistente administrativo.
+Tipo balconista.
+
+792
+01:11:44,106 --> 01:11:45,691
+Só arquivo a papelada.
+
+793
+01:11:46,817 --> 01:11:48,527
+Não sei o que te dizer.
+
+794
+01:11:48,694 --> 01:11:50,488
+Mas você deveria se consultar.
+
+795
+01:11:50,654 --> 01:11:54,533
+Eles têm programas,
+serviço social, esse tipo de coisa.
+
+796
+01:11:54,700 --> 01:11:57,620
+Ah, sim. Eles cortaram tudo.
+
+797
+01:12:02,792 --> 01:12:04,794
+Pronto, aqui está. Fleck.
+
+798
+01:12:04,960 --> 01:12:06,879
+Penny Fleck. Vamos ver.
+
+799
+01:12:07,797 --> 01:12:11,384
+Diagnosticada pelo Dr. Benjamin Stoner.
+
+800
+01:12:13,260 --> 01:12:16,972
+"A paciente sofre de psicose delirante
+
+801
+01:12:17,139 --> 01:12:19,517
+e distúrbio de personalidade narcisista.
+
+802
+01:12:21,185 --> 01:12:26,399
+Foi considerada culpada por pôr
+em risco o bem-estar do próprio filho."
+
+803
+01:12:34,698 --> 01:12:35,700
+O que foi?
+
+804
+01:12:39,120 --> 01:12:40,579
+Disse que ela é sua mãe.
+
+805
+01:12:46,877 --> 01:12:49,255
+Lamento. Eu não posso liberar os laudos
+
+806
+01:12:49,422 --> 01:12:52,174
+sem os formulários adequados.
+
+807
+01:12:52,633 --> 01:12:54,301
+Eu posso ter problemas.
+
+808
+01:12:55,094 --> 01:12:57,138
+Se trouxer sua mãe para assinar,
+
+809
+01:12:57,304 --> 01:12:58,305
+será mais fácil.
+
+810
+01:12:58,472 --> 01:13:01,517
+Eu não posso liberar
+sem a assinatura dela, tá bom?
+
+811
+01:13:01,684 --> 01:13:02,685
+Sinto muito.
+
+812
+01:13:06,856 --> 01:13:09,066
+Não, cara! Merda!
+
+813
+01:13:09,650 --> 01:13:11,527
+Qual é, cara, devolva...
+
+814
+01:13:12,445 --> 01:13:14,739
+Ei!
+
+815
+01:13:41,348 --> 01:13:43,309
+SECRETARIA DE SAÚDE DE GOTHAM
+
+816
+01:13:43,476 --> 01:13:45,603
+PEDIDO DE PROTEÇÃO
+PARA RELATÓRIOS DE ABUSO
+
+817
+01:13:45,770 --> 01:13:47,813
+DEPARTAMENTO DE SAÚDE
+DIVISÃO PSIQUIÁTRICA
+
+818
+01:13:47,980 --> 01:13:50,149
+AVALIAÇÃO: PENNY FLECK
+
+819
+01:13:54,737 --> 01:13:57,073
+COMPORTAMENTO EXTREMAMENTE BIZARRO
+
+820
+01:13:57,239 --> 01:13:58,824
+ABUSO FÍSICO.
+
+821
+01:14:05,956 --> 01:14:09,210
+PEDIDO DE ADOÇÃO DE CRIANÇA
+
+822
+01:14:12,922 --> 01:14:15,758
+<i>Já discutimos isso, Penny. Você o adotou.</i>
+
+823
+01:14:15,841 --> 01:14:16,675
+DESCONHECIDO (CRIANÇA ABANDONADA)
+
+824
+01:14:16,759 --> 01:14:17,968
+<i>Temos toda a papelada aqui.</i>
+
+825
+01:14:18,052 --> 01:14:18,969
+NOME COMPLETO DE CADA CRIANÇA
+DESCONHECIDO
+
+826
+01:14:19,053 --> 01:14:21,263
+<i>Isso não é verdade.</i>
+
+827
+01:14:21,430 --> 01:14:23,682
+Thomas inventou isso tudo,
+
+828
+01:14:23,849 --> 01:14:26,477
+então ficou sendo nosso segredo.
+
+829
+01:14:28,396 --> 01:14:30,815
+<i>Você também não fez nada</i>
+
+830
+01:14:31,440 --> 01:14:36,320
+enquanto um de seus namorados
+batia repetidamente no seu filho adotivo
+
+831
+01:14:37,696 --> 01:14:38,697
+e espancava você.
+
+832
+01:14:46,163 --> 01:14:48,708
+MÃE PERMITIU MAUS-TRATOS
+AO FILHO ADOTIVO
+
+833
+01:14:48,874 --> 01:14:51,919
+CASA DO TERROR
+PARA UMA MÃE E SEU FILHO
+
+834
+01:14:58,467 --> 01:15:00,052
+Penny,
+
+835
+01:15:00,636 --> 01:15:04,265
+seu filho foi encontrado
+amarrado a um radiador
+
+836
+01:15:04,432 --> 01:15:06,851
+no seu apartamento imundo.
+
+837
+01:15:07,017 --> 01:15:09,520
+Malnutrido, com múltiplas escoriações
+pelo corpo
+
+838
+01:15:09,687 --> 01:15:11,689
+e trauma severo na cabeça.
+
+839
+01:15:13,858 --> 01:15:15,568
+Eu nunca o ouvi chorar.
+
+840
+01:15:16,485 --> 01:15:19,947
+Ele sempre foi um garotinho tão feliz.
+
+841
+01:17:21,026 --> 01:17:22,445
+É hora de ir para a cama.
+
+842
+01:17:25,948 --> 01:17:26,949
+Meu Deus!
+
+843
+01:17:27,908 --> 01:17:29,660
+O que está fazendo aqui?
+
+844
+01:17:32,121 --> 01:17:33,998
+Está no apartamento errado.
+
+845
+01:17:40,629 --> 01:17:42,339
+Seu nome é Arthur, certo?
+
+846
+01:17:42,965 --> 01:17:44,175
+Mora no fim do corredor.
+
+847
+01:17:47,386 --> 01:17:49,180
+Você precisa sair daqui.
+
+848
+01:17:53,476 --> 01:17:56,437
+Minha filhinha
+está dormindo no outro quarto.
+
+849
+01:18:01,567 --> 01:18:02,651
+Por favor.
+
+850
+01:18:05,321 --> 01:18:07,573
+Eu tive um dia péssimo.
+
+851
+01:18:10,409 --> 01:18:12,912
+Quer que eu chame alguém?
+Sua mãe está em casa?
+
+852
+01:19:39,832 --> 01:19:40,875
+Cale a boca!
+
+853
+01:20:00,061 --> 01:20:01,479
+Oi, Penny.
+
+854
+01:20:03,939 --> 01:20:05,274
+Penny Fleck.
+
+855
+01:20:13,449 --> 01:20:15,284
+Eu sempre detestei esse nome.
+
+856
+01:20:18,913 --> 01:20:20,831
+Lembra como você dizia
+
+857
+01:20:22,875 --> 01:20:25,503
+que minha risada era um distúrbio?
+
+858
+01:20:27,046 --> 01:20:29,131
+Que tinha algo de errado comigo?
+
+859
+01:20:32,218 --> 01:20:33,427
+Não tem.
+
+860
+01:20:36,305 --> 01:20:37,640
+Eu sou assim mesmo.
+
+861
+01:20:38,474 --> 01:20:39,975
+Feliz.
+
+862
+01:20:42,186 --> 01:20:43,729
+Feliz.
+
+863
+01:20:47,983 --> 01:20:53,114
+Eu não fui feliz um minuto sequer
+em toda minha vida desgraçada.
+
+864
+01:21:00,079 --> 01:21:01,497
+Sabe o que é engraçado?
+
+865
+01:21:04,250 --> 01:21:06,043
+Sabe o que realmente me faz rir?
+
+866
+01:21:08,421 --> 01:21:10,840
+Eu achava que minha vida era uma tragédia.
+
+867
+01:21:12,591 --> 01:21:14,593
+Mas agora eu entendo
+
+868
+01:21:14,760 --> 01:21:16,345
+que é uma puta comédia.
+
+869
+01:22:26,874 --> 01:22:28,042
+<i>Um excelente ator.</i>
+
+870
+01:22:28,209 --> 01:22:31,212
+<i>Seu novo filme, chamado</i> Playboy Americano,
+
+871
+01:22:31,379 --> 01:22:33,255
+<i>estreia esta semana no país todo.</i>
+
+872
+01:22:33,422 --> 01:22:37,426
+<i>Uma salva de palmas para um bom amigo
+deste programa, Ethan Chase.</i>
+
+873
+01:22:57,113 --> 01:22:58,823
+<i>Bom te ver. Você está ótimo.</i>
+
+874
+01:22:58,989 --> 01:23:01,992
+<i>-Obrigado. Você também está ótimo.
+-Não posso me queixar.</i>
+
+875
+01:23:02,451 --> 01:23:04,745
+Oi, Murray. Muito obrigado por me...
+
+876
+01:23:06,080 --> 01:23:09,291
+Oi, Murray. Muito obrigado
+por me receber no programa.
+
+877
+01:23:09,875 --> 01:23:12,002
+Esse sempre foi o meu sonho.
+
+878
+01:23:14,296 --> 01:23:15,464
+<i>Estou nervoso agora.</i>
+
+879
+01:23:17,299 --> 01:23:18,592
+<i>-Está?
+-Estou.</i>
+
+880
+01:23:19,552 --> 01:23:21,095
+Ei, Murray. Eu estive...
+
+881
+01:23:34,525 --> 01:23:35,985
+Desculpe. O que disse?
+
+882
+01:23:37,361 --> 01:23:39,155
+Muito engraçado, Murray.
+
+883
+01:23:40,448 --> 01:23:42,616
+Sabe, eu também sou comediante.
+
+884
+01:23:42,783 --> 01:23:44,243
+Quer ouvir uma piada?
+
+885
+01:23:45,286 --> 01:23:47,496
+É? Todos vocês?
+
+886
+01:23:47,997 --> 01:23:48,998
+Tudo bem.
+
+887
+01:23:53,210 --> 01:23:54,336
+Toc toc!
+
+888
+01:25:35,312 --> 01:25:38,315
+AMO SEU SORRISO...
+TW
+
+889
+01:26:06,844 --> 01:26:07,928
+Já vou!
+
+890
+01:26:19,023 --> 01:26:20,441
+Oi, Arthur.
+
+891
+01:26:20,608 --> 01:26:21,609
+Como vai você?
+
+892
+01:26:22,610 --> 01:26:23,903
+Oi, gente.
+
+893
+01:26:24,445 --> 01:26:25,571
+Entrem.
+
+894
+01:26:26,030 --> 01:26:27,156
+Conseguiu outro emprego?
+
+895
+01:26:27,865 --> 01:26:28,866
+Não.
+
+896
+01:26:29,784 --> 01:26:32,828
+Você tem que participar
+do protesto na prefeitura.
+
+897
+01:26:32,995 --> 01:26:34,663
+Ouvi dizer que vai ser demais.
+
+898
+01:26:34,830 --> 01:26:36,415
+Vai ser hoje?
+
+899
+01:26:37,124 --> 01:26:38,125
+Sim.
+
+900
+01:26:39,043 --> 01:26:40,461
+Que maquiagem é essa?
+
+901
+01:26:41,921 --> 01:26:43,422
+Minha mãe morreu.
+
+902
+01:26:43,589 --> 01:26:44,799
+Estou comemorando.
+
+903
+01:26:45,716 --> 01:26:46,717
+É, nós soubemos.
+
+904
+01:26:46,884 --> 01:26:47,927
+Por isso viemos.
+
+905
+01:26:48,094 --> 01:26:50,805
+Achamos que precisava
+de algo para te animar.
+
+906
+01:26:51,347 --> 01:26:52,973
+Que amáveis.
+
+907
+01:26:53,140 --> 01:26:56,018
+Mas, não, eu estou bem.
+
+908
+01:26:56,811 --> 01:26:58,437
+Parei de tomar meus remédios.
+
+909
+01:26:58,604 --> 01:27:00,231
+Estou me sentindo melhor.
+
+910
+01:27:02,358 --> 01:27:04,860
+Certo. Que ótimo.
+
+911
+01:27:06,987 --> 01:27:09,865
+Ouça, eu não sei se você soube,
+
+912
+01:27:10,032 --> 01:27:12,451
+mas os policiais
+têm aparecido no trabalho,
+
+913
+01:27:13,202 --> 01:27:17,123
+falando com todo mundo
+sobre os assassinatos no metrô.
+
+914
+01:27:17,957 --> 01:27:19,041
+Não falaram comigo.
+
+915
+01:27:21,001 --> 01:27:23,671
+Porque o suspeito
+é uma pessoa de tamanho normal.
+
+916
+01:27:24,213 --> 01:27:26,716
+Se fosse um anão,
+você já estaria na cadeia.
+
+917
+01:27:32,513 --> 01:27:33,764
+Enfim...
+
+918
+01:27:33,931 --> 01:27:37,935
+Hoyt disse que eles falaram com você.
+
+919
+01:27:38,102 --> 01:27:41,063
+Agora estão me procurando,
+e quero saber o que disse,
+
+920
+01:27:41,230 --> 01:27:42,648
+para alinhar a história,
+
+921
+01:27:42,815 --> 01:27:45,860
+já que você é meu garoto.
+
+922
+01:27:46,026 --> 01:27:47,737
+-Faz sentido.
+-Você entende?
+
+923
+01:27:47,862 --> 01:27:49,530
+Muito obrigado, Randall.
+
+924
+01:27:55,327 --> 01:27:56,328
+Arthur!
+
+925
+01:27:56,996 --> 01:27:58,330
+Não!
+
+926
+01:27:59,665 --> 01:28:00,666
+O que é isso?
+
+927
+01:28:02,001 --> 01:28:03,002
+Não!
+
+928
+01:28:10,926 --> 01:28:13,012
+Por que fez isso, Arthur?
+
+929
+01:28:34,075 --> 01:28:36,577
+Você vê o Murray Franklin Show?
+
+930
+01:28:36,744 --> 01:28:37,745
+Tá.
+
+931
+01:28:39,080 --> 01:28:40,873
+Vou participar esta noite.
+
+932
+01:28:45,169 --> 01:28:48,839
+É uma loucura, não? Eu na televisão.
+
+933
+01:28:50,883 --> 01:28:52,843
+O que é isso, Arthur?
+
+934
+01:28:54,095 --> 01:28:55,179
+O quê?
+
+935
+01:29:00,184 --> 01:29:01,394
+Está tudo bem, Gary.
+
+936
+01:29:01,852 --> 01:29:02,853
+Você pode ir.
+
+937
+01:29:05,439 --> 01:29:07,066
+Eu não vou te machucar.
+
+938
+01:29:11,737 --> 01:29:13,823
+Não olhe. Vá embora.
+
+939
+01:29:26,377 --> 01:29:27,378
+Merda.
+
+940
+01:29:32,675 --> 01:29:33,843
+Ei, Arthur?
+
+941
+01:29:34,009 --> 01:29:35,010
+Sim?
+
+942
+01:29:36,220 --> 01:29:38,639
+Arthur, pode destrancar a porta?
+
+943
+01:29:41,851 --> 01:29:42,852
+Merda.
+
+944
+01:29:43,310 --> 01:29:44,770
+Desculpe, Gary.
+
+945
+01:29:55,740 --> 01:29:56,782
+Gary?
+
+946
+01:29:56,949 --> 01:29:57,950
+Sim?
+
+947
+01:30:00,494 --> 01:30:03,080
+Você foi o único que foi legal comigo.
+
+948
+01:30:05,166 --> 01:30:06,375
+Vai!
+
+949
+01:31:33,629 --> 01:31:34,964
+Ei, Arthur!
+
+950
+01:31:35,131 --> 01:31:36,507
+Precisamos conversar.
+
+951
+01:31:37,967 --> 01:31:39,969
+Ei! Pare, Arthur!
+
+952
+01:31:45,391 --> 01:31:46,475
+Arthur!
+
+953
+01:31:49,061 --> 01:31:50,688
+Cuidado! Saia da frente!
+
+954
+01:31:53,858 --> 01:31:54,859
+Saia!
+
+955
+01:31:57,027 --> 01:31:57,862
+Arthur!
+
+956
+01:32:10,666 --> 01:32:11,667
+Arthur, pare!
+
+957
+01:32:17,381 --> 01:32:18,382
+Vamos!
+
+958
+01:32:20,509 --> 01:32:22,386
+<i>Partindo, Trem-0, centro.</i>
+
+959
+01:32:24,346 --> 01:32:26,098
+<i>Afastem-se das portas.</i>
+
+960
+01:32:32,396 --> 01:32:33,898
+GANÂNCIA
+
+961
+01:32:35,524 --> 01:32:38,152
+Segurem esse trem! Segurem!
+
+962
+01:32:40,071 --> 01:32:41,280
+Saia! Saia daí!
+
+963
+01:32:42,406 --> 01:32:43,949
+<i>Próxima parada, Bedford Park.</i>
+
+964
+01:32:58,422 --> 01:32:59,423
+Tirem as máscaras!
+
+965
+01:32:59,590 --> 01:33:00,966
+Tire a máscara!
+
+966
+01:33:01,801 --> 01:33:03,552
+Abaixem os cartazes! Agora!
+
+967
+01:33:12,728 --> 01:33:14,188
+Polícia! Abaixem os cartazes!
+
+968
+01:33:15,356 --> 01:33:16,440
+Abaixem os cartazes!
+
+969
+01:33:21,153 --> 01:33:22,321
+O que foi?
+
+970
+01:33:25,241 --> 01:33:26,450
+Acabem com ele!
+
+971
+01:33:33,165 --> 01:33:34,709
+Parem essa briga! Polícia!
+
+972
+01:33:34,875 --> 01:33:37,002
+Polícia! Abaixem-se!
+
+973
+01:33:39,171 --> 01:33:41,298
+Abaixem-se! Para trás!
+
+974
+01:33:42,383 --> 01:33:43,384
+Polícia! Abaixem-se!
+
+975
+01:33:44,301 --> 01:33:45,428
+Abaixem-se!
+
+976
+01:33:50,141 --> 01:33:51,934
+Fique aí, caramba!
+
+977
+01:33:56,188 --> 01:33:57,189
+O que...
+
+978
+01:34:00,568 --> 01:34:01,569
+Arthur!
+
+979
+01:34:02,361 --> 01:34:03,195
+Burke!
+
+980
+01:34:04,822 --> 01:34:06,282
+Não façam isso!
+
+981
+01:34:50,785 --> 01:34:52,787
+AO VIVO COM MURRAY FRANKLIN
+
+982
+01:34:56,082 --> 01:34:58,751
+<i>Dois policiais foram
+confrontados pela multidão</i>
+
+983
+01:34:58,918 --> 01:35:01,712
+<i>e estão no hospital,
+em estado grave, mas estável.</i>
+
+984
+01:35:01,879 --> 01:35:03,381
+COLOQUE UM SORRISO NESSA CARA
+
+985
+01:35:03,547 --> 01:35:06,175
+<i>Vamos falar ao vivo
+com a repórter Courtney Weathers,</i>
+
+986
+01:35:06,342 --> 01:35:08,260
+<i>que está em frente à estação Bedford Park,</i>
+
+987
+01:35:08,427 --> 01:35:10,262
+<i>perto do local dos disparos.</i>
+
+988
+01:35:10,429 --> 01:35:12,306
+<i>Courtney, qual é a situação aí?</i>
+
+989
+01:35:17,520 --> 01:35:18,354
+Murray.
+
+990
+01:35:18,521 --> 01:35:20,106
+Ei. É Sr. Franklin, amigo.
+
+991
+01:35:20,272 --> 01:35:22,650
+Qual é, Gene. Isso é uma bobagem.
+
+992
+01:35:23,734 --> 01:35:24,944
+Obrigado, Murray.
+
+993
+01:35:26,153 --> 01:35:27,905
+É como se eu te conhecesse.
+
+994
+01:35:28,406 --> 01:35:30,241
+Eu te assisto desde sempre.
+
+995
+01:35:30,408 --> 01:35:31,534
+Obrigado.
+
+996
+01:35:31,701 --> 01:35:32,993
+Por que está pintado?
+
+997
+01:35:33,160 --> 01:35:35,121
+Você faz parte dos protestos?
+
+998
+01:35:35,287 --> 01:35:36,288
+Não.
+
+999
+01:35:36,455 --> 01:35:38,207
+Não acredito em nada disso.
+
+1000
+01:35:38,916 --> 01:35:40,501
+Não acredito em nada.
+
+1001
+01:35:41,127 --> 01:35:42,670
+É só para a apresentação.
+
+1002
+01:35:42,837 --> 01:35:43,838
+Para a apresentação?
+
+1003
+01:35:44,004 --> 01:35:45,756
+Um palhaço foi morto no metrô.
+
+1004
+01:35:45,923 --> 01:35:47,466
+Ele está sabendo disso.
+
+1005
+01:35:47,633 --> 01:35:48,884
+Não, eu não sabia.
+
+1006
+01:35:49,343 --> 01:35:50,678
+-Tá.
+-É disso que eu falo.
+
+1007
+01:35:50,845 --> 01:35:52,888
+A plateia vai detestar vê-lo.
+
+1008
+01:35:53,055 --> 01:35:55,182
+Um pouco, talvez, mas não o bloco todo.
+
+1009
+01:35:55,349 --> 01:35:57,560
+Gene, vai dar certo. Vai dar, sim.
+
+1010
+01:35:58,352 --> 01:35:59,437
+Vamos seguir com ele.
+
+1011
+01:36:00,688 --> 01:36:01,689
+Obrigado, Murray.
+
+1012
+01:36:02,273 --> 01:36:03,399
+Mas algumas regras.
+
+1013
+01:36:03,566 --> 01:36:05,317
+Nada de palavrões ou vulgaridades.
+
+1014
+01:36:05,484 --> 01:36:06,944
+É um programa decente.
+
+1015
+01:36:07,111 --> 01:36:08,112
+-Certo?
+-Sim.
+
+1016
+01:36:08,279 --> 01:36:09,864
+Você entra após a Dra. Sally.
+
+1017
+01:36:10,030 --> 01:36:11,031
+Adoro a Dra. Sally.
+
+1018
+01:36:11,198 --> 01:36:12,199
+Que ótimo.
+
+1019
+01:36:12,324 --> 01:36:14,827
+-Alguém virá te buscar, tá?
+-Tá. Perfeito.
+
+1020
+01:36:14,994 --> 01:36:15,953
+Boa sorte.
+
+1021
+01:36:16,162 --> 01:36:17,163
+Obrigado, Murray.
+
+1022
+01:36:18,372 --> 01:36:20,499
+Murray, só uma coisinha.
+
+1023
+01:36:20,666 --> 01:36:21,584
+Sim?
+
+1024
+01:36:21,751 --> 01:36:23,419
+Quando me chamar,
+
+1025
+01:36:23,586 --> 01:36:25,463
+pode me apresentar como Coringa?
+
+1026
+01:36:25,629 --> 01:36:27,339
+Por que não usa seu nome?
+
+1027
+01:36:27,965 --> 01:36:30,217
+Foi assim que me chamou no programa.
+
+1028
+01:36:30,384 --> 01:36:31,510
+Coringa.
+
+1029
+01:36:31,677 --> 01:36:32,678
+Você se lembra?
+
+1030
+01:36:33,054 --> 01:36:35,056
+-Chamei?
+-Não sei.
+
+1031
+01:36:35,222 --> 01:36:37,308
+Se é o que você quer, então Coringa.
+
+1032
+01:36:37,475 --> 01:36:38,476
+É bom.
+
+1033
+01:36:38,642 --> 01:36:39,727
+Obrigado, Murray.
+
+1034
+01:37:01,791 --> 01:37:05,002
+Vou tentar, mas não sei
+se minha esposa vai deixar.
+
+1035
+01:37:06,462 --> 01:37:07,797
+Talvez a próxima esposa.
+
+1036
+01:37:11,509 --> 01:37:13,260
+Tem que ver o próximo convidado.
+
+1037
+01:37:13,427 --> 01:37:15,471
+Na certa, ele precisa de um médico.
+
+1038
+01:37:16,555 --> 01:37:18,265
+Ele tem problemas sexuais?
+
+1039
+01:37:18,432 --> 01:37:20,935
+Ele parece ter muitos problemas.
+
+1040
+01:37:22,061 --> 01:37:24,688
+Bobby, vamos mostrar o vídeo
+uma última vez.
+
+1041
+01:37:31,112 --> 01:37:33,989
+<i>Eu detestava a escola quando era criança.</i>
+
+1042
+01:37:35,783 --> 01:37:37,952
+<i>Mas minha mãe sempre dizia:</i>
+
+1043
+01:37:38,994 --> 01:37:43,457
+<i>"Deveria aproveitar.
+Um dia, vai ter que trabalhar para viver."</i>
+
+1044
+01:37:43,624 --> 01:37:46,836
+<i>"Não, não vou, mãe.
+Eu vou ser comediante."</i>
+
+1045
+01:37:53,134 --> 01:37:54,301
+Tudo bem.
+
+1046
+01:37:56,887 --> 01:38:00,141
+Talvez tenham visto esse vídeo
+do próximo convidado.
+
+1047
+01:38:00,307 --> 01:38:02,685
+Antes que ele entre, só quero dizer
+
+1048
+01:38:02,852 --> 01:38:06,397
+que estamos arrasados
+com o que está acontecendo na cidade hoje.
+
+1049
+01:38:06,564 --> 01:38:08,858
+Mas é assim que ele quer se apresentar
+
+1050
+01:38:09,024 --> 01:38:12,236
+e, francamente,
+acho que estamos todos precisando rir.
+
+1051
+01:38:12,403 --> 01:38:14,572
+Uma salva de palmas para o Coringa.
+
+1052
+01:38:37,928 --> 01:38:41,807
+APLAUSOS
+
+1053
+01:38:57,198 --> 01:38:58,574
+Tudo bem, doutora?
+
+1054
+01:39:02,411 --> 01:39:04,872
+Bom, foi uma entrada e tanto.
+
+1055
+01:39:11,420 --> 01:39:12,421
+Você está bem?
+
+1056
+01:39:15,257 --> 01:39:16,675
+Sim.
+
+1057
+01:39:16,842 --> 01:39:19,553
+É exatamente como eu imaginava.
+
+1058
+01:39:21,514 --> 01:39:23,307
+Bem, não posso dizer o mesmo.
+
+1059
+01:39:30,189 --> 01:39:32,358
+Pode nos falar sobre este visual?
+
+1060
+01:39:32,525 --> 01:39:35,903
+Quando conversamos antes,
+disse que não era algo político.
+
+1061
+01:39:36,070 --> 01:39:37,113
+Correto?
+
+1062
+01:39:37,279 --> 01:39:38,906
+Exato. Eu não sou político.
+
+1063
+01:39:39,073 --> 01:39:41,617
+Só estou tentando fazer as pessoas rirem.
+
+1064
+01:39:41,784 --> 01:39:43,411
+E como você está se saindo?
+
+1065
+01:39:51,877 --> 01:39:53,713
+Bom, sei que você é comediante.
+
+1066
+01:39:53,879 --> 01:39:56,924
+Está trabalhando em novo material?
+Quer contar uma piada?
+
+1067
+01:40:02,638 --> 01:40:03,639
+Sim?
+
+1068
+01:40:05,808 --> 01:40:06,809
+Tudo bem.
+
+1069
+01:40:12,857 --> 01:40:14,483
+Ele tem um caderno.
+
+1070
+01:40:15,401 --> 01:40:16,861
+Um caderno de piadas.
+
+1071
+01:40:19,905 --> 01:40:22,908
+Só espero que minha morte levante mais
+dinheiro do que a minha vida
+
+1072
+01:40:26,704 --> 01:40:28,080
+Sem pressa. Temos a noite toda.
+
+1073
+01:40:34,128 --> 01:40:36,422
+Tá, tudo bem, lá vai uma.
+
+1074
+01:40:39,550 --> 01:40:42,053
+Toc toc.
+
+1075
+01:40:42,219 --> 01:40:43,554
+Teve que procurar isso?
+
+1076
+01:40:50,686 --> 01:40:52,313
+Quero fazer direito.
+
+1077
+01:40:54,148 --> 01:40:55,691
+Toc toc.
+
+1078
+01:40:55,858 --> 01:40:57,359
+Quem é?
+
+1079
+01:40:58,819 --> 01:41:00,237
+É a polícia, senhora.
+
+1080
+01:41:00,404 --> 01:41:03,616
+Seu filho foi atropelado por um bêbado.
+Ele está morto.
+
+1081
+01:41:06,744 --> 01:41:08,329
+Oh, não.
+
+1082
+01:41:08,496 --> 01:41:10,247
+Não se pode brincar com isso.
+
+1083
+01:41:10,414 --> 01:41:12,375
+É, isso não é engraçado, Arthur.
+
+1084
+01:41:12,541 --> 01:41:15,002
+Esse não é o tipo de humor deste programa.
+
+1085
+01:41:15,586 --> 01:41:17,880
+Está certo. É, desculpe.
+
+1086
+01:41:18,047 --> 01:41:22,426
+Acontece que as últimas semanas
+foram difíceis para mim, Murray.
+
+1087
+01:41:24,011 --> 01:41:25,846
+Desde que...
+
+1088
+01:41:28,391 --> 01:41:30,518
+matei aqueles caras de Wall Street.
+
+1089
+01:41:37,108 --> 01:41:39,068
+Estou esperando o desfecho da piada.
+
+1090
+01:41:40,569 --> 01:41:42,279
+Não tem desfecho.
+
+1091
+01:41:43,697 --> 01:41:45,574
+Não é piada.
+
+1092
+01:41:50,246 --> 01:41:51,330
+Fala sério, não?
+
+1093
+01:41:51,497 --> 01:41:53,708
+Está dizendo que matou os três jovens?
+
+1094
+01:41:53,874 --> 01:41:54,875
+Sim.
+
+1095
+01:41:55,042 --> 01:41:56,752
+Por que deveríamos acreditar?
+
+1096
+01:41:56,919 --> 01:41:58,879
+Eu não tenho mais nada a perder.
+
+1097
+01:42:00,881 --> 01:42:02,925
+Nada mais pode me machucar.
+
+1098
+01:42:06,095 --> 01:42:08,973
+Minha vida não passa de uma comédia.
+
+1099
+01:42:12,601 --> 01:42:15,980
+Deixe-me entender,
+acha que matar aqueles caras tem graça?
+
+1100
+01:42:16,647 --> 01:42:18,149
+Eu acho.
+
+1101
+01:42:18,315 --> 01:42:20,943
+E estou cansado
+de fazer de conta que não é.
+
+1102
+01:42:21,110 --> 01:42:22,987
+A comédia é subjetiva, Murray.
+
+1103
+01:42:23,446 --> 01:42:25,156
+Não é o que dizem?
+
+1104
+01:42:25,322 --> 01:42:27,074
+Todos vocês,
+
+1105
+01:42:27,241 --> 01:42:29,827
+o sistema que sabe tanto,
+
+1106
+01:42:29,994 --> 01:42:32,705
+vocês decidem o que é certo ou errado.
+
+1107
+01:42:32,872 --> 01:42:38,085
+Assim como vocês decidem
+o que é engraçado ou não é.
+
+1108
+01:42:39,420 --> 01:42:40,421
+Bote-o para fora!
+
+1109
+01:42:41,172 --> 01:42:44,842
+Pois bem,
+acho que eu poderia deduzir então
+
+1110
+01:42:45,176 --> 01:42:48,763
+que você começou um movimento,
+para se tornar um símbolo?
+
+1111
+01:42:49,388 --> 01:42:50,931
+Qual é, Murray!
+
+1112
+01:42:51,098 --> 01:42:53,934
+Pareço o tipo de palhaço
+que começaria um movimento?
+
+1113
+01:42:54,101 --> 01:42:56,937
+Matei aqueles caras
+porque eles eram horríveis.
+
+1114
+01:42:57,104 --> 01:42:59,607
+Todo mundo é horrível hoje em dia.
+
+1115
+01:42:59,774 --> 01:43:02,068
+Só isso já faz qualquer um enlouquecer.
+
+1116
+01:43:02,234 --> 01:43:03,986
+Então é isso, você está louco.
+
+1117
+01:43:04,153 --> 01:43:06,447
+É sua desculpa para matar três jovens?
+
+1118
+01:43:07,073 --> 01:43:08,616
+Não.
+
+1119
+01:43:08,783 --> 01:43:12,119
+Eles nem sabiam cantar,
+para poderem se salvar.
+
+1120
+01:43:14,455 --> 01:43:17,375
+Por que todo mundo se abala
+por causa deles?
+
+1121
+01:43:18,250 --> 01:43:21,462
+Se fosse eu morrendo na calçada,
+passariam por cima.
+
+1122
+01:43:21,629 --> 01:43:23,756
+Passo todo dia por vocês, e não me notam.
+
+1123
+01:43:23,923 --> 01:43:27,802
+Mas e esses caras? Só porque Thomas Wayne
+chorou por eles na TV?
+
+1124
+01:43:27,968 --> 01:43:30,012
+Tem um problema com Thomas Wayne?
+
+1125
+01:43:30,179 --> 01:43:32,098
+Sim, eu tenho.
+
+1126
+01:43:32,264 --> 01:43:35,684
+Você já viu como é lá fora, Murray?
+
+1127
+01:43:35,851 --> 01:43:38,896
+Alguma vez você sai de verdade do estúdio?
+
+1128
+01:43:39,063 --> 01:43:42,900
+Todas as pessoas só berram
+e gritam umas com as outras.
+
+1129
+01:43:43,067 --> 01:43:45,236
+Ninguém mais é civilizado.
+
+1130
+01:43:45,403 --> 01:43:48,989
+Ninguém pensa como é estar
+no lugar da outra pessoa.
+
+1131
+01:43:49,782 --> 01:43:54,620
+Acha que homens como Thomas Wayne
+se perguntam como é ser alguém como eu?
+
+1132
+01:43:54,787 --> 01:43:57,498
+Ser alguém senão eles mesmos?
+Não se perguntam.
+
+1133
+01:43:57,665 --> 01:44:02,420
+Eles acham que vamos ficar quietinhos
+e aguentar tudo como bons meninos!
+
+1134
+01:44:02,586 --> 01:44:04,672
+Sem reagir, sem perder o controle!
+
+1135
+01:44:04,839 --> 01:44:06,465
+Você terminou?
+
+1136
+01:44:06,632 --> 01:44:08,968
+Digo, é muita autopiedade, Arthur.
+
+1137
+01:44:09,135 --> 01:44:12,179
+Está inventando desculpas
+por ter matado aqueles jovens.
+
+1138
+01:44:12,346 --> 01:44:15,683
+Nem todo mundo, eu te garanto,
+nem todo mundo é horrível.
+
+1139
+01:44:17,977 --> 01:44:19,186
+Você é horrível.
+
+1140
+01:44:19,353 --> 01:44:21,230
+Eu? Eu sou horrível?
+
+1141
+01:44:21,397 --> 01:44:23,149
+Ah, é? Por que sou horrível?
+
+1142
+01:44:25,317 --> 01:44:26,777
+Mostrando meu vídeo,
+
+1143
+01:44:28,195 --> 01:44:30,072
+convidando-me para o programa.
+
+1144
+01:44:31,157 --> 01:44:33,492
+Você só queria debochar de mim.
+
+1145
+01:44:34,493 --> 01:44:36,454
+Você é igualzinho a todos eles.
+
+1146
+01:44:36,620 --> 01:44:38,539
+Não sabe nada sobre mim, amigo.
+
+1147
+01:44:38,706 --> 01:44:41,292
+Olhe o que houve
+por causa do que você fez.
+
+1148
+01:44:41,459 --> 01:44:43,169
+Estão acontecendo motins.
+
+1149
+01:44:43,335 --> 01:44:46,005
+Há dois policiais em estado crítico,
+e você ri.
+
+1150
+01:44:46,172 --> 01:44:47,173
+Está rindo.
+
+1151
+01:44:47,339 --> 01:44:50,176
+Uma pessoa morreu hoje
+por causa do que você fez.
+
+1152
+01:44:50,342 --> 01:44:51,802
+Eu sei.
+
+1153
+01:44:54,388 --> 01:44:55,598
+Que tal outra piada?
+
+1154
+01:44:55,765 --> 01:44:57,391
+Não, chega das suas piadas.
+
+1155
+01:44:57,558 --> 01:44:58,768
+-O que recebe...
+-Chega.
+
+1156
+01:44:58,934 --> 01:45:01,479
+...quando cruza um solitário doente mental
+
+1157
+01:45:01,645 --> 01:45:05,191
+com uma sociedade
+que o abandona e o trata que nem lixo?
+
+1158
+01:45:05,357 --> 01:45:06,358
+Ligue para a polícia!
+
+1159
+01:45:06,525 --> 01:45:07,818
+-Vou te dizer!
+-Ligue.
+
+1160
+01:45:07,985 --> 01:45:09,653
+Você recebe o que merece!
+
+1161
+01:45:46,190 --> 01:45:49,527
+<i>Boa noite. E lembrem-se sempre, é a...</i>
+
+1162
+01:45:54,698 --> 01:45:55,950
+<i>Plantão de notícias.</i>
+
+1163
+01:45:56,117 --> 01:45:58,661
+<i>O popular apresentador de TV
+Murray Franklin</i>
+
+1164
+01:45:58,828 --> 01:46:00,955
+<i>foi morto a tiros hoje
+durante seu programa.</i>
+
+1165
+01:46:01,122 --> 01:46:06,377
+<i>O homem que foi apresentado por Franklin
+como "Coringa" está agora preso.</i>
+
+1166
+01:46:06,544 --> 01:46:10,715
+<i>A polícia conduziu o suspeito
+algemado para fora do estúdio.</i>
+
+1167
+01:46:10,881 --> 01:46:13,426
+<i>...simplesmente como
+o desfecho de uma piada.</i>
+
+1168
+01:46:13,592 --> 01:46:15,177
+<i>Você recebe o que merece!</i>
+
+1169
+01:46:15,344 --> 01:46:17,513
+<i>Saques e motins se intensificaram...</i>
+
+1170
+01:46:17,680 --> 01:46:19,014
+<i>...motins por toda a cidade.</i>
+
+1171
+01:46:19,181 --> 01:46:20,933
+<i>...abandona e trata como lixo?</i>
+
+1172
+01:46:21,100 --> 01:46:22,435
+<i>Uma multidão de palhaços...</i>
+
+1173
+01:46:22,601 --> 01:46:24,061
+<i>...com máscaras de palhaços.</i>
+
+1174
+01:46:26,397 --> 01:46:29,483
+<i>Se fosse eu morrendo na calçada,
+passariam por cima.</i>
+
+1175
+01:46:29,942 --> 01:46:32,194
+<i>-Aos ignorados pelo sistema.
+-É a vida!</i>
+
+1176
+01:46:32,361 --> 01:46:35,030
+<i>Como vocês veem, Gotham está em chamas.</i>
+
+1177
+01:47:30,252 --> 01:47:32,254
+Pare de rir, esquisito! Não tem graça.
+
+1178
+01:47:32,880 --> 01:47:35,216
+A cidade está em chamas por sua causa.
+
+1179
+01:47:36,425 --> 01:47:40,346
+<i>Todas as unidades, fogo reportado
+ao norte do beco. Médicos no local.</i>
+
+1180
+01:47:40,971 --> 01:47:42,431
+Eu sei.
+
+1181
+01:47:43,933 --> 01:47:45,935
+Não é bonito?
+
+1182
+01:49:11,479 --> 01:49:13,189
+EM CARTAZ
+UM TIRO NA NOITE
+
+1183
+01:49:13,355 --> 01:49:15,649
+AS DUAS FACES DE ZORRO
+
+1184
+01:49:25,951 --> 01:49:27,078
+RESISTA
+
+1185
+01:49:28,412 --> 01:49:29,747
+Vamos para lá.
+
+1186
+01:49:47,640 --> 01:49:48,766
+Ei, Wayne.
+
+1187
+01:49:49,725 --> 01:49:51,477
+Você recebe o que merece.
+
+1188
+01:49:51,644 --> 01:49:52,770
+Não! Amigo!
+
+1189
+01:50:33,561 --> 01:50:35,563
+Vamos, levante-se!
+
+1190
+01:50:35,730 --> 01:50:37,690
+Vamos, cara, levante-se!
+
+1191
+01:53:16,891 --> 01:53:18,976
+O que é tão engraçado?
+
+1192
+01:53:22,980 --> 01:53:24,565
+Eu estava pensando numa piada.
+
+1193
+01:53:43,751 --> 01:53:45,753
+Você quer contar para mim?
+
+1194
+01:53:51,926 --> 01:53:53,552
+Você não entenderia.
+
+1195
+01:54:05,606 --> 01:54:07,274
+<i>É a vida</i>
+
+1196
+01:54:08,901 --> 01:54:11,821
+<i>E por mais estranho que pareça</i>
+
+1197
+01:54:13,280 --> 01:54:15,991
+<i>Algumas pessoas se divertem</i>
+
+1198
+01:54:16,158 --> 01:54:17,993
+<i>Pisoteando sonhos</i>
+
+1199
+01:54:19,328 --> 01:54:22,998
+<i>Mas eu não deixo
+Não deixo isso me abater</i>
+
+1200
+01:54:25,167 --> 01:54:27,336
+<i>Porque este velho mundo</i>
+
+1201
+01:55:32,026 --> 01:55:37,948
+FIM
+
+1202
+01:57:34,356 --> 01:57:38,277
+CORINGA
+
